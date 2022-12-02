@@ -4,9 +4,14 @@ I frequently need full-color SVGs logos/icons of open-source software or brands,
 
 This repo will serve as a source of icons used in my personal projects.
 
-| Icon                                                | Name                                       | Source                                                                                                                         |
+| Logo/Icon                                           | Name                                       | Source                                                                                                                         |
 | --------------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
 | ![](./assets/alpinelinux.svg)                       | Alpine Linux                               | [AlpineLinux.org](https://www.alpinelinux.org/)                                                                                |
+| ![](./assets/amazon.svg)                            | Amazon                                     | [Wikipedia.org](https://en.wikipedia.org/wiki/Amazon_(company))                                                                |
+| ![](./assets/amazon-smile.svg)                      | Amazon (smile)                             | [Wikipedia.org](https://en.wikipedia.org/wiki/Amazon_(company))                                                                |
+| ![](./assets/amazonaws.svg)                         | Amazon AWS                                 | [Wikipedia.org](https://en.wikipedia.org/wiki/Amazon_Web_Services)                                                             |
+| ![](./assets/amd.svg)                               | AMD                                        | [Wikipedia.org](https://en.wikipedia.org/wiki/Advanced_Micro_Devices)                                                          |
+| ![](./assets/amd-wide.svg)                          | AMD (wide)                                 | [Wikipedia.org](https://en.wikipedia.org/wiki/Advanced_Micro_Devices)                                                          |
 | ![](./assets/android.svg)                           | Android                                    | [Android.com](https://developer.android.com/distribute/marketing-tools/brand-guidelines)                                       |
 | ![](./assets/ansible-black.svg)                     | Ansible (black)                            | [Ansible.com](https://www.ansible.com/logos)                                                                                   |
 | ![](./assets/ansible-gray.svg)                      | Ansible (gray)                             | [Ansible.com](https://www.ansible.com/logos)                                                                                   |
@@ -14,7 +19,13 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/ansible-red.svg)                       | Ansible (red)                              | [Ansible.com](https://www.ansible.com/logos)                                                                                   |
 | ![](./assets/ansible-teal.svg)                      | Ansible (teal)                             | [Ansible.com](https://www.ansible.com/logos)                                                                                   |
 | ![](./assets/apache-httpd.svg)                      | Apache HTTPD                               | [Apache.org](https://www.apache.org/logos/)                                                                                    |
+| ![](./assets/appimage.svg)                          | AppImage                                   | [GitHub](https://github.com/AppImage/appimage.github.io/blob/master/img/logo3.svg)                                             |
+| ![](./assets/apple-black.svg)                       | Apple (black)                              | [Wikipedia.org](https://en.wikipedia.org/wiki/Apple_Inc.)                                                                      |
+| ![](./assets/apple-gray.svg)                        | Apple (gray)                               | [Wikipedia.org](https://en.wikipedia.org/wiki/Apple_Inc.)                                                                      |
+| ![](./assets/apple-rainbow.svg)                     | Apple (rainbow)                            | [Wikipedia.org](https://en.wikipedia.org/wiki/Apple_Inc.)                                                                      |
 | ![](./assets/archlinux.svg)                         | Arch Linux                                 | [ArchLinux.org](https://archlinux.org/art/)                                                                                    |
+| ![](./assets/argocd.svg)                            | ArgoCD                                     | [GitHub](https://github.com/argoproj/argoproj/blob/master/docs/assets/argo.svg)                                                |
+| ![](./assets/arm.svg)                               | ARM                                        | [Arm.com](https://www.arm.com/company/policies/trademarks/guidelines-corporate-logo)                                           |
 | ![](./assets/backblaze.svg)                         | Backblaze                                  | [Backblaze.com](https://www.backblaze.com/partner/affiliate_resources.html)                                                    |
 | ![](./assets/bash-dark.svg)                         | Bash (dark)                                | [BashLogo.com](https://bashlogo.com/)                                                                                          |
 | ![](./assets/bash-light.svg)                        | Bash (light)                               | [BashLogo.com](https://bashlogo.com/)                                                                                          |
@@ -22,22 +33,31 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/canonical.svg)                         | Canonical                                  | [Ubuntu.com](https://design.ubuntu.com/downloads/)                                                                             |
 | ![](./assets/centos.svg)                            | CentOS                                     | [CentOS.org](https://wiki.centos.org/ArtWork/Brand/Logo)                                                                       |
 | ![](./assets/cert-manager.svg)                      | cert-manager                               | [GitHub](https://github.com/cert-manager/cert-manager/blob/master/logo/logo.svg)                                               |
+| ![](./assets/chrome.svg)                            | Chrome                                     | [Wikipedia.org](https://en.wikipedia.org/wiki/Google_Chrome)                                                                   |
+| ![](./assets/chromium.svg)                          | Chromium                                   | [Wikipedia.org](https://en.wikipedia.org/wiki/Chromium_(web_browser))                                                          |
 | ![](./assets/consul.svg)                            | Consul                                     | [HashiCorp.com](https://www.hashicorp.com/brand)                                                                               |
+| ![](./assets/cyberchef.svg)                         | CyberChef                                  | [GitHub](https://github.com/gchq/CyberChef/blob/master/src/web/static/images/logo/cyberchef_hat.svg)                           |
 | ![](./assets/debian.svg)                            | Debian                                     | [Debian.org](https://www.debian.org/logos/)                                                                                    |
 | ![](./assets/diagramsdotnet-color.svg)              | Diagrams.net (aka Draw.io)                 | [GitHub](https://github.com/jgraph/drawio/blob/dev/src/main/webapp/images/drawlogo-color.svg)                                  |
 | ![](./assets/digitalocean-icon-blue.svg)            | DigitalOcean                               | [DigitalOcean.com](https://www.digitalocean.com/press)                                                                         |
 | ![](./assets/discord.svg)                           | Discord                                    | [Discord.com](https://discord.com/branding)                                                                                    |
+| ![](./assets/docker.svg)                            | Docker                                     | [GitHub](https://github.com/docker/docs/blob/main/assets/images/docker-icon.svg)                                               |
 | ![](./assets/docker-moby.svg)                       | Docker (Moby)                              | [GitHub](https://github.com/docker/docs/blob/main/assets/images/engine.svg)                                                    |
 | ![](./assets/dokuwiki.svg)                          | DokuWiki                                   | [DokuWiki.org](https://www.dokuwiki.org/logo)                                                                                  |
-| ![](./assets/etcd.svg)                              | etcd                                       | [GitHub](https://github.com/etcd-io/etcd/blob/main/logos/etcd-glyph-color.svg)
+| ![](./assets/dronecd.svg)                           | DroneCD                                    | [GitHub](https://github.com/drone/docs/blob/master/static/logo.svg)                                                            |
+| ![](./assets/edge.svg)                              | Edge                                       | [Wikipedia.org](hhttps://en.wikipedia.org/wiki/Microsoft_Edge)                                                                 |
+| ![](./assets/elastic.svg)                           | Elastic Co.                                | [Wikipedia.org](https://en.wikipedia.org/wiki/Elastic_NV)                                                                      |
+| ![](./assets/etcd.svg)                              | etcd                                       | [GitHub](https://github.com/etcd-io/etcd/blob/main/logos/etcd-glyph-color.svg)                                                 |
 | ![](./assets/firefox.svg)                           | Firefox                                    | [Mozilla.design](https://mozilla.design/firefox/)                                                                              |
 | ![](./assets/flathub.svg)                           | Flathub                                    | [GitHub](https://github.com/flathub/website/blob/main/frontend/public/img/logo/flathub-logo-toolbar.svg)                       |
 | ![](./assets/flatpak-black.svg)                     | Flatpak (black)                            | [Flatpak.org](https://flatpak.org/press/)                                                                                      |
 | ![](./assets/flatpak-white.svg)                     | Flatpak (white)                            | [Flatpak.org](https://flatpak.org/press/)                                                                                      |
+| ![](./assets/fluxcd.svg)                            | FluxCD                                     | [GitHub](https://github.com/fluxcd/website/blob/main/assets/icons/logo.svg)                                                    |
 | ![](./assets/focalboard.svg)                        | Focalboard                                 | [GitHub](https://github.com/mattermost/focalboard/blob/main/webapp/static/favicon.svg)                                         |
 | ![](./assets/git.svg)                               | Git                                        | [git-scm.com](https://git-scm.com/downloads/logos)                                                                             |
 | ![](./assets/gitea.svg)                             | Gitea                                      | [GitHub](https://github.com/go-gitea/gitea/blob/main/assets/logo.svg)                                                          |
-| ![](./assets/github-invertocat.svg)                 | GitHub (Invertocat)                        | [GitHub.com](https://github.com/logos)
+| ![](./assets/github-invertocat.svg)                 | GitHub (Invertocat)                        | [GitHub.com](https://github.com/logos)                                                                                         |
+| ![](./assets/github-octocat.svg)                    | GitHub (Octocat)                           | [GitHub.com](https://github.com/logos)                                                                                         |
 | ![](./assets/gitlab.svg)                            | GitLab                                     | [GitLab.com](https://about.gitlab.com/press/press-kit/)                                                                        |
 | ![](./assets/gnome.svg)                             | Gnome                                      | [Gnome.org](https://foundation.gnome.org/logo-and-trademarks/)                                                                 |
 | ![](./assets/gnu-heckert.svg)                       | GNU (Heckert)                              | [GNU.org](https://www.gnu.org/graphics/heckert_gnu.svg)                                                                        |
@@ -50,18 +70,23 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/helm.svg)                              | Helm                                       | [Helm.sh](https://helm.sh/)                                                                                                    |
 | ![](./assets/homeassistant.svg)                     | Home Assistant                             | [GitHub](https://github.com/home-assistant/assets/blob/master/logo/logo.svg)                                                   |
 | ![](./assets/hugo.svg)                              | Hugo                                       | [GoHugo.io](https://gohugo.io/)                                                                                                |
+| ![](./assets/hugo-wide.svg)                         | Hugo (wide)                                | [GoHugo.io](https://gohugo.io/)                                                                                                |
 | ![](./assets/influx-outline.svg)                    | Influx (outline)                           | [GitHub](https://influxdata.github.io/branding/logo/downloads/)                                                                |
 | ![](./assets/influx-solid.svg)                      | Influx (solid)                             | [GitHub](https://influxdata.github.io/branding/logo/downloads/)                                                                |
+| ![](./assets/intel.svg)                             | Intel                                      | [Wikipedia.org](https://en.wikipedia.org/wiki/Intel)                                                                           |
+| ![](./assets/intel-circle.svg)                      | Intel (circle)                             | [Wikipedia.org](https://en.wikipedia.org/wiki/Intel)                                                                           |
 | ![](./assets/jellyfin.svg)                          | Jellyfin                                   | [GitHub](https://github.com/jellyfin/jellyfin-ux/blob/master/branding/SVG/icon-transparent.svg)                                |
 | ![](./assets/k3s.svg)                               | K3s                                        | [Rancher.com](https://www.rancher.com/brand-guidelines)                                                                        |
 | ![](./assets/kde.svg)                               | KDE                                        | [KDE.org](https://kde.org/stuff/clipart/)                                                                                      |
 | ![](./assets/kubernetes.svg)                        | Kubernetes                                 | [GitHub](https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg)                                                   |
 | ![](./assets/letsencrypt.svg)                       | Let's Encrypt                              | [LetsEncrypt.org](https://letsencrypt.org/trademarks/)                                                                         |
 | ![](./assets/libreoffice.svg)                       | LibreOffice                                | [DocumentFoundation.org](https://wiki.documentfoundation.org/Gallery_Logos)                                                    |
+| ![](./assets/linux.svg)                             | Linux (Tux)                                | [Wikipedia.org](https://en.wikipedia.org/wiki/Linux)                                                                           |
 | ![](./assets/longhorn.svg)                          | Longhorn                                   | [Rancher.com](https://www.rancher.com/brand-guidelines)                                                                        |
 | ![](./assets/mariadb.svg)                           | MariaDB                                    | [MariaDB.com](https://mariadb.com/about-us/logos/)                                                                             |
 | ![](./assets/mattermost-black.svg)                  | Mattermost (black)                         | [Mattermost.com](https://handbook.mattermost.com/operations/operations/company-processes/publishing/publishing-guidelines/brand-and-visual-design-guidelines) |
 | ![](./assets/mattermost-blue.svg)                   | Mattermost (blue)                          | [Mattermost.com](https://handbook.mattermost.com/operations/operations/company-processes/publishing/publishing-guidelines/brand-and-visual-design-guidelines) |
+| ![](./assets/microsoft.svg)                         | Microsoft                                  | [Wikipedia.org](https://en.wikipedia.org/wiki/Microsoft)                                                                       |
 | ![](./assets/miniflux.svg)                          | Miniflux                                   | [GitHub](https://github.com/miniflux/logo/blob/master/icon.svg)                                                                |
 | ![](./assets/mongodb-forest-green.svg)              | MongoDB (forest green)                     | [MongoDB.com](https://www.mongodb.com/brand-resources)                                                                         |
 | ![](./assets/mongodb-spring-green.svg)              | MongoDB (spring green)                     | [MongoDB.com](https://www.mongodb.com/brand-resources)                                                                         |
@@ -70,74 +95,65 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/nextcloud.svg)                         | Nextcloud                                  | [Nextcloud.com](https://nextcloud.com/press/)                                                                                  |
 | ![](./assets/nginx.svg)                             | Nginx                                      | [Nginx.com](https://www.nginx.com/)                                                                                            |
 | ![](./assets/nomad.svg)                             | Nomad                                      | [HashiCorp.com](https://www.hashicorp.com/brand)                                                                               |
+| ![](./assets/nvidia.svg)                            | Nvidia                                     | [Wikipedia.org](https://en.wikipedia.org/wiki/Nvidia)                                                                          |
+| ![](./assets/nvidia-wide.svg)                       | Nvidia (wide)                              | [Wikipedia.org](https://en.wikipedia.org/wiki/Nvidia)                                                                          |
 | ![](./assets/opensearch.svg)                        | OpenSearch                                 | [OpenSearch.org](https://opensearch.org/brand.html)                                                                            |
+| ![](./assets/openvpn.svg)                           | OpenVPN                                    | [OpenVPN.net](https://openvpn.net/)                                                                                            |
+| ![](./assets/openwrt.svg)                           | OpenWRT                                    | [GitHub](https://github.com/openwrt/branding/blob/master/logo/openwrt_logo_blue_and_dark_blue.svg)                             |
 | ![](./assets/opensourcehardware.svg)                | Open Source Hardware                       | [OSHWA.org](https://www.oshwa.org/open-source-hardware-logo/)                                                                  |
 | ![](./assets/opensourceinitiative.svg)              | Open Source Initiative                     | [OpenSource.org](https://opensource.org/logo-usage-guidelines)                                                                 |
 | ![](./assets/packer.svg)                            | Packer                                     | [HashiCorp.com](https://www.hashicorp.com/brand)                                                                               |
+| ![](./assets/pfsense.svg)                           | pfSense                                    | [Wikipedia.org](https://en.wikipedia.org/wiki/PfSense)                                                                         |
 | ![](./assets/php.svg)                               | PHP                                        | [PHP.net](https://www.php.net/download-logos.php)                                                                              |
 | ![](./assets/portainer.svg)                         | Portainer                                  | [GitHub](https://github.com/portainer/portainer/blob/develop/app/assets/images/logo_alt.svg)                                   |
 | ![](./assets/postgresql-slonik.svg)                 | PostgreSQL (Slonik)                        | [PostgreSQL.org](https://wiki.postgresql.org/wiki/Logo)                                                                        |
 | ![](./assets/prometheus.svg)                        | Prometheus                                 | [GitHub](https://github.com/prometheus/prometheus/blob/main/documentation/images/prometheus-logo.svg)                          |
+| ![](./assets/proxmox.svg)                           | Proxmox                                    | [Wikipedia.org](https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment)                                                     |
 | ![](./assets/python.svg)                            | Python                                     | [Python.org](https://www.python.org/community/logos/)                                                                          |
 | ![](./assets/rancher-cow.svg)                       | Rancher (cow)                              | [Rancher.com](https://www.rancher.com/brand-guidelines)                                                                        |
+| ![](./assets/raspberrypi.svg)                       | RaspberryPi                                | [RaspberryPi.org](https://www.raspberrypi.org)                                                                                 |
+| ![](./assets/redhat.svg)                            | RedHat                                     | [RedHat.com](https://www.redhat.com/en/about/brand/standards/logo)                                                             |
 | ![](./assets/rclone.svg)                            | Rclone                                     | [GitHub](https://github.com/rclone/rclone/blob/master/graphics/logo/svg/logo_symbol_color.svg)                                 |
 | ![](./assets/slack.svg)                             | Slack                                      | [Slack.com](https://slack.com/media-kit)                                                                                       |
+| ![](./assets/smallstep.svg)                         | Smallstep                                  | [Smallstep.com](https://smallstep.com/docs)                                                                                    |
 | ![](./assets/snap.svg)                              | Snap                                       | [Ubuntu.com](https://design.ubuntu.com/downloads/)                                                                             |
+| ![](./assets/sourcehut.svg)                         | sourcehut                                  | [sourcehut.org](https://sourcehut.org/)                                                                                        |
+| ![](./assets/steam.svg)                             | Steam                                      | [SteamGames.com](https://partner.steamgames.com/doc/marketing/branding)                                                        |
 | ![](./assets/stringis.svg)                          | string.is                                  | [GitHub](https://github.com/recurser/string-is/blob/develop/src/images/logo.svg)                                               |
 | ![](./assets/terraform.svg)                         | Terraform                                  | [HashiCorp.com](https://www.hashicorp.com/brand)                                                                               |
 | ![](./assets/traefik-gopher.svg)                    | Traefik (gopher)                           | [GitHub](https://github.com/traefik/traefik/blob/master/webui/src/assets/traefik.avatar.svg)                                   |
 | ![](./assets/traefik-proxy.svg)                     | Traefik (proxy)                            | [Traefik.io](https://traefik.io/traefik/)                                                                                      |
 | ![](./assets/ubuntu-circle-tag.svg)                 | Ubuntu (circle of friends tag)             | [Ubuntu.com](https://design.ubuntu.com/downloads/)                                                                             |
 | ![](./assets/ubuntu-circle.svg)                     | Ubuntu (circle of friends)                 | [Ubuntu.com](https://design.ubuntu.com/downloads/)                                                                             |
+| ![](./assets/ubiquiti.svg)                          | Ubiquiti                                   | [Wikipedia.org](https://en.wikipedia.org/wiki/Ubiquiti)                                                                        |
 | ![](./assets/vagrant.svg)                           | Vagrant                                    | [HashiCorp.com](https://www.hashicorp.com/brand)                                                                               |
-| ![](./assets/visualstudiocode.svg)                  | Visual Studio Code                         | [VisualStudio.com](https://code.visualstudio.com/brand)                                                                        |
 | ![](./assets/vault.svg)                             | Vault                                      | [HashiCorp.com](https://www.hashicorp.com/brand)                                                                               |
+| ![](./assets/vim.svg)                               | Vim                                        | [Wikipedia.org](https://en.wikipedia.org/wiki/Vim_(text_editor))                                                               |
+| ![](./assets/vlc.svg)                               | VLC                                        | [Wikipedia.org](https://en.wikipedia.org/wiki/VLC_media_player)                                                                |
+| ![](./assets/visualstudiocode.svg)                  | Visual Studio Code                         | [VisualStudio.com](https://code.visualstudio.com/brand)                                                                        |
 | ![](./assets/waypoint.svg)                          | Waypoint                                   | [HashiCorp.com](https://www.hashicorp.com/brand)                                                                               |
+| ![](./assets/windows-8.svg)                         | Windows 8                                  | [Wikipedia.org](https://en.wikipedia.org/wiki/Windows_8)                                                                       |
+| ![](./assets/windows-10.svg)                        | Windows 10                                 | [Wikipedia.org](https://en.wikipedia.org/wiki/Windows_10)                                                                      |
+| ![](./assets/windows-11.svg)                        | Windows 11                                 | [Wikipedia.org](https://en.wikipedia.org/wiki/Windows_11)                                                                      |
 | ![](./assets/wireguard.svg)                         | WireGuard                                  | [WireGuard.com](https://www.wireguard.com/trademark-policy/)                                                                   |
+| ![](./assets/zshell.svg)                            | Z Shell (ZSH)                              | [Wikipedia.org](https://en.wikipedia.org/wiki/Z_shell)                                                                         |
 
 # TODO
 
-- Argo
-- Flux
-- SourceHut
-- Linux
-- Proxmox
-- AWS
-- Drone
-- Docker
-- Telegraf
-- SmallStepCA
-- Raspberry Pi
-- UniFi
-- PGAdmin
-- CyberChef
-- Postfix
-- Windows
-- Microsoft
-- Apple
-- Chrome
-- Chromium
-- OpenVPN
-- OpenWRT
-- Steam
-- Steam Link
-- Intel
-- AMD
-- Nvidia
-- ARM
-- AppImage
-- Vim
-- VLC
-- ZSH
+- GnuPG
+- Latex
+- LXC
+- Netlify
+- OpenZFS
+- Open Containers Initiative
+- QEMU
 
 # Logos that are giving me trouble
 
-- Elastic
-- pfSense
-- Netgate
-- Fedora
+- Telegraf - Issue open [here](https://github.com/influxdata/telegraf/issues/12327)
+- Postfix - Can't find a SVG of this
 
-# Instructions
+# Instructions to add new icons
 
 1. Download `.svg` file into `/assets` directory
 1. Open each file with Inkscape

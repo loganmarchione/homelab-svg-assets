@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="a6d501a1-35dd-4b01-982b-2ba09cf9d40d"
+   data-name="Layer 1"
+   viewBox="0 0 48 48"
+   version="1.1"
+   sodipodi:docname="redhat.svg"
+   width="48"
+   height="48"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.3495495"
+     inkscape:cx="277.5"
+     inkscape:cy="87.67638"
+     inkscape:window-width="2560"
+     inkscape:window-height="1367"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="a6d501a1-35dd-4b01-982b-2ba09cf9d40d" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.b555f035-ddb7-45c4-a3cc-c93e6b76b4cf{fill:#e00;}</style>
+  </defs>
+  <g
+     id="g298"
+     transform="matrix(0.27798691,0,0,0.27798691,1.2515e-7,-0.32385462)">
+    <path
+       class="b555f035-ddb7-45c4-a3cc-c93e6b76b4cf"
+       d="m 144.7,87.11 c 1.57,7.43 1.57,8.21 1.57,9.19 0,12.71 -14.28,19.75 -33.05,19.75 -42.43,0 -79.59,-24.83 -79.59,-41.26 A 16.78,16.78 0 0 1 35,68.14 C 19.75,68.92 0,71.66 0,89.06 c 0,28.55 67.66,63.75 121.24,63.75 41.06,0 51.43,-18.57 51.43,-33.24 0,-11.54 -10,-24.64 -28,-32.46 m -29.49,10.36 c 11.34,0 27.76,-2.34 27.76,-15.84 a 12.92,12.92 0 0 0 -0.28,-3.1 l -6.75,-29.36 c -1.57,-6.45 -2.94,-9.38 -14.28,-15.05 -8.8,-4.5 -28,-11.93 -33.63,-11.93 -5.28,0 -6.85,6.84 -13.11,6.84 C 68.83,29 64.34,24 58.67,24 c -5.48,0 -9,3.71 -11.74,11.34 0,0 -7.62,21.51 -8.6,24.64 a 5.48,5.48 0 0 0 -0.2,1.76 c 0,8.36 32.92,35.78 77.05,35.78"
+       id="path6" />
+    <path
+       d="m 144.7,87.11 c 1.57,7.43 1.57,8.21 1.57,9.19 0,12.71 -14.28,19.75 -33.05,19.75 -42.43,0 -79.59,-24.83 -79.59,-41.26 A 16.78,16.78 0 0 1 35,68.14 l 3.33,-8.21 a 5.48,5.48 0 0 0 -0.2,1.76 c 0,8.36 32.92,35.78 77.05,35.78 11.34,0 27.76,-2.34 27.76,-15.84 a 12.92,12.92 0 0 0 -0.28,-3.1 l 2,8.58 z"
+       id="path8" />
+  </g>
+</svg>
