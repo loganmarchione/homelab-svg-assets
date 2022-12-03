@@ -146,6 +146,7 @@ This repo will serve as a source of icons used in my personal projects.
 - Netlify
 - OpenZFS
 - Open Containers Initiative
+- Plex
 - QEMU
 
 # Logos that are giving me trouble
