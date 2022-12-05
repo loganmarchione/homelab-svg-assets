@@ -60,6 +60,7 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/github-octocat.svg)                    | GitHub (Octocat)                           | [GitHub.com](https://github.com/logos)                                                                                         |
 | ![](./assets/gitlab.svg)                            | GitLab                                     | [GitLab.com](https://about.gitlab.com/press/press-kit/)                                                                        |
 | ![](./assets/gnome.svg)                             | Gnome                                      | [Gnome.org](https://foundation.gnome.org/logo-and-trademarks/)                                                                 |
+| ![](./assets/gnupg.svg)                             | GnuPG                                      | [Wikipedia.org](https://en.wikipedia.org/wiki/GNU_Privacy_Guard)                                                               |
 | ![](./assets/gnu-heckert.svg)                       | GNU (Heckert)                              | [GNU.org](https://www.gnu.org/graphics/heckert_gnu.svg)                                                                        |
 | ![](./assets/go-black.svg)                          | Go (black)                                 | [Go.dev](https://go.dev/blog/go-brand)                                                                                         |
 | ![](./assets/go-blue.svg)                           | Go (blue)                                  | [Go.dev](https://go.dev/blog/go-brand)                                                                                         |
@@ -79,10 +80,13 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/k3s.svg)                               | K3s                                        | [Rancher.com](https://www.rancher.com/brand-guidelines)                                                                        |
 | ![](./assets/kde.svg)                               | KDE                                        | [KDE.org](https://kde.org/stuff/clipart/)                                                                                      |
 | ![](./assets/kubernetes.svg)                        | Kubernetes                                 | [GitHub](https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg)                                                   |
+| ![](./assets/latex.svg)                             | Latex                                      | [Latex-Project.org](https://www.latex-project.org/)                                                                            |
+| ![](./assets/latex-wide.svg)                        | Latex (wide)                               | [Latex-Project.org](https://www.latex-project.org/)                                                                            |
 | ![](./assets/letsencrypt.svg)                       | Let's Encrypt                              | [LetsEncrypt.org](https://letsencrypt.org/trademarks/)                                                                         |
 | ![](./assets/libreoffice.svg)                       | LibreOffice                                | [DocumentFoundation.org](https://wiki.documentfoundation.org/Gallery_Logos)                                                    |
 | ![](./assets/linux.svg)                             | Linux (Tux)                                | [Wikipedia.org](https://en.wikipedia.org/wiki/Linux)                                                                           |
 | ![](./assets/longhorn.svg)                          | Longhorn                                   | [Rancher.com](https://www.rancher.com/brand-guidelines)                                                                        |
+| ![](./assets/lxc.svg)                               | LXC                                        | [GitHub](https://github.com/lxc/linuxcontainers.org/blob/master/static/img/containers.svg)                                     |
 | ![](./assets/mariadb.svg)                           | MariaDB                                    | [MariaDB.com](https://mariadb.com/about-us/logos/)                                                                             |
 | ![](./assets/mattermost-black.svg)                  | Mattermost (black)                         | [Mattermost.com](https://handbook.mattermost.com/operations/operations/company-processes/publishing/publishing-guidelines/brand-and-visual-design-guidelines) |
 | ![](./assets/mattermost-blue.svg)                   | Mattermost (blue)                          | [Mattermost.com](https://handbook.mattermost.com/operations/operations/company-processes/publishing/publishing-guidelines/brand-and-visual-design-guidelines) |
@@ -91,6 +95,7 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/mongodb-forest-green.svg)              | MongoDB (forest green)                     | [MongoDB.com](https://www.mongodb.com/brand-resources)                                                                         |
 | ![](./assets/mongodb-spring-green.svg)              | MongoDB (spring green)                     | [MongoDB.com](https://www.mongodb.com/brand-resources)                                                                         |
 | ![](./assets/mysql-sakila.svg)                      | MySQL (Sakila)                             | [MySQL.com](https://www.mysql.com/about/legal/logos.html)                                                                      |
+| ![](./assets/netlify.svg)                           | Netlify                                    | [Netlify.com](https://www.netlify.com/press)                                                                                   |
 | ![](./assets/networkupstools.svg)                   | Network UPS Tools (NUT)                    | [GitHub](https://github.com/networkupstools/nut/blob/master/docs/images/nut.svg)                                               |
 | ![](./assets/nextcloud.svg)                         | Nextcloud                                  | [Nextcloud.com](https://nextcloud.com/press/)                                                                                  |
 | ![](./assets/nginx.svg)                             | Nginx                                      | [Nginx.com](https://www.nginx.com/)                                                                                            |
@@ -100,16 +105,21 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/opensearch.svg)                        | OpenSearch                                 | [OpenSearch.org](https://opensearch.org/brand.html)                                                                            |
 | ![](./assets/openvpn.svg)                           | OpenVPN                                    | [OpenVPN.net](https://openvpn.net/)                                                                                            |
 | ![](./assets/openwrt.svg)                           | OpenWRT                                    | [GitHub](https://github.com/openwrt/branding/blob/master/logo/openwrt_logo_blue_and_dark_blue.svg)                             |
+| ![](./assets/openzfs.svg)                           | OpenZFS                                    | [Wikipedia.org](https://en.wikipedia.org/wiki/OpenZFS)                                                                         |
 | ![](./assets/opensourcehardware.svg)                | Open Source Hardware                       | [OSHWA.org](https://www.oshwa.org/open-source-hardware-logo/)                                                                  |
+| ![](./assets/opencontainerinitiative.svg)           | Open Container Initiative                  | [GitHub](https://github.com/opencontainers/opencontainers.org/blob/master/static/img/logos/OCI-logo.svg)                       |
 | ![](./assets/opensourceinitiative.svg)              | Open Source Initiative                     | [OpenSource.org](https://opensource.org/logo-usage-guidelines)                                                                 |
 | ![](./assets/packer.svg)                            | Packer                                     | [HashiCorp.com](https://www.hashicorp.com/brand)                                                                               |
 | ![](./assets/pfsense.svg)                           | pfSense                                    | [Wikipedia.org](https://en.wikipedia.org/wiki/PfSense)                                                                         |
 | ![](./assets/php.svg)                               | PHP                                        | [PHP.net](https://www.php.net/download-logos.php)                                                                              |
+| ![](./assets/plex-black.svg)                        | Plex (black)                               | [Plex.tv](https://brand.plex.tv)                                                                                               |
+| ![](./assets/plex-white.svg)                        | Plex (white)                               | [Plex.tv](https://brand.plex.tv)                                                                                               |
 | ![](./assets/portainer.svg)                         | Portainer                                  | [GitHub](https://github.com/portainer/portainer/blob/develop/app/assets/images/logo_alt.svg)                                   |
 | ![](./assets/postgresql-slonik.svg)                 | PostgreSQL (Slonik)                        | [PostgreSQL.org](https://wiki.postgresql.org/wiki/Logo)                                                                        |
 | ![](./assets/prometheus.svg)                        | Prometheus                                 | [GitHub](https://github.com/prometheus/prometheus/blob/main/documentation/images/prometheus-logo.svg)                          |
 | ![](./assets/proxmox.svg)                           | Proxmox                                    | [Wikipedia.org](https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment)                                                     |
 | ![](./assets/python.svg)                            | Python                                     | [Python.org](https://www.python.org/community/logos/)                                                                          |
+| ![](./assets/qemu.svg)                              | QEMU                                       | [GitLab](https://gitlab.com/qemu-project/qemu/-/blob/master/pc-bios/qemu_logo.svg)                                             |
 | ![](./assets/rancher-cow.svg)                       | Rancher (cow)                              | [Rancher.com](https://www.rancher.com/brand-guidelines)                                                                        |
 | ![](./assets/raspberrypi.svg)                       | RaspberryPi                                | [RaspberryPi.org](https://www.raspberrypi.org)                                                                                 |
 | ![](./assets/redhat.svg)                            | RedHat                                     | [RedHat.com](https://www.redhat.com/en/about/brand/standards/logo)                                                             |
@@ -139,15 +149,6 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/zshell.svg)                            | Z Shell (ZSH)                              | [Wikipedia.org](https://en.wikipedia.org/wiki/Z_shell)                                                                         |
 
 # TODO
-
-- GnuPG
-- Latex
-- LXC
-- Netlify
-- OpenZFS
-- Open Containers Initiative
-- Plex
-- QEMU
 
 # Logos that are giving me trouble
 
