@@ -164,6 +164,18 @@ This repo will serve as a source of icons used in my personal projects.
 
 # TODO
 
+- Add generic icons
+  - Globe
+  - Email
+  - WiFi
+  - Heart
+  - Thumbs up
+  - Thumbs down
+  - Lock
+  - No lock
+  - Cloud
+  - No cloud
+
 # Logos that are giving me trouble
 
 - Telegraf - Issue open [here](https://github.com/influxdata/telegraf/issues/12327)
