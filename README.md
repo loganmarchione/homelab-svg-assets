@@ -175,6 +175,14 @@ This repo will serve as a source of icons used in my personal projects.
   - No lock
   - Cloud
   - No cloud
+- Audacity
+- Thunderbird
+- GIMP
+- Inkscape
+- WordPress
+- Bitcoin
+- Ethereum
+- PiHole
 
 # Logos that are giving me trouble
 
