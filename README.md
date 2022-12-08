@@ -175,6 +175,13 @@ This repo will serve as a source of icons used in my personal projects.
   - No lock
   - Cloud
   - No cloud
+  - Notes
+  - Calendar
+  - Folder
+  - File
+  - Tasks
+  - Syncthing
+  - Database
 - Audacity
 - Thunderbird
 - GIMP
@@ -183,6 +190,21 @@ This repo will serve as a source of icons used in my personal projects.
 - Bitcoin
 - Ethereum
 - PiHole
+- Deluge
+- QBitTorent
+- Transmission
+- Bookstack
+- WikiJS
+- BitWarden
+- FreshRSS
+- TinyTinyRSS
+- NPM
+- PyPi
+- pfSense blue
+- Emby
+- TrueNAS
+- Cloudflare
+- Roundcube
 
 # Logos that are giving me trouble
 
