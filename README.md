@@ -205,6 +205,8 @@ This repo will serve as a source of icons used in my personal projects.
 - TrueNAS
 - Cloudflare
 - Roundcube
+- Mastodon 
+- Mullvad
 
 # Logos that are giving me trouble
 
