@@ -177,6 +177,7 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/terraform.svg)                         | Terraform                                  | [HashiCorp.com](https://www.hashicorp.com/brand)                                                                               |
 | ![](./assets/traefik-gopher.svg)                    | Traefik (gopher)                           | [GitHub](https://github.com/traefik/traefik/blob/master/webui/src/assets/traefik.avatar.svg)                                   |
 | ![](./assets/traefik-proxy.svg)                     | Traefik (proxy)                            | [Traefik.io](https://traefik.io/traefik/)                                                                                      |
+| ![](./assets/transmission.svg)                      | Transmission                               | [Wikipedia.org](https://en.wikipedia.org/wiki/Transmission_(BitTorrent_client))                                                |
 | ![](./assets/truenas.svg)                           | TrueNAS                                    | [TrueNAS.com](https://www.truenas.com/)                                                                                        |
 | ![](./assets/ubuntu-circle-tag.svg)                 | Ubuntu (circle of friends tag)             | [Ubuntu.com](https://design.ubuntu.com/downloads/)                                                                             |
 | ![](./assets/ubuntu-circle.svg)                     | Ubuntu (circle of friends)                 | [Ubuntu.com](https://design.ubuntu.com/downloads/)                                                                             |
@@ -188,6 +189,7 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/visualstudiocode.svg)                  | Visual Studio Code                         | [VisualStudio.com](https://code.visualstudio.com/brand)                                                                        |
 | ![](./assets/waypoint.svg)                          | Waypoint                                   | [HashiCorp.com](https://www.hashicorp.com/brand)                                                                               |
 | ![](./assets/wikipedia.svg)                         | Wikipedia                                  | [Wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_logos)                                                       |
+| ![](./assets/wikijs.svg)                            | Wiki.js                                    | [Wiki.js](https://js.wiki/)                                                                                                    |
 | ![](./assets/windows-8.svg)                         | Windows 8                                  | [Wikipedia.org](https://en.wikipedia.org/wiki/Windows_8)                                                                       |
 | ![](./assets/windows-10.svg)                        | Windows 10                                 | [Wikipedia.org](https://en.wikipedia.org/wiki/Windows_10)                                                                      |
 | ![](./assets/windows-11.svg)                        | Windows 11                                 | [Wikipedia.org](https://en.wikipedia.org/wiki/Windows_11)                                                                      |
@@ -196,9 +198,6 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/zshell.svg)                            | Z Shell (ZSH)                              | [Wikipedia.org](https://en.wikipedia.org/wiki/Z_shell)                                                                         |
 
 # TODO
-
-- Transmission
-- WikiJS
 
 # Logos that are giving me trouble
 
