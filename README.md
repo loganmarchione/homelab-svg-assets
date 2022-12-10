@@ -1,4 +1,4 @@
-# svg_assets
+# svg-assets
 
 I frequently need full-color SVGs logos/icons of open-source software or brands, in a normalized size. Other projects exist (like [Simple Icons](https://simpleicons.org/) or [Bootstrap Icons](https://icons.getbootstrap.com/)), but I've found they don't fit my needs.
 
