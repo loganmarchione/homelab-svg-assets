@@ -66,7 +66,7 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/elastic-beats.svg)                     | Elastic Co. Beats                          | [Elastic.co](https://www.elastic.co/beats/)                                                                                    |
 | ![](./assets/elastic-elasticsearch.svg)             | Elastic Co. Elasticsearch                  | [Elastic.co](https://www.elastic.co/elasticsearch/)                                                                            |
 | ![](./assets/elastic-kibana.svg)                    | Elastic Co. Kibana                         | [Elastic.co](https://www.elastic.co/kibana/)                                                                                   |
-| ![](./assets/elastic-logstash.svg)                  | Elastic Co. Logstash                       | [Elastic.co](hhttps://www.elastic.co/logstash/)                                                                                |
+| ![](./assets/elastic-logstash.svg)                  | Elastic Co. Logstash                       | [Elastic.co](https://www.elastic.co/logstash/)                                                                                |
 | ![](./assets/element.svg)                           | Element                                    | [Element.io](https://element.io/)                                                                                              |
 | ![](./assets/etcd.svg)                              | etcd                                       | [GitHub](https://github.com/etcd-io/etcd/blob/main/logos/etcd-glyph-color.svg)                                                 |
 | ![](./assets/flathub.svg)                           | Flathub                                    | [GitHub](https://github.com/flathub/website/blob/main/frontend/public/img/logo/flathub-logo-toolbar.svg)                       |
@@ -205,16 +205,3 @@ This repo will serve as a source of icons used in my personal projects.
 - Postfix - Can't find a SVG of this
 - TinyTinyRSS - Can't find a SVG of this 
 - Emby - Can't find a SVG of this
-
-# Instructions to add new icons
-
-1. Download `.svg` file into `/assets` directory
-1. Open each file with Inkscape
-1. Resize page to 48x48
-1. Group all elements of the icon
-1. Resize to 48x48px (ensuring to retain ratio)
-1. Center the icon on page both horizontally and vertically (the icon should be touching at least two sides of the page now)
-1. Clean up document (`File--->Clean Up Document`)
-1. Save the `.svg` file
-1. Run `svgo *.svg` to optimize images
-1. Add to the table in the `README.md` file
