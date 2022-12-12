@@ -9,7 +9,7 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/alpinelinux.svg)                       | Alpine Linux                               | [AlpineLinux.org](https://www.alpinelinux.org/)                                                                                |
 | ![](./assets/amazon.svg)                            | Amazon                                     | [Wikipedia.org](https://en.wikipedia.org/wiki/Amazon_(company))                                                                |
 | ![](./assets/amazon-smile.svg)                      | Amazon (smile)                             | [Wikipedia.org](https://en.wikipedia.org/wiki/Amazon_(company))                                                                |
-| ![](./assets/amazon-aws.svg)                        | Amazon AWS                                 | [Wikipedia.org](https://en.wikipedia.org/wiki/Amazon_Web_Services)                                                             |
+| ![](./assets/amazonaws.svg)                         | Amazon Web Service (AWS)                   | [Wikipedia.org](https://en.wikipedia.org/wiki/Amazon_Web_Services)                                                             |
 | ![](./assets/amd.svg)                               | AMD                                        | [Wikipedia.org](https://en.wikipedia.org/wiki/Advanced_Micro_Devices)                                                          |
 | ![](./assets/amd-wide.svg)                          | AMD (wide)                                 | [Wikipedia.org](https://en.wikipedia.org/wiki/Advanced_Micro_Devices)                                                          |
 | ![](./assets/android.svg)                           | Android                                    | [Android.com](https://developer.android.com/distribute/marketing-tools/brand-guidelines)                                       |
@@ -199,9 +199,11 @@ This repo will serve as a source of icons used in my personal projects.
 
 # TODO
 
-# Logos that are giving me trouble
-
 - Telegraf - Issue open [here](https://github.com/influxdata/telegraf/issues/12327)
 - Postfix - Can't find a SVG of this
 - TinyTinyRSS - Can't find a SVG of this 
 - Emby - Can't find a SVG of this
+
+# Contribute
+
+See [CONTRIBUTING.md](CONTRIBUTING.md)
