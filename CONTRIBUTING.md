@@ -36,7 +36,11 @@ When possible, logos should be sought from official sources first, only then fal
 1. Clean up document (`File--->Clean Up Document`)
 1. Save the SVG file to the `assets` directory
     1. Be sure to use `Optimized SVG` filetype
-    1. On the `SVG Output` tab, check box `Enable viewboxing`
+    1. On the `SVG Output` tab, boxes for:
+       - Check `Remove metadata`
+       - Check `Remove comments`
+       - Uncheck `Embed raster images`
+       - Check `Enable viewboxing`
 
 ## 5. Name the icon
 
@@ -75,7 +79,7 @@ Adhere to the following rules when choosing filenames:
 
 ## 7. Annotating an icon
 
-Manually check each icon to ensure it has these settings:
+Manually check each icon to ensure it **HAS** these settings:
 
 - The SVG namespace
     ```
@@ -91,6 +95,10 @@ Below is a partial example of a file.
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">...</svg>
 ```
 
+Manually check each icon to ensure it **DOES NOT** have these settings:
+
+- `xlink` - This is usually causes by cloned shapes. You can remove this by selecting the clones and choosing `Edit-->Clone-->Unlink Clone`.
+- `height` or `width` - Instead, use `viewBox` as show above.
 
 ## 8. Updating the README
 
