@@ -99,6 +99,7 @@ Manually check each icon to ensure it **DOES NOT** have these settings:
 
 - `xlink` - This is usually causes by cloned shapes. You can remove this by selecting the clones and choosing `Edit-->Clone-->Unlink Clone`.
 - `height` or `width` - Instead, use `viewBox` as show above.
+- Make sure there is no `png` data encoded into each file.
 
 ## 8. Updating the README
 
