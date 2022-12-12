@@ -178,6 +178,7 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/traefik-proxy.svg)                     | Traefik (proxy)                            | [Traefik.io](https://traefik.io/traefik/)                                                                                      |
 | ![](./assets/transmission.svg)                      | Transmission                               | [Wikipedia.org](https://en.wikipedia.org/wiki/Transmission_(BitTorrent_client))                                                |
 | ![](./assets/truenas.svg)                           | TrueNAS                                    | [TrueNAS.com](https://www.truenas.com/)                                                                                        |
+| ![](./assets/twitter.svg)                           | Twitter                                    | [Twitter.com](https://about.twitter.com/en/who-we-are/brand-toolkit)                                                           |
 | ![](./assets/ubuntu-circle-tag.svg)                 | Ubuntu (circle of friends tag)             | [Ubuntu.com](https://design.ubuntu.com/downloads/)                                                                             |
 | ![](./assets/ubuntu-circle.svg)                     | Ubuntu (circle of friends)                 | [Ubuntu.com](https://design.ubuntu.com/downloads/)                                                                             |
 | ![](./assets/ubiquiti.svg)                          | Ubiquiti                                   | [Wikipedia.org](https://en.wikipedia.org/wiki/Ubiquiti)                                                                        |
@@ -194,6 +195,7 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/windows11.svg)                         | Windows 11                                 | [Wikipedia.org](https://en.wikipedia.org/wiki/Windows_11)                                                                      |
 | ![](./assets/wireguard.svg)                         | WireGuard                                  | [WireGuard.com](https://www.wireguard.com/trademark-policy/)                                                                   |
 | ![](./assets/wordpress.svg)                         | WordPress                                  | [WordPress.org](https://wordpress.org/about/logos/)                                                                            |
+| ![](./assets/ycombinator.svg)                       | Y Combinator                               | [Wikipedia.org](https://en.wikipedia.org/wiki/Y_Combinator)                                                                    |
 | ![](./assets/zshell.svg)                            | Z Shell (ZSH)                              | [Wikipedia.org](https://en.wikipedia.org/wiki/Z_shell)                                                                         |
 
 # TODO
