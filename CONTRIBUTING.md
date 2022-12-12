@@ -64,7 +64,7 @@ Adhere to the following rules when choosing filenames:
 1. When a brand is part of the product name, use it in the filename.
    | Correct                 | Incorrect               |
    |-------------------------|-------------------------|
-   | `apachesolr.svg`    | `solr.svg`              |
+   | `apachesolr.svg`        | `solr.svg`              |
 
 ## 6. Optimizing an icon
 
