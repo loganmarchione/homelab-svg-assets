@@ -36,7 +36,7 @@ When possible, logos should be sought from official sources first, only then fal
 1. Clean up document (`File--->Clean Up Document`)
 1. Save the SVG file to the `assets` directory
     1. Be sure to use `Optimized SVG` filetype
-    1. On the `SVG Output` tab, boxes for:
+    1. On the `SVG Output` tab:
        - Check `Remove metadata`
        - Check `Remove comments`
        - Uncheck `Embed raster images`
