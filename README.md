@@ -56,17 +56,22 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/calibre.svg)                           | Calibre                                    | [GitHub.com](https://github.com/kovidgoyal/calibre/blob/master/imgsrc/calibre.svg)                                             |
 | ![](./assets/canonical.svg)                         | Canonical                                  | [Ubuntu.com](https://design.ubuntu.com/downloads/)                                                                             |
 | ![](./assets/centos.svg)                            | CentOS                                     | [CentOS.org](https://wiki.centos.org/ArtWork/Brand/Logo)                                                                       |
+| ![](./assets/ceph.svg)                              | Ceph                                       | [Ceph.io](https://ceph.io)                                                                                                     |
 | ![](./assets/certmanager.svg)                       | cert-manager                               | [GitHub.com](https://github.com/cert-manager/cert-manager/blob/master/logo/logo.svg)                                           |
+| ![](./assets/checkmk.svg)                           | checkmk                                    | [checkmk.com](https://checkmk.com/company/brand-assets)                                                                        |
 | ![](./assets/chromium.svg)                          | Chromium                                   | [Wikipedia.org](https://en.wikipedia.org/wiki/Chromium_(web_browser))                                                          |
 | ![](./assets/cloudflare.svg)                        | Cloudflare                                 | [Cloudflare.com](https://www.cloudflare.com/logo/)                                                                             |
 | ![](./assets/consul.svg)                            | Consul                                     | [HashiCorp.com](https://www.hashicorp.com/brand)                                                                               |
+| ![](./assets/crowdsec.svg)                          | CrowdSec                                   | [CrowdSec.net](https://www.crowdsec.net/)                                                                                      |
 | ![](./assets/css3.svg)                              | CSS3                                       | [Wikipedia.org](https://en.wikipedia.org/wiki/CSS)                                                                             |
 | ![](./assets/cyberchef.svg)                         | CyberChef                                  | [GitHub.com](https://github.com/gchq/CyberChef/blob/master/src/web/static/images/logo/cyberchef_hat.svg)                       |
+| ![](./assets/datadog.svg)                           | Datadog (Bits)                             | [DatadogHQ.com](https://www.datadoghq.com/about/resources/)                                                                    |
 | ![](./assets/debian.svg)                            | Debian                                     | [Debian.org](https://www.debian.org/logos/)                                                                                    |
 | ![](./assets/deluge.svg)                            | Deluge                                     | [Deluge-Torrent.org](https://git.deluge-torrent.org/deluge/tree/deluge/ui/data/icons/hicolor/scalable/apps/deluge.svg)         |
 | ![](./assets/diagramsdotnet.svg)                    | Diagrams.net (aka Draw.io)                 | [GitHub.com](https://github.com/jgraph/drawio/blob/dev/src/main/webapp/images/drawlogo-color.svg)                              |
 | ![](./assets/digitalocean.svg)                      | DigitalOcean                               | [DigitalOcean.com](https://www.digitalocean.com/press)                                                                         |
 | ![](./assets/discord.svg)                           | Discord                                    | [Discord.com](https://discord.com/branding)                                                                                    |
+| ![](./assets/discourse.svg)                         | Discourse                                  | [Discourse.org](https://www.discourse.org/)                                                                                    |
 | ![](./assets/docker.svg)                            | Docker                                     | [GitHub.com](https://github.com/docker/docs/blob/main/assets/images/docker-icon.svg)                                           |
 | ![](./assets/docker-moby.svg)                       | Docker (Moby)                              | [GitHub.com](https://github.com/docker/docs/blob/main/assets/images/engine.svg)                                                |
 | ![](./assets/dokuwiki.svg)                          | DokuWiki                                   | [DokuWiki.org](https://www.dokuwiki.org/logo)                                                                                  |
@@ -87,6 +92,7 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/etcd.svg)                              | etcd                                       | [GitHub.com](https://github.com/etcd-io/etcd/blob/main/logos/etcd-glyph-color.svg)                                             |
 | ![](./assets/facebook.svg)                          | Facebook                                   | [Wikipedia.org](https://en.wikipedia.org/wiki/Facebook)                                                                        |
 | ![](./assets/fastmail.svg)                          | Fastmail                                   | [Fastmail.com](https://www.fastmail.com/media-assets/)                                                                         |
+| ![](./assets/filezilla.svg)                         | FileZilla                                  | [Wikipedia.org](https://en.wikipedia.org/wiki/FileZilla)                                                                       |
 | ![](./assets/flathub.svg)                           | Flathub                                    | [GitHub.com](https://github.com/flathub/website/blob/main/frontend/public/img/logo/flathub-logo-toolbar.svg)                   |
 | ![](./assets/flatpak-black.svg)                     | Flatpak (black)                            | [Flatpak.org](https://flatpak.org/press/)                                                                                      |
 | ![](./assets/flatpak-white.svg)                     | Flatpak (white)                            | [Flatpak.org](https://flatpak.org/press/)                                                                                      |
@@ -112,8 +118,10 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/go-black.svg)                          | Go (black)                                 | [Go.dev](https://go.dev/blog/go-brand)                                                                                         |
 | ![](./assets/go-blue.svg)                           | Go (blue)                                  | [Go.dev](https://go.dev/blog/go-brand)                                                                                         |
 | ![](./assets/grafana.svg)                           | Grafana                                    | [GitHub.com](https://github.com/grafana/grafana/blob/main/public/img/grafana_icon.svg)                                         |
+| ![](./assets/grafanaloki.svg)                       | Grafana Loki                               | [Grafana.com](https://grafana.com/oss/loki/)                                                                                   |
 | ![](./assets/grav.svg)                              | Grav                                       | [GetGrav.org](https://getgrav.org/media)                                                                                       |
 | ![](./assets/graylog.svg)                           | Graylog                                    | [Graylog.org](https://www.graylog.org/)                                                                                        |
+| ![](./assets/harbor.svg)                            | Harbor                                     | [Netlify.app](https://cncf-branding.netlify.app/projects/harbor/)                                                              |
 | ![](./assets/harvester.svg)                         | Harvester                                  | [Rancher.com](https://www.rancher.com/brand-guidelines)                                                                        |
 | ![](./assets/hashicorp-black.svg)                   | HashiCorp (black)                          | [HashiCorp.com](https://www.hashicorp.com/brand)                                                                               |
 | ![](./assets/hashicorp-white.svg)                   | HashiCorp (white)                          | [HashiCorp.com](https://www.hashicorp.com/brand)                                                                               |
@@ -134,11 +142,14 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/k3os.svg)                              | K3OS                                       | [Rancher.com](https://www.rancher.com/brand-guidelines)                                                                        |
 | ![](./assets/k3s.svg)                               | K3s                                        | [Rancher.com](https://www.rancher.com/brand-guidelines)                                                                        |
 | ![](./assets/kde.svg)                               | KDE                                        | [KDE.org](https://kde.org/stuff/clipart/)                                                                                      |
+| ![](./assets/kiwix.svg)                             | Kiwix                                      | [Wikipedia.org](https://en.wikipedia.org/wiki/Kiwix)                                                                           |
 | ![](./assets/kodi.svg)                              | Kodi                                       | [Kodi.tv](https://kodi.tv/)                                                                                                    |
 | ![](./assets/kubernetes.svg)                        | Kubernetes                                 | [GitHub.com](https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg)                                               |
 | ![](./assets/latex.svg)                             | Latex                                      | [Latex-Project.org](https://www.latex-project.org/)                                                                            |
 | ![](./assets/latex-wide.svg)                        | Latex (wide)                               | [Latex-Project.org](https://www.latex-project.org/)                                                                            |
 | ![](./assets/letsencrypt.svg)                       | Let's Encrypt                              | [LetsEncrypt.org](https://letsencrypt.org/trademarks/)                                                                         |
+| ![](./assets/librenms-black.svg)                    | LibreNMS (black)                           | [GitHub.com](https://github.com/librenms/librenms.github.io/blob/master/images/LibreNMS-Logo-Black.svg)                        |
+| ![](./assets/librenms-white.svg)                    | LibreNMS (white)                           | [GitHub.com](https://github.com/librenms/librenms.github.io/blob/master/images/LibreNMS-Logo.svg)                              |
 | ![](./assets/libreoffice.svg)                       | LibreOffice                                | [DocumentFoundation.org](https://wiki.documentfoundation.org/Gallery_Logos)                                                    |
 | ![](./assets/lidarr.svg)                            | Lidarr                                     | [GitHub.com](https://github.com/Lidarr/Lidarr/blob/develop/Logo/Lidarr.svg)                                                    |
 | ![](./assets/linkedin.svg)                          | LinkedIn                                   | [Wikipedia.org](https://en.wikipedia.org/wiki/LinkedIn)                                                                        |
@@ -177,6 +188,7 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/nextcloud.svg)                         | Nextcloud                                  | [Nextcloud.com](https://nextcloud.com/press/)                                                                                  |
 | ![](./assets/nginx.svg)                             | Nginx                                      | [Nginx.com](https://www.nginx.com/)                                                                                            |
 | ![](./assets/nginxproxymanager.svg)                 | Nginx Proxy Manager                        | [GitHub.com](https://github.com/NginxProxyManager/nginx-proxy-manager/blob/develop/docs/.vuepress/public/logo.svg)             |
+| ![](./assets/nodejs.svg)                            | Node.js                                    | [Wikipedia.org](https://en.wikipedia.org/wiki/Node.js)                                                                         |
 | ![](./assets/nodered.svg)                           | Node-RED                                   | [NodeRED.org](https://nodered.org/about/resources/)                                                                            |
 | ![](./assets/nomad.svg)                             | Nomad                                      | [HashiCorp.com](https://www.hashicorp.com/brand)                                                                               |
 | ![](./assets/npm.svg)                               | NPM                                        | [GitHub.com](https://github.com/npm/logos/blob/master/npm%20logo/npm-logo-red.svg)                                             |
@@ -234,12 +246,14 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/snapchat.svg)                          | Snapchat                                   | [Wikipedia.org](https://en.wikipedia.org/wiki/Snapchat)                                                                        |
 | ![](./assets/sonarr.svg)                            | Sonarr                                     | [GitHub.com](https://github.com/Sonarr/Sonarr/blob/develop/Logo/Sonarr.svg)                                                    |
 | ![](./assets/sourcehut.svg)                         | sourcehut                                  | [sourcehut.org](https://sourcehut.org/)                                                                                        |
+| ![](./assets/splunk.svg)                            | Splunk                                     | [Splunk.com](https://www.splunk.com/)                                                                                          |
 | ![](./assets/sqlite.svg)                            | SQLite                                     | [Wikipedia.org](https://en.wikipedia.org/wiki/SQLite)                                                                          |
 | ![](./assets/steam.svg)                             | Steam                                      | [Wikipedia.org](https://en.wikipedia.org/wiki/Steam_(service))                                                                 |
 | ![](./assets/stringis.svg)                          | string.is                                  | [GitHub.com](https://github.com/recurser/string-is/blob/develop/src/images/logo.svg)                                           |
 | ![](./assets/syncthing.svg)                         | Syncthing                                  | [GitHub.com](https://github.com/syncthing/syncthing/blob/main/assets/logo-only.svg)                                            |
 | ![](./assets/tailscale.svg)                         | Tailscale                                  | [Tailscale.com](https://tailscale.com/)                                                                                        |
 | ![](./assets/telegram.svg)                          | Telegram                                   | [Telegram.org](https://telegram.org/tour/screenshots)                                                                          |
+| ![](./assets/tenable.svg)                           | Tenable                                    | [Tenable.com](https://www.tenable.com/media)                                                                                   |
 | ![](./assets/terraform.svg)                         | Terraform                                  | [HashiCorp.com](https://www.hashicorp.com/brand)                                                                               |
 | ![](./assets/tiktok.svg)                            | TikTok                                     | [Wikipedia.org](https://en.wikipedia.org/wiki/TikTok)                                                                          |
 | ![](./assets/tinytinyrss.svg)                       | TinyTinyRSS (TT-RSS)                       | [GitLab.com](https://gitlab.com/prism-break/prism-break/-/blob/master/source/assets/logos/tt-rss.svg)                          |
@@ -252,6 +266,7 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/ubuntu-circle-tag.svg)                 | Ubuntu (circle of friends tag)             | [Ubuntu.com](https://design.ubuntu.com/downloads/)                                                                             |
 | ![](./assets/ubuntu-circle.svg)                     | Ubuntu (circle of friends)                 | [Ubuntu.com](https://design.ubuntu.com/downloads/)                                                                             |
 | ![](./assets/ubiquiti.svg)                          | Ubiquiti                                   | [Wikipedia.org](https://en.wikipedia.org/wiki/Ubiquiti)                                                                        |
+| ![](./assets/unraid.svg)                            | Unraid                                     | [Unraid.net](https://unraid.net/)                                                                                              |
 | ![](./assets/uptimekuma.svg)                        | Uptime Kuma                                | [GitHub.com](https://github.com/louislam/uptime-kuma/blob/master/public/icon.svg)                                              |
 | ![](./assets/vagrant.svg)                           | Vagrant                                    | [HashiCorp.com](https://www.hashicorp.com/brand)                                                                               |
 | ![](./assets/vault.svg)                             | Vault                                      | [HashiCorp.com](https://www.hashicorp.com/brand)                                                                               |
@@ -273,54 +288,29 @@ This repo will serve as a source of icons used in my personal projects.
 
 # TODO
 
-- Authelia - Issue open [here](https://github.com/authelia/authelia/issues/4565)
-- Emby - Can't find a SVG of this
-- FreeBSD - Can't find a good SVG of this
-- Handbrake - The [SVG](https://github.com/HandBrake/HandBrake/blob/master/gtk/src/hb-icon.svg) is an encoded PNG
-- Jackett - Can't find a SVG of this
-- Postfix - Can't find a SVG of this
-- Tdarr - Can't find a SVG of this
-- Telegraf - Issue open [here](https://github.com/influxdata/telegraf/issues/12327)
-- TinyTinyRSS - Can't find a SVG of this
-- ZeroTier - Can't find a SVG of this
-
 - AdGuard Home
 - Adminer
 - Artifactory
 - Baikal
-- Bazarr
 - Brocade
 - Caddy
-- Ceph
 - CheckMk
 - CloudBeaver
-- Crowdsec
 - C#
-- Datadog
-- Discourse
 - Fedora
-- Filezilla
 - Ghost
-- Grafana Loki
-- Harbor
-- Kiwix
-- LibreNMS
 - LinuxMint
 - Microsoft SQl Server
 - Mikrotik
 - Minio
 - Mosquitto
-- NodeJS
 - OpenMediaVault
 - OpenJDK
 - Pritunl
 - Radarr
 - Radicale
 - Seafile
-- Splunk
-- Tenable
 - Trakt
-- Unraid
 - VMWare
 - WebKit
 - Woodpecker
@@ -328,6 +318,19 @@ This repo will serve as a source of icons used in my personal projects.
 - Zigbee
 - Zigbee2MQTT
 - ZWave
+
+- Icons that I can't find
+  - Authelia - Issue open [here](https://github.com/authelia/authelia/issues/4565)
+  - Bazarr - Can't find a SVG of this
+  - Emby - Can't find a SVG of this
+  - FreeBSD - Can't find a good SVG of this
+  - Handbrake - The [SVG](https://github.com/HandBrake/HandBrake/blob/master/gtk/src/hb-icon.svg) is an encoded PNG
+  - Jackett - Can't find a SVG of this
+  - Postfix - Can't find a SVG of this
+  - Tdarr - Can't find a SVG of this
+  - Telegraf - Issue open [here](https://github.com/influxdata/telegraf/issues/12327)
+  - TinyTinyRSS - Can't find a SVG of this
+  - ZeroTier - Can't find a SVG of this
 
 - Icons that don't touch the edges (possibly need replaced?)
   - Audacity
