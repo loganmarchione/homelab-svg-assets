@@ -2,6 +2,17 @@
 
 Most of this is taken from the [CONTRIBUTING.md](https://github.com/simple-icons/simple-icons/blob/develop/CONTRIBUTING.md) file from the [Simple Icons](https://simpleicons.org/) project
 
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Get software](#1-get-software)
+- [Setup Inkscape](#2-setup-inkscape)
+- [Identify logo](#3-identify-logo)
+- [Adding an icon](#4-adding-an-icon)
+- [Name the icon](#5-name-the-icon)
+- [Optimizing an icon](#6-optimizing-an-icon)
+- [Annotating an icon](#7-annotating-an-icon)
+- [Updating the README](#8-updating-the-readme)
+
 ## 1. Get software
 
 1. Download [Inkscape](https://inkscape.org/). It's free for Windows, Mac, and Linux.
