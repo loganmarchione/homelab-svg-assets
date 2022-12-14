@@ -263,34 +263,61 @@ This repo will serve as a source of icons used in my personal projects.
 
 - AdGuard Home
 - Adminer
+- Artifactory
+- Azure
 - Baikal
+- Bazarr
 - Brave
 - Brave Dev
 - Brocade
 - Caddy
 - Ceph
+- CheckMk
 - CloudBeaver
 - Crowdsec
+- C++
+- C#
+- Datadog
+- Discourse
 - Electron
 - ESPHome
+- Fedora
 - Filezilla
 - Firefox beta, dev, nightly
 - Ghost
 - Google Cloud Platform
+- Google Mail
+- Google Drive
+- Google Calendar
+- Grafana Loki
+- Grav
+- Handbrake
 - Harbor
+- Kiwik
+- LibreNMS
 - Linode
 - LinuxMint
 - Memcached
+- Microsoft SQl Server
 - Mikrotik
+- Minio
 - Mosquitto
 - NodeJS
 - OpenMediaVault
+- OpenJDK
 - Opera
 - Pritunl
 - Radarr
 - Radicale
+- Rancher Harvester
+- Rapid7
+- Rocky Linux
+- Safari
 - Seafile
+- Splunk
+- Tenable
 - Trakt
+- Unraid
 - VMWare
 - WebKit
 - Woodpecker
