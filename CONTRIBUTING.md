@@ -6,7 +6,7 @@ Most of this is taken from the [CONTRIBUTING.md](https://github.com/simple-icons
 - [Table of Contents](#table-of-contents)
 - [Get software](#1-get-software)
 - [Setup Inkscape](#2-setup-inkscape)
-- [Identify logo](#3-identify-logo)
+- [Identify icon](#3-identify-icon)
 - [Adding an icon](#4-adding-an-icon)
 - [Name the icon](#5-name-the-icon)
 - [Optimizing an icon](#6-optimizing-an-icon)
@@ -27,14 +27,14 @@ You only need to do this once:
 
 1. `Edit-->Preferences-->Behavior-->Transforms-->Scale stroke width` = Enabled
 
-## 3. Identify logo
+## 3. Identify icon
 
-When possible, logos should be sought from official sources first, only then falling back on unofficial sources. The order below should be the preferred order.
+When possible, icons should be sought from official sources first, only then falling back on unofficial sources. The order below should be the preferred order.
 
 1. About pages, Press pages, Media Kits, and Brand Guidelines (example [here](https://github.com/logos) and [here](https://www.hashicorp.com/brand))
 1. Website images (example [here](https://gohugo.io/))
 1. GitHub repositories (example [here](https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg))
-    - If the main project repo doesn't contain any images, be sure to check for a repo that contains a project website (example [here](https://github.com/lxc/linuxcontainers.org/blob/master/static/img/containers.svg)) or a repo that specifically contains branding and logos (example [here](https://github.com/miniflux/logo/blob/master/icon.svg))
+    - If the main project repo doesn't contain any images, be sure to check for a repo that contains a project website (example [here](https://github.com/lxc/linuxcontainers.org/blob/master/static/img/containers.svg)) or a repo that specifically contains branding and icons (example [here](https://github.com/miniflux/logo/blob/master/icon.svg))
 1. Wikipedia (example [here](https://en.wikipedia.org/wiki/OpenZFS))
 
 ## 4. Adding an icon
