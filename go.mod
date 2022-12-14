@@ -1,3 +1,3 @@
-module github.com/loganmarchione/svg-assets
+module github.com/loganmarchione/homelab-svg-assets
 
 go 1.19
