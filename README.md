@@ -50,7 +50,9 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/bookstack.svg)                         | BookStack                                  | [BookStackApp.com](https://www.bookstackapp.com/)                                                                              |
 | ![](./assets/bootstrap.svg)                         | Bootstrap                                  | [GetBootstrap.com](https://getbootstrap.com/docs/5.2/about/brand/)                                                             |
 | ![](./assets/boundary.svg)                          | Boundary                                   | [HashiCorp.com](https://www.hashicorp.com/brand)                                                                               |
+| ![](./assets/brave.svg)                             | Brave                                      | [Brave.com](https://brave.com/brave-branding-assets/)                                                                          |
 | ![](./assets/bulma.svg)                             | Bulma                                      | [Bulma.io](https://bulma.io/brand/)                                                                                            |
+| ![](./assets/cplusplus.svg)                         | C++                                        | [GitHub.com](https://github.com/isocpp/logos/blob/master/cpp_logo.svg)                                                         |
 | ![](./assets/calibre.svg)                           | Calibre                                    | [GitHub.com](https://github.com/kovidgoyal/calibre/blob/master/imgsrc/calibre.svg)                                             |
 | ![](./assets/canonical.svg)                         | Canonical                                  | [Ubuntu.com](https://design.ubuntu.com/downloads/)                                                                             |
 | ![](./assets/centos.svg)                            | CentOS                                     | [CentOS.org](https://wiki.centos.org/ArtWork/Brand/Logo)                                                                       |
@@ -78,8 +80,10 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/elastic-elasticsearch.svg)             | Elastic Co. Elasticsearch                  | [Elastic.co](https://www.elastic.co/elasticsearch/)                                                                            |
 | ![](./assets/elastic-kibana.svg)                    | Elastic Co. Kibana                         | [Elastic.co](https://www.elastic.co/kibana/)                                                                                   |
 | ![](./assets/elastic-logstash.svg)                  | Elastic Co. Logstash                       | [Elastic.co](https://www.elastic.co/logstash/)                                                                                 |
+| ![](./assets/electron.svg)                          | Electron                                   | [Electron](https://www.electronjs.org/)                                                                                        |
 | ![](./assets/element.svg)                           | Element                                    | [Element.io](https://element.io/)                                                                                              |
 | ![](./assets/elementaryos.svg)                      | elementary OS                              | [elementary.io](https://elementary.io/brand)                                                                                   |
+| ![](./assets/esphome.svg)                           | ESPHome                                    | [ESPHome.io](https://esphome.io/images/index.html)                                                                             |
 | ![](./assets/etcd.svg)                              | etcd                                       | [GitHub.com](https://github.com/etcd-io/etcd/blob/main/logos/etcd-glyph-color.svg)                                             |
 | ![](./assets/facebook.svg)                          | Facebook                                   | [Wikipedia.org](https://en.wikipedia.org/wiki/Facebook)                                                                        |
 | ![](./assets/fastmail.svg)                          | Fastmail                                   | [Fastmail.com](https://www.fastmail.com/media-assets/)                                                                         |
@@ -98,13 +102,19 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/gitlab.svg)                            | GitLab                                     | [GitLab.com](https://about.gitlab.com/press/press-kit/)                                                                        |
 | ![](./assets/gnome.svg)                             | Gnome                                      | [Gnome.org](https://foundation.gnome.org/logo-and-trademarks/)                                                                 |
 | ![](./assets/google.svg)                            | Google                                     | [Wikipedia.org](https://en.wikipedia.org/wiki/Google)                                                                          |
+| ![](./assets/googlecalendar.svg)                    | Google Calendar                            | [Wikipedia.org](https://en.wikipedia.org/wiki/Google_Calendar)                                                                 |
 | ![](./assets/googlechrome.svg)                      | Google Chrome                              | [Wikipedia.org](https://en.wikipedia.org/wiki/Google_Chrome)                                                                   |
+| ![](./assets/googlecloudplatform.svg)               | Google Cloud Platform (GCP)                | [Wikipedia.org](https://en.wikipedia.org/wiki/Google_Cloud_Platform)                                                           |
+| ![](./assets/googledrive.svg)                       | Google Drive                               | [Wikipedia.org](https://en.wikipedia.org/wiki/Google_Drive)                                                                    |
+| ![](./assets/googlemail.svg)                        | Google Mail (Gmail)                        | [Wikipedia.org](https://en.wikipedia.org/wiki/Gmail)                                                                           |
 | ![](./assets/gnupg.svg)                             | GnuPG                                      | [Wikipedia.org](https://en.wikipedia.org/wiki/GNU_Privacy_Guard)                                                               |
 | ![](./assets/gnu.svg)                               | GNU (Heckert)                              | [GNU.org](https://www.gnu.org/graphics/heckert_gnu.svg)                                                                        |
 | ![](./assets/go-black.svg)                          | Go (black)                                 | [Go.dev](https://go.dev/blog/go-brand)                                                                                         |
 | ![](./assets/go-blue.svg)                           | Go (blue)                                  | [Go.dev](https://go.dev/blog/go-brand)                                                                                         |
 | ![](./assets/grafana.svg)                           | Grafana                                    | [GitHub.com](https://github.com/grafana/grafana/blob/main/public/img/grafana_icon.svg)                                         |
+| ![](./assets/grav.svg)                              | Grav                                       | [GetGrav.org](https://getgrav.org/media)                                                                                       |
 | ![](./assets/graylog.svg)                           | Graylog                                    | [Graylog.org](https://www.graylog.org/)                                                                                        |
+| ![](./assets/harvester.svg)                         | Harvester                                  | [Rancher.com](https://www.rancher.com/brand-guidelines)                                                                        |
 | ![](./assets/hashicorp-black.svg)                   | HashiCorp (black)                          | [HashiCorp.com](https://www.hashicorp.com/brand)                                                                               |
 | ![](./assets/hashicorp-white.svg)                   | HashiCorp (white)                          | [HashiCorp.com](https://www.hashicorp.com/brand)                                                                               |
 | ![](./assets/helm.svg)                              | Helm                                       | [Helm.sh](https://helm.sh/)                                                                                                    |
@@ -121,6 +131,7 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/javascript.svg)                        | JavaScript                                 | [GitHub.com](https://github.com/voodootikigod/logo.js/blob/master/js.svg)                                                      |
 | ![](./assets/jellyfin.svg)                          | Jellyfin                                   | [GitHub.com](https://github.com/jellyfin/jellyfin-ux/blob/master/branding/SVG/icon-transparent.svg)                            |
 | ![](./assets/jellyseerr.svg)                        | Jellyseerr                                 | [GitHub.com](https://github.com/Fallenbagel/jellyseerr/blob/develop/public/logo_full.svg)                                      |
+| ![](./assets/k3os.svg)                              | K3OS                                       | [Rancher.com](https://www.rancher.com/brand-guidelines)                                                                        |
 | ![](./assets/k3s.svg)                               | K3s                                        | [Rancher.com](https://www.rancher.com/brand-guidelines)                                                                        |
 | ![](./assets/kde.svg)                               | KDE                                        | [KDE.org](https://kde.org/stuff/clipart/)                                                                                      |
 | ![](./assets/kodi.svg)                              | Kodi                                       | [Kodi.tv](https://kodi.tv/)                                                                                                    |
@@ -131,6 +142,7 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/libreoffice.svg)                       | LibreOffice                                | [DocumentFoundation.org](https://wiki.documentfoundation.org/Gallery_Logos)                                                    |
 | ![](./assets/lidarr.svg)                            | Lidarr                                     | [GitHub.com](https://github.com/Lidarr/Lidarr/blob/develop/Logo/Lidarr.svg)                                                    |
 | ![](./assets/linkedin.svg)                          | LinkedIn                                   | [Wikipedia.org](https://en.wikipedia.org/wiki/LinkedIn)                                                                        |
+| ![](./assets/linode.svg)                            | Linode                                     | [Linode.com](https://www.linode.com/company/press/)                                                                            |
 | ![](./assets/linux.svg)                             | Linux (Tux)                                | [Wikipedia.org](https://en.wikipedia.org/wiki/Linux)                                                                           |
 | ![](./assets/longhorn.svg)                          | Longhorn                                   | [Rancher.com](https://www.rancher.com/brand-guidelines)                                                                        |
 | ![](./assets/lxc.svg)                               | LXC                                        | [GitHub.com](https://github.com/lxc/linuxcontainers.org/blob/master/static/img/containers.svg)                                 |
@@ -143,7 +155,9 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/matrix-black.svg)                      | Matrix (black)                             | [Matrix.org](https://matrix.org/)                                                                                              |
 | ![](./assets/matrix-white.svg)                      | Matrix (white)                             | [Matrix.org](https://matrix.org/)                                                                                              |
 | ![](./assets/maxmind.svg)                           | MaxMind                                    | [MaxMind.com](https://www.maxmind.com)                                                                                         |
+| ![](./assets/memcached.svg)                         | Memcached                                  | [Wikipedia.org](https://en.wikipedia.org/wiki/Memcached)                                                                       |
 | ![](./assets/microsoft.svg)                         | Microsoft                                  | [Wikipedia.org](https://en.wikipedia.org/wiki/Microsoft)                                                                       |
+| ![](./assets/microsoftazure.svg)                    | Microsoft Azure                            | [Wikipedia.org](https://en.wikipedia.org/wiki/Microsoft_Azure)                                                                 |
 | ![](./assets/microsoftedge.svg)                     | Microsoft Edge                             | [Wikipedia.org](https://en.wikipedia.org/wiki/Microsoft_Edge)                                                                  |
 | ![](./assets/miniflux.svg)                          | Miniflux                                   | [GitHub.com](https://github.com/miniflux/logo/blob/master/icon.svg)                                                            |
 | ![](./assets/mongodb-forest-green.svg)              | MongoDB (forest green)                     | [MongoDB.com](https://www.mongodb.com/brand-resources)                                                                         |
@@ -151,6 +165,9 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/mozilla.svg)                           | Mozilla                                    | [Mozilla.design](https://mozilla.design/mozilla/)                                                                              |
 | ![](./assets/mozillafirefox.svg)                    | Mozilla Firefox                            | [Mozilla.design](https://mozilla.design/firefox/)                                                                              |
 | ![](./assets/mozillafirefoxbrowser.svg)             | Mozilla Firefox Browser                    | [Mozilla.design](https://mozilla.design/firefox/)                                                                              |
+| ![](./assets/mozillafirefoxbrowserbeta.svg)         | Mozilla Firefox Browser Beta               | [Mozilla.design](https://mozilla.design/firefox/)                                                                              |
+| ![](./assets/mozillafirefoxbrowserdeveloper.svg)    | Mozilla Firefox Browser Developer Edition  | [Mozilla.design](https://mozilla.design/firefox/)                                                                              |
+| ![](./assets/mozillafirefoxbrowsernightly.svg)      | Mozilla Firefox Browser Nightly            | [Mozilla.design](https://mozilla.design/firefox/)                                                                              |
 | ![](./assets/mozillathunderbird.svg)                | Mozilla Thunderbird                        | [GitHub.com](https://github.com/thundernest/thunderbird-website/blob/master/media/svg/logo.svg)                                |
 | ![](./assets/mullvad.svg)                           | Mullvad                                    | [Mullvad.net](https://mullvad.net/en/press/)                                                                                   |
 | ![](./assets/mysql.svg)                             | MySQL (Sakila)                             | [MySQL.com](https://www.mysql.com/about/legal/logos.html)                                                                      |
@@ -173,6 +190,7 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/opensuse.svg)                          | openSUSE                                   | [openSUSE.org](https://en.opensuse.org/openSUSE:Artwork_brand)                                                                 |
 | ![](./assets/openwrt.svg)                           | OpenWRT                                    | [GitHub.com](https://github.com/openwrt/branding/blob/master/logo/openwrt_logo_blue_and_dark_blue.svg)                         |
 | ![](./assets/openzfs.svg)                           | OpenZFS                                    | [Wikipedia.org](https://en.wikipedia.org/wiki/OpenZFS)                                                                         |
+| ![](./assets/opera.svg)                             | Opera                                      | [Opera.com](https://brand.opera.com/1472-2/opera-logos/)                                                                       |
 | ![](./assets/overseerr.svg)                         | Overseerr                                  | [GitHub.com](https://github.com/sct/overseerr/blob/develop/public/logo_full.svg)                                               |
 | ![](./assets/opencontainerinitiative.svg)           | Open Container Initiative                  | [GitHub.com](https://github.com/opencontainers/opencontainers.org/blob/master/static/img/logos/OCI-logo.svg)                   |
 | ![](./assets/opensourcehardware.svg)                | Open Source Hardware                       | [OSHWA.org](https://www.oshwa.org/open-source-hardware-logo/)                                                                  |
@@ -196,14 +214,18 @@ This repo will serve as a source of icons used in my personal projects.
 | ![](./assets/qbittorrent.svg)                       | qBittorrent                                | [GitHub.com](https://github.com/qbittorrent/qBittorrent/blob/master/src/icons/qbittorrent-tray.svg)                            |
 | ![](./assets/qemu.svg)                              | QEMU                                       | [GitLab.com](https://gitlab.com/qemu-project/qemu/-/blob/master/pc-bios/qemu_logo.svg)                                         |
 | ![](./assets/rancher.svg)                           | Rancher                                    | [Rancher.com](https://www.rancher.com/brand-guidelines)                                                                        |
+| ![](./assets/rapid7.svg)                            | Rapid7                                     | [Rapid7.com](https://brand.rapid7.com/)                                                                                        |
+| ![](./assets/rapid7-wide.svg)                       | Rapid7 (wide)                              | [Rapid7.com](https://brand.rapid7.com/)                                                                                        |
 | ![](./assets/raspberrypi.svg)                       | RaspberryPi                                | [RaspberryPi.org](https://www.raspberrypi.org)                                                                                 |
 | ![](./assets/rclone.svg)                            | Rclone                                     | [GitHub.com](https://github.com/rclone/rclone/blob/master/graphics/logo/svg/logo_symbol_color.svg)                             |
 | ![](./assets/readarr.svg)                           | Readarr                                    | [GitHub.com](https://github.com/Readarr/Readarr/blob/develop/Logo/Readarr.svg)                                                 |
 | ![](./assets/reddit.svg)                            | Reddit (Snoo)                              | [RedditInc.com](https://www.redditinc.com/brand)                                                                               |
 | ![](./assets/redhat.svg)                            | RedHat                                     | [RedHat.com](https://www.redhat.com/en/about/brand/standards/logo)                                                             |
 | ![](./assets/redis.svg)                             | Redis                                      | [Redis.com](https://redis.com/brand-guidelines/)                                                                               |
+| ![](./assets/rockylinux.svg)                        | Rocky Linux                                | [GitHub.com](https://github.com/rocky-linux/rocky-logos/blob/main/icons/hicolor/scalable/apps/fedora-logo-icon.svg)            |
 | ![](./assets/roundcube.svg)                         | Roundcube                                  | [Roundcube.net](https://roundcube.net/)                                                                                        |
 | ![](./assets/ruby.svg)                              | Ruby                                       | [Ruby-Lang.org](https://www.ruby-lang.org/en/about/logo/)                                                                      |
+| ![](./assets/safari.svg)                            | Safari                                     | [Wikipedia.org](https://en.wikipedia.org/wiki/Safari_(web_browser))                                                            |
 | ![](./assets/searx.svg)                             | Searx                                      | [GitHub.com](https://github.com/searx/searx/blob/master/searx/static/themes/simple/img/searx_logo.svg)                         |
 | ![](./assets/signal.svg)                            | Signal                                     | [GitHub.com](https://github.com/signalapp/Signal-Desktop/blob/main/images/signal-logo.svg)                                     |
 | ![](./assets/slack.svg)                             | Slack                                      | [Slack.com](https://slack.com/media-kit)                                                                                       |
@@ -254,6 +276,7 @@ This repo will serve as a source of icons used in my personal projects.
 - Authelia - Issue open [here](https://github.com/authelia/authelia/issues/4565)
 - Emby - Can't find a SVG of this
 - FreeBSD - Can't find a good SVG of this
+- Handbrake - The [SVG](https://github.com/HandBrake/HandBrake/blob/master/gtk/src/hb-icon.svg) is an encoded PNG
 - Jackett - Can't find a SVG of this
 - Postfix - Can't find a SVG of this
 - Tdarr - Can't find a SVG of this
@@ -264,40 +287,25 @@ This repo will serve as a source of icons used in my personal projects.
 - AdGuard Home
 - Adminer
 - Artifactory
-- Azure
 - Baikal
 - Bazarr
-- Brave
-- Brave Dev
 - Brocade
 - Caddy
 - Ceph
 - CheckMk
 - CloudBeaver
 - Crowdsec
-- C++
 - C#
 - Datadog
 - Discourse
-- Electron
-- ESPHome
 - Fedora
 - Filezilla
-- Firefox beta, dev, nightly
 - Ghost
-- Google Cloud Platform
-- Google Mail
-- Google Drive
-- Google Calendar
 - Grafana Loki
-- Grav
-- Handbrake
 - Harbor
-- Kiwik
+- Kiwix
 - LibreNMS
-- Linode
 - LinuxMint
-- Memcached
 - Microsoft SQl Server
 - Mikrotik
 - Minio
@@ -305,14 +313,9 @@ This repo will serve as a source of icons used in my personal projects.
 - NodeJS
 - OpenMediaVault
 - OpenJDK
-- Opera
 - Pritunl
 - Radarr
 - Radicale
-- Rancher Harvester
-- Rapid7
-- Rocky Linux
-- Safari
 - Seafile
 - Splunk
 - Tenable
@@ -325,6 +328,14 @@ This repo will serve as a source of icons used in my personal projects.
 - Zigbee
 - Zigbee2MQTT
 - ZWave
+
+- Icons that don't touch the edges (possibly need replaced?)
+  - Audacity
+  - CyberChef
+  - CentOS
+  - LXC
+  - WikiJS
+  - WhatsApp
 
 # Contribute
 
