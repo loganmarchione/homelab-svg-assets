@@ -1,8 +1,17 @@
-# svg-assets
+# homelab-svg-assets
 
 I frequently need full-color SVGs logos/icons of open-source software or brands, in a normalized size. Other projects exist (like [Simple Icons](https://simpleicons.org/) or [Bootstrap Icons](https://icons.getbootstrap.com/)), but I've found they don't fit my needs.
 
 This repo will serve as a source of icons used in my personal projects.
+
+
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [The Icons](#the-icons)
+- [To-do](#todo)
+- [Contribute](#contribute)
+
+# The Icons
 
 | Logo/Icon                                           | Name                                       | Source                                                                                                                         |
 | --------------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -253,21 +262,43 @@ This repo will serve as a source of icons used in my personal projects.
 - TinyTinyRSS - Can't find a SVG of this
 - ZeroTier - Can't find a SVG of this
 
-- OpenMediaVault
-- Caddy
-- Ghost
-- Seafile
-- CloudBeaver
 - AdGuard Home
-- Zigbee2MQTT
+- Adminer
+- Baikal
+- Brave
+- Brave Dev
+- Brocade
+- Caddy
+- Ceph
+- CloudBeaver
+- Crowdsec
+- Electron
+- ESPHome
+- Filezilla
+- Firefox beta, dev, nightly
+- Ghost
+- Google Cloud Platform
+- Harbor
+- Linode
+- LinuxMint
+- Memcached
+- Mikrotik
 - Mosquitto
+- NodeJS
+- OpenMediaVault
+- Opera
 - Pritunl
 - Radarr
-- Crowdsec
-- Memcached
 - Radicale
-- Baikal
-- LinuxMint
+- Seafile
+- Trakt
+- VMWare
+- WebKit
+- Woodpecker
+- XCP-ng
+- Zigbee
+- Zigbee2MQTT
+- ZWave
 
 # Contribute
 
