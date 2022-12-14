@@ -4,7 +4,6 @@ I frequently need full-color SVGs logos/icons of open-source software or brands,
 
 This repo will serve as a source of icons used in my personal projects.
 
-
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [The Icons](#the-icons)
