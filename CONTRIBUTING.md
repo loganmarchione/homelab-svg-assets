@@ -1,4 +1,4 @@
-# Adding a new icon
+# Contributing
 
 Most of this is taken from the [CONTRIBUTING.md](https://github.com/simple-icons/simple-icons/blob/develop/CONTRIBUTING.md) file from the [Simple Icons](https://simpleicons.org/) project
 
