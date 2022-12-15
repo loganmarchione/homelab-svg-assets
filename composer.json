@@ -1,0 +1,19 @@
+{
+    "name": "loganmarchione/homelab-svg-assets",
+    "description": "Full-color SVGs icons of homelab-related software, brands, and products",
+    "keywords": [
+        "homelab",
+        "icons",
+        "svg"
+      ],
+    "authors": [
+        {
+            "name": "Logan Marchione",
+            "email": "logan@loganmarchione.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/loganmarchione/homelab-svg-assets/issues",
+        "source": "https://github.com/loganmarchione/homelab-svg-assets"
+    }
+}
