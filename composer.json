@@ -12,6 +12,7 @@
             "email": "logan@loganmarchione.com"
         }
     ],
+    "license": "MIT",
     "support": {
         "issues": "https://github.com/loganmarchione/homelab-svg-assets/issues",
         "source": "https://github.com/loganmarchione/homelab-svg-assets"
