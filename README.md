@@ -19,6 +19,7 @@ This repo will serve as a source of icons used in my personal projects.
   - [Hugo usage](#hugo-usage)
 - [Icons](#icons)
 - [Contribute](#contribute)
+- [Legal](#legal)
 - [TODO](#todo)
 
 # Usage
