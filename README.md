@@ -1,7 +1,7 @@
 # homelab-svg-assets
 
 <a href="https://github.com/loganmarchione/homelab-svg-assets/tree/main/assets"><img src="https://img.shields.io/github/directory-file-count/loganmarchione/homelab-svg-assets/assets?extension=svg&label=Total%20Icons&type=file" alt="Total Icons"/></a>
-<img src="https://img.shields.io/github/repo-size/loganmarchione/homelab-svg-assets??label=Repo%20Size" alt="Repo Size"/>
+<a href="https://github.com/loganmarchione/homelab-svg-assets"><img src="https://img.shields.io/github/repo-size/loganmarchione/homelab-svg-assets??label=Repo%20Size" alt="Repo Size"/></a>
 
 
 <a href="https://github.com/loganmarchione/homelab-svg-assets/tags"><img src="https://img.shields.io/github/v/tag/loganmarchione/homelab-svg-assets?label=Latest%20GitHub%20Version&sort=semver" alt="Latest GitHub Version"/></a>
