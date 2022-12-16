@@ -1,8 +1,13 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Icons](#icons)
+- [TODO](#todo)
+
 # Icons
 
 See below for a rendered icon, name, and source.
 
-| Logo/Icon                                           | Name                                       | Source                                                                                                                         |
+| Icon                                                | Name                                       | Source                                                                                                                         |
 | --------------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
 | ![](./assets/alpinelinux.svg)                       | Alpine Linux                               | [AlpineLinux.org](https://www.alpinelinux.org/)                                                                                |
 | ![](./assets/amazon.svg)                            | Amazon                                     | [Wikipedia.org](https://en.wikipedia.org/wiki/Amazon_(company))                                                                |
@@ -289,3 +294,45 @@ See below for a rendered icon, name, and source.
 | ![](./assets/ycombinator.svg)                       | Y Combinator                               | [Wikipedia.org](https://en.wikipedia.org/wiki/Y_Combinator)                                                                    |
 | ![](./assets/zshell.svg)                            | Z Shell (ZSH)                              | [Wikipedia.org](https://en.wikipedia.org/wiki/Z_shell)                                                                         |
 | ![](./assets/zwave.svg)                             | Z-Wave                                     | [Wikipedia.org](https://en.wikipedia.org/wiki/Z-Wave)                                                                          |
+
+# TODO
+
+- Icons to add
+  - AdGuard Home
+  - Adminer
+  - C#
+  - Fedora
+  - Microsoft SQl Server
+  - Pritunl
+  - Radarr
+  - Radicale
+  - Seafile
+  - Trakt
+  - VMWare
+  - XCP-ng
+  - Zigbee2MQTT
+
+- Icons that I can't find
+  - Baikal - Can't find a SVG of this
+  - Bazarr - Can't find a SVG of this
+  - Caddy - Can't find a SVG of this (has some PNG data inside it)
+  - CloudBeaver - Can't find a SVG of this
+  - Emby - Can't find a SVG of this
+  - FreeBSD - Can't find a good SVG of this  (has some PNG data inside it)
+  - Ghost - Can't find a SVG of this
+  - Handbrake - The [SVG](https://github.com/HandBrake/HandBrake/blob/master/gtk/src/hb-icon.svg) is an encoded PNG
+  - Jackett - Can't find a SVG of this
+  - Postfix - Can't find a SVG of this
+  - Tdarr - Can't find a SVG of this
+  - Telegraf - Issue open [here](https://github.com/influxdata/telegraf/issues/12327)
+  - TinyTinyRSS - Can't find a SVG of this
+  - ZeroTier - Can't find a SVG of this
+  - Zigbee - Can't find a SVG of this
+
+- Icons that don't touch the edges (possibly need to be replaced?)
+  - Audacity
+  - CyberChef
+  - CentOS
+  - LXC
+  - WikiJS
+  - WhatsApp

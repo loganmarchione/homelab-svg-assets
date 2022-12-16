@@ -13,7 +13,7 @@ Most of this is taken from the [CONTRIBUTING.md](https://github.com/simple-icons
 - [Annotating an icon](#7-annotating-an-icon)
 - [Updating the README](#8-updating-the-readme)
 
-## 1. Get software
+# 1. Get software
 
 1. Download [Inkscape](https://inkscape.org/). It's free for Windows, Mac, and Linux.
 1. Install [svgo](https://github.com/svg/svgo) (this is used to optimize SVGs)
@@ -21,13 +21,13 @@ Most of this is taken from the [CONTRIBUTING.md](https://github.com/simple-icons
     - Arch = `sudo pacman -S scour`
     - Ubuntu = `sudo apt-get install python3-scour`
 
-## 2. Setup Inkscape
+# 2. Setup Inkscape
 
 You only need to do this once:
 
 1. `Edit-->Preferences-->Behavior-->Transforms-->Scale stroke width` = Enabled
 
-## 3. Identify icon
+# 3. Identify icon
 
 When possible, icons should be sought from official sources first, only then falling back on unofficial sources. The order below should be the preferred order.
 
@@ -37,7 +37,7 @@ When possible, icons should be sought from official sources first, only then fal
     - If the main project repo doesn't contain any images, be sure to check for a repo that contains a project website (example [here](https://github.com/lxc/linuxcontainers.org/blob/master/static/img/containers.svg)) or a repo that specifically contains branding and icons (example [here](https://github.com/miniflux/logo/blob/master/icon.svg))
 1. Wikipedia (example [here](https://en.wikipedia.org/wiki/OpenZFS))
 
-## 4. Adding an icon
+# 4. Adding an icon
 
 1. Open each file with Inkscape
 1. Resize the document and viewbox to 48x48
@@ -53,7 +53,7 @@ When possible, icons should be sought from official sources first, only then fal
        - Uncheck `Embed raster images`
        - Check `Enable viewboxing`
 
-## 5. Name the icon
+# 5. Name the icon
 
 Each icon will have two names:
 - A filename (e.q., `filename.svg`)
@@ -81,14 +81,14 @@ Adhere to the following rules when choosing filenames:
    |-------------------------|-------------------------|
    | `apachesolr.svg`        | `solr.svg`              |
 
-## 6. Optimizing an icon
+# 6. Optimizing an icon
 
 1. Run `svgo` to optimize the image (the default settings are fine) 
    ```
    svgo assets/filename.svg
    ```
 
-## 7. Annotating an icon
+# 7. Annotating an icon
 
 Manually check each icon to ensure it **HAS** these settings:
 
@@ -112,7 +112,7 @@ Manually check each icon to ensure it **DOES NOT** have these settings:
 - `height` or `width` - Instead, use `viewBox` as show above.
 - Make sure there is no `png` data encoded into each file.
 
-## 8. Updating the README
+# 8. Updating the README
 
 Add the icon to the table in `README.md` using the following guidelines:
 
