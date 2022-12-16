@@ -16,6 +16,7 @@ This repo will serve as a source of icons used in my personal projects.
 - [Usage](#usage)
   - [General usage](#general-usage)
   - [PHP usage](#php-usage)
+  - [Hugo usage](#hugo-usage)
 - [Icons](#icons)
 - [Contribute](#contribute)
 - [TODO](#todo)
