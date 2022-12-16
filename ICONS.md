@@ -9,6 +9,7 @@ See below for a rendered icon, name, and source.
 
 | Icon                                                | Name                                       | Source                                                                                                                         |
 | --------------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| ![](./assets/adguardhome.svg)                       | AdGuard Home                               | [GitHub.com](https://github.com/AdguardTeam/AdGuardHome/blob/master/doc/adguard_home_lightmode.svg)                            |
 | ![](./assets/alpinelinux.svg)                       | Alpine Linux                               | [AlpineLinux.org](https://www.alpinelinux.org/)                                                                                |
 | ![](./assets/amazon.svg)                            | Amazon                                     | [Wikipedia.org](https://en.wikipedia.org/wiki/Amazon_(company))                                                                |
 | ![](./assets/amazon-smile.svg)                      | Amazon (smile)                             | [Wikipedia.org](https://en.wikipedia.org/wiki/Amazon_(company))                                                                |
@@ -58,6 +59,7 @@ See below for a rendered icon, name, and source.
 | ![](./assets/chromium.svg)                          | Chromium                                   | [Wikipedia.org](https://en.wikipedia.org/wiki/Chromium_(web_browser))                                                          |
 | ![](./assets/cloudflare.svg)                        | Cloudflare                                 | [Cloudflare.com](https://www.cloudflare.com/logo/)                                                                             |
 | ![](./assets/cloudflarepages.svg)                   | Cloudflare Pages                           | [Cloudflare.com](https://pages.cloudflare.com/)                                                                                |
+| ![](./assets/codeberg.svg)                          | Codeberg                                   | [Codeberg.org](https://codeberg.org/Codeberg/Design/src/branch/main/logo/icon/svg/codeberg-logo_icon_blue.svg)                 |
 | ![](./assets/consul.svg)                            | Consul                                     | [HashiCorp.com](https://www.hashicorp.com/brand)                                                                               |
 | ![](./assets/crowdsec.svg)                          | CrowdSec                                   | [CrowdSec.net](https://www.crowdsec.net/)                                                                                      |
 | ![](./assets/css3.svg)                              | CSS3                                       | [Wikipedia.org](https://en.wikipedia.org/wiki/CSS)                                                                             |
@@ -96,6 +98,7 @@ See below for a rendered icon, name, and source.
 | ![](./assets/flatpak-white.svg)                     | Flatpak (white)                            | [Flatpak.org](https://flatpak.org/press/)                                                                                      |
 | ![](./assets/fluxcd.svg)                            | FluxCD                                     | [GitHub.com](https://github.com/fluxcd/website/blob/main/assets/icons/logo.svg)                                                |
 | ![](./assets/focalboard.svg)                        | Focalboard                                 | [GitHub.com](https://github.com/mattermost/focalboard/blob/main/webapp/static/favicon.svg)                                     |
+| ![](./assets/forgejo.svg)                           | Forgejo                                    | [Codeberg.org](https://codeberg.org/forgejo/forgejo)                                                                           |
 | ![](./assets/fossil.svg)                            | Fossil                                     | [Wikipedia.org](https://en.wikipedia.org/wiki/Fossil_(software))                                                               |
 | ![](./assets/freshrss.svg)                          | FreshRSS                                   | [GitHub.com](https://github.com/FreshRSS/FreshRSS/blob/edge/docs/img/FreshRSS-logo.svg)                                        |
 | ![](./assets/gimp.svg)                              | GIMP (Wilber)                              | [GIMP.org](https://www.gimp.org/about/linking.html)                                                                            |
@@ -152,6 +155,7 @@ See below for a rendered icon, name, and source.
 | ![](./assets/librenms-white.svg)                    | LibreNMS (white)                           | [GitHub.com](https://github.com/librenms/librenms.github.io/blob/master/images/LibreNMS-Logo.svg)                              |
 | ![](./assets/libreoffice.svg)                       | LibreOffice                                | [DocumentFoundation.org](https://wiki.documentfoundation.org/Gallery_Logos)                                                    |
 | ![](./assets/lidarr.svg)                            | Lidarr                                     | [GitHub.com](https://github.com/Lidarr/Lidarr/blob/develop/Logo/Lidarr.svg)                                                    |
+| ![](./assets/lineageos.svg)                         | LineageOS                                  | [LineageOS.org](https://lineageos.org/)                                                                                        |
 | ![](./assets/linkedin.svg)                          | LinkedIn                                   | [Wikipedia.org](https://en.wikipedia.org/wiki/LinkedIn)                                                                        |
 | ![](./assets/linode.svg)                            | Linode                                     | [Linode.com](https://www.linode.com/company/press/)                                                                            |
 | ![](./assets/linux.svg)                             | Linux (Tux)                                | [Wikipedia.org](https://en.wikipedia.org/wiki/Linux)                                                                           |
@@ -298,8 +302,6 @@ See below for a rendered icon, name, and source.
 # TODO
 
 - Icons to add
-  - AdGuard Home
-  - Adminer
   - C#
   - Fedora
   - Microsoft SQl Server
@@ -313,6 +315,7 @@ See below for a rendered icon, name, and source.
   - Zigbee2MQTT
 
 - Icons that I can't find
+  - Adminer - Can't find a SVG of this
   - Baikal - Can't find a SVG of this
   - Bazarr - Can't find a SVG of this
   - Caddy - Can't find a SVG of this (has some PNG data inside it)
