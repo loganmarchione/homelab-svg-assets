@@ -1,7 +1,11 @@
 # homelab-svg-assets
 
-![](https://img.shields.io/github/directory-file-count/loganmarchione/homelab-svg-assets/assets?extension=svg&label=Icons&type=file)
-![](https://img.shields.io/github/repo-size/loganmarchione/homelab-svg-assets)
+<a href="https://github.com/loganmarchione/homelab-svg-assets/tree/main/assets"><img src="https://img.shields.io/github/directory-file-count/loganmarchione/homelab-svg-assets/assets?extension=svg&label=Total%20Icons&type=file" alt="Total Icons"/></a>
+<img src="https://img.shields.io/github/repo-size/loganmarchione/homelab-svg-assets??label=Repo%20Size" alt="Repo Size"/>
+
+
+<a href="https://github.com/loganmarchione/homelab-svg-assets/tags"><img src="https://img.shields.io/github/v/tag/loganmarchione/homelab-svg-assets?label=Latest%20GitHub%20Version&sort=semver" alt="Latest GitHub Version"/></a>
+<a href="https://packagist.org/packages/loganmarchione/homelab-svg-assets"><img src="https://img.shields.io/packagist/v/loganmarchione/homelab-svg-assets?label=Latest%20Packagist%20Version" alt="Latest Packagist Version"/></a>
 
 I frequently need full-color SVG icons of homelab-related software, products, and brands  in a normalized size. Other projects exist (like [Simple Icons](https://simpleicons.org/) or [Bootstrap Icons](https://icons.getbootstrap.com/)), but I've found they don't fit my needs.
 
@@ -17,6 +21,8 @@ This repo will serve as a source of icons used in my personal projects.
 - [TODO](#todo)
 
 # Usage
+
+❗ All users should read read the [disclaimer](DISCLAIMER.md) before using this project. 
 
 ## General usage
 
@@ -97,10 +103,17 @@ See [ICONS.md](ICONS.md) for a preview of all icons.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)
 
+# Legal
+
+See [DISCLAIMER.md](DISCLAIMER.md)
 
 # TODO
 
-- [ ] Add Diagrams.net library (need)
 - [x] Add Hugo working example
-- [ ] Add license
-- [ ] Add disclaimer page
+- [x] Add LICENSE.md
+- [x] Add DISCLAIMER.md
+- [ ] Verify auto-update [Packagist hook](https://packagist.org/about#how-to-update-packages) is working
+- [ ] Add `data.json` to collect brand guidelines and legal requirements
+- [ ] Write Python script to dynamically generate `ICONS.md` from `data.json` file
+- [ ] Go through list of icons to find any that require the registered trademark (®) or trademark symbol (™) to be added
+- [ ] Add Diagrams.net library (need)

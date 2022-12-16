@@ -29,6 +29,12 @@ You only need to do this once:
 
 # 3. Identify icon
 
+Only homelab-related icons will be added (e.g., Burger King will not be added). In addition, the following icons will not be added:
+
+- Government organizations 
+- Flags and banners
+- Universities or educational institutions
+
 When possible, icons should be sought from official sources first, only then falling back on unofficial sources. The order below should be the preferred order.
 
 1. About pages, Press pages, Media Kits, and Brand Guidelines (example [here](https://github.com/logos) and [here](https://www.hashicorp.com/brand))
