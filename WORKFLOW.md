@@ -16,3 +16,7 @@
     git tag -a X.Y.Z -m "X.Y.Z - Text goes here"
     git push origin X.Y.Z
     ```
+1. Publish to NPM
+   ```
+   npm publish
+   ```

@@ -118,12 +118,30 @@ Manually check each icon to ensure it **DOES NOT** have these settings:
 - `height` or `width` - Instead, use `viewBox` as show above.
 - Make sure there is no `png` data encoded into each file.
 
-# 8. Updating the README
+# 8. Updating the JSON file
 
-Add the icon to the table in `README.md` using the following guidelines:
+Add the icon to the `icons.json` file. There are four lines for each icon:
+
+1. Path: The path in the `assets` directory to the icon
+1. Name: The display name that will be shown in the final markdown file
+1. A link to the source where you found the SVG file
+1. A link to the brand's guidelines, if any exist (otherwise leave blank)
+
+When adding to the `icons.json` file, use the following guidelines:
 
 1. Use alphabetical order by the display name (not the filename)
 1. The display name can have symbols (e.g., `C++` or `Diagrams.net`)
 1. Separate version of the icon should have descriptive display names (e.g., `Bash (dark)` and `Bash (light)`)
 1. The display name should be stylized as per the brand's requirements (e.g., `ownCloud` instead of `OwnCloud`)
 1. The display name can have more information about the icon (e.g., the Linux penguin's name is Tux!)
+
+A full example is below:
+
+```
+        {
+            "path": "./assets/gimp.svg",
+            "name": "GIMP (Wilber)",
+            "source": "https://gitlab.gnome.org/Infrastructure/gimp-web/blob/master/themes/newgimp/static/images/gimp.svg",
+            "guidelines": "https://www.gimp.org/about/linking.html"
+        },
+```

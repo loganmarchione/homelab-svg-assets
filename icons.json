@@ -555,8 +555,8 @@
         {
             "path": "./assets/gimp.svg",
             "name": "GIMP (Wilber)",
-            "source": "https://www.gimp.org/about/linking.html",
-            "guidelines": ""
+            "source": "https://gitlab.gnome.org/Infrastructure/gimp-web/blob/master/themes/newgimp/static/images/gimp.svg",
+            "guidelines": "https://www.gimp.org/about/linking.html"
         },
         {
             "path": "./assets/git.svg",
