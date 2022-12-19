@@ -10,8 +10,6 @@
 
 Over 300 full-color SVG icons of homelab-related software, products, and brands in a normalized size.
 
-This repo will serve as a source of icons used in my personal projects.
-
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Usage](#usage)
