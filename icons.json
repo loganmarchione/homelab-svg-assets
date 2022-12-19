@@ -175,6 +175,48 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/atlassian.svg",
+            "name": "Atlassian",
+            "source": "https://atlassian.design/resources/logo-library",
+            "guidelines": "https://atlassian.design/foundations/logos"
+        },
+        {
+            "path": "./assets/atlassianbamboo.svg",
+            "name": "Atlassian Bamboo",
+            "source": "https://atlassian.design/resources/logo-library",
+            "guidelines": "https://atlassian.design/foundations/logos"
+        },
+        {
+            "path": "./assets/atlassianbitbucket.svg",
+            "name": "Atlassian Bitbucket",
+            "source": "https://atlassian.design/resources/logo-library",
+            "guidelines": "https://atlassian.design/foundations/logos"
+        },
+        {
+            "path": "./assets/atlassianconfluence.svg",
+            "name": "Atlassian Confluence",
+            "source": "https://atlassian.design/resources/logo-library",
+            "guidelines": "https://atlassian.design/foundations/logos"
+        },
+        {
+            "path": "./assets/atlassianjira.svg",
+            "name": "Atlassian Jira",
+            "source": "https://atlassian.design/resources/logo-library",
+            "guidelines": "https://atlassian.design/foundations/logos"
+        },
+        {
+            "path": "./assets/atlassianopsgenie.svg",
+            "name": "Atlassian Opsgenie",
+            "source": "https://atlassian.design/resources/logo-library",
+            "guidelines": "https://atlassian.design/foundations/logos"
+        },
+        {
+            "path": "./assets/atlassiantrello.svg",
+            "name": "Atlassian Trello",
+            "source": "https://atlassian.design/resources/logo-library",
+            "guidelines": "https://atlassian.design/foundations/logos"
+        },
+        {
             "path": "./assets/audacity.svg",
             "name": "Audacity",
             "source": "https://github.com/audacity/audacity/blob/master/images/audacity.svg",
@@ -661,6 +703,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/gotify.svg",
+            "name": "Gotify",
+            "source": "https://github.com/gotify/logo/blob/master/gotify-logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/grafana.svg",
             "name": "Grafana",
             "source": "https://github.com/grafana/grafana/blob/main/public/img/grafana_icon.svg",
@@ -772,6 +820,12 @@
             "path": "./assets/intel-circle.svg",
             "name": "Intel (circle)",
             "source": "https://en.wikipedia.org/wiki/Intel",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/invidious.svg",
+            "name": "Invidious",
+            "source": "https://github.com/iv-org/invidious/blob/master/assets/invidious-colored-vector.svg",
             "guidelines": ""
         },
         {
@@ -928,6 +982,12 @@
             "path": "./assets/lxc.svg",
             "name": "LXC",
             "source": "https://github.com/lxc/linuxcontainers.org/blob/master/static/img/containers.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/mailcow.svg",
+            "name": "mailcow",
+            "source": "https://github.com/mailcow/mailcow-dockerized/blob/master/data/web/img/cow_mailcow.svg",
             "guidelines": ""
         },
         {
@@ -1577,6 +1637,12 @@
             "name": "Traefik (proxy)",
             "source": "https://traefik.io/traefik/",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/trakt.svg",
+            "name": "Trakt",
+            "source": "https://trakt.tv/branding",
+            "guidelines": "https://trakt.tv/branding"
         },
         {
             "path": "./assets/transmission.svg",

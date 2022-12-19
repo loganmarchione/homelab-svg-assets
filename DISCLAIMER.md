@@ -14,8 +14,8 @@ However, the SVG icons of homelab-related software, products, and brands are pro
 
 # Updating of icons
 
-To request an update of an icon, please open a [GitHub issue](https://github.com/loganmarchione/homelab-svg-assets/issues). The icon will be updated as soon as reasonably possible.
+To request an update of an icon, please open a [GitHub issue](https://github.com/loganmarchione/homelab-svg-assets/issues). Please explain your association with the software, products, or brand, and the reason for the update. The icon will be updated as soon as reasonably possible.
 
 # Removal of icons
 
-To request removal of an icon, please contact me directly at `logan[at]loganmarchione[dot]com` or open a [GitHub issue](https://github.com/loganmarchione/homelab-svg-assets/issues). The icon will be removed as soon as reasonably possible.
+To request removal of an icon, please contact me directly at `logan[at]loganmarchione[dot]com` or open a [GitHub issue](https://github.com/loganmarchione/homelab-svg-assets/issues). Please explain your association with the software, products, or brand, and the reason for the removal. The icon will be removed as soon as reasonably possible.

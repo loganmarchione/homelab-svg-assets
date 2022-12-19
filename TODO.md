@@ -1,37 +1,52 @@
 # TODO
 
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Tasks](#tasks)
+- [Icons](#icons)
+
+# Tasks
+- [x] Add Hugo working example
+- [x] Add LICENSE.md
+- [x] Add DISCLAIMER.md
+- [x] Verify auto-update [Packagist hook](https://packagist.org/about#how-to-update-packages) is working
+- [x] Add `data.json` to collect brand guidelines and legal requirements
+- [x] Write Python script to dynamically generate `ICONS.md` from `data.json` file
+- [ ] Go through list of icons to find any that require the registered trademark (®) or trademark symbol (™) to be added
+- [ ] Add Diagrams.net library (will need to format JSON data into XML)
+
+# Icons
 - Icons to add
-  - AlmaLinux
   - C#
   - Fedora
-  - Kali Linux
-  - Glances
+  - Firefly III
   - LXDE
-  - Mailcow
-  - Microsoft SQl Server
-  - Netdata
+  - Navidrome
+  - Ombi
   - Pritunl
   - Radicale
   - Seafile
-  - Trakt
   - VMWare
   - XFCE
 
 - Icons that I can't find
   - Adminer - Can't find a SVG of this (this software hasn't had an update since [2021-05-23](https://github.com/vrana/adminer/commit/88647b93e467210f270340e758af6771e2c5638a))
   - Baikal - Issue open [here](https://github.com/sabre-io/Baikal/issues/1143)
-  - Bazarr - Can't find a SVG of this
+  - Bazarr - Issue open [here](https://github.com/morpheus65535/bazarr/issues/2020)
   - Caddy - Can't find a SVG of this (has some PNG data inside it)
   - CloudBeaver - Can't find a SVG of this
   - Emby - Can't find a SVG of this
   - FreeBSD - Can't find a good SVG of this  (has some PNG data inside it)
   - Ghost - Can't find a SVG of this
+  - Glances - Can't find a SVG of this
+  - ~~Gotify - Issue open [here](https://github.com/gotify/website/issues/67)~~
   - Handbrake - The [SVG](https://github.com/HandBrake/HandBrake/blob/master/gtk/src/hb-icon.svg) is an encoded PNG
   - Jackett - Issue open [here](https://github.com/Jackett/Jackett/issues/13789)
+  - Microsoft SQL Server
   - Postfix - Can't find a SVG of this
   - Tdarr - Can't find a SVG of this
   - Telegraf - Issue open [here](https://github.com/influxdata/telegraf/issues/12327)
-  - TinyTinyRSS - Can't find a SVG of this
+  - Watchtower - Issue open [here](https://github.com/containrrr/watchtower/issues/1510)
   - XCP-ng - Issue open [here](https://github.com/xcp-ng/xcp/issues/583)
   - ZeroTier - Can't find a SVG of this
   - Zigbee - Can't find a SVG of this
@@ -44,3 +59,6 @@
   - LXC
   - WikiJS
   - WhatsApp
+
+- Icons that came from non-official sources (possibly need to be replaced?)
+  - TinyTinyRSS - Can't find a SVG of this

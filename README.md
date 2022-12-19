@@ -4,10 +4,11 @@
 <a href="https://github.com/loganmarchione/homelab-svg-assets"><img src="https://img.shields.io/github/repo-size/loganmarchione/homelab-svg-assets??label=Repo%20Size" alt="Repo Size"/></a>
 
 
-<a href="https://github.com/loganmarchione/homelab-svg-assets/tags"><img src="https://img.shields.io/github/v/tag/loganmarchione/homelab-svg-assets?label=Latest%20GitHub%20Version&sort=semver" alt="Latest GitHub Version"/></a>
-<a href="https://packagist.org/packages/loganmarchione/homelab-svg-assets"><img src="https://img.shields.io/packagist/v/loganmarchione/homelab-svg-assets?label=Latest%20Packagist%20Version" alt="Latest Packagist Version"/></a>
+<a href="https://github.com/loganmarchione/homelab-svg-assets/tags"><img src="https://img.shields.io/github/v/tag/loganmarchione/homelab-svg-assets?color=green&logo=github&label=Latest%20GitHub%20Tag&sort=semver" alt="Latest GitHub Tag"/></a>
+<a href="https://packagist.org/packages/loganmarchione/homelab-svg-assets"><img src="https://img.shields.io/packagist/v/loganmarchione/homelab-svg-assets?color=green&logo=packagist&logoColor=white&label=Latest%20Packagist%20Version" alt="Latest Packagist Version"/></a>
+<a href="https://www.npmjs.com/package/@loganmarchione/homelab-svg-assets"><img src="https://img.shields.io/npm/v/@loganmarchione/homelab-svg-assets?color=green&logo=npm&label=Latest%20NPM%20Version" alt="Latest NPM Version"/></a>
 
-I frequently need full-color SVG icons of homelab-related software, products, and brands  in a normalized size. Other projects exist (like [Simple Icons](https://simpleicons.org/) or [Bootstrap Icons](https://icons.getbootstrap.com/)), but I've found they don't fit my needs.
+Over 300 full-color SVG icons of homelab-related software, products, and brands in a normalized size.
 
 This repo will serve as a source of icons used in my personal projects.
 
@@ -15,22 +16,31 @@ This repo will serve as a source of icons used in my personal projects.
 - [Table of Contents](#table-of-contents)
 - [Usage](#usage)
   - [General usage](#general-usage)
+  - [CDN usage](#cdn-usage)
   - [PHP usage](#php-usage)
+  - [NPM usage](#npm-usage)
   - [Hugo usage](#hugo-usage)
-- [Icons](#icons)
 - [Contribute](#contribute)
 - [Legal](#legal)
 - [TODO](#todo)
 
 # Usage
 
-❗ All users should read the [disclaimer](DISCLAIMER.md) before using this project. 
+⚠️ All users should read the [disclaimer](DISCLAIMER.md) before using this project. ⚠️
 
 ## General usage
 
-Icons as SVGs are available in the [assets](https://github.com/loganmarchione/homelab-svg-assets/tree/main/assets) directory.
+Icons as SVGs are available in the [assets](https://github.com/loganmarchione/homelab-svg-assets/tree/main/assets) directory. See [ICONS.md](ICONS.md) for a preview of all icons.
 
-See [ICONS.md](ICONS.md) for a preview of all icons.
+## CDN usage
+
+Icons are available via [jsDelivr](https://www.jsdelivr.com/package/npm/@loganmarchione/homelab-svg-assets).
+
+Replace the icon name as needed. You can also replace `latest` with a specific version.
+
+```
+<img height="48" width="48" src="https://cdn.jsdelivr.net/npm/@loganmarchione/homelab-svg-assets@latest/assets/linux.svg"/>
+```
 
 ## PHP usage
 
@@ -47,6 +57,22 @@ Run `composer require loganmarchione/homelab-svg-assets`, or add the package to 
 ```
 
 Icons will be available at `./vendor/loganmarchione/homelab-svg-assets/assets/linux.svg`
+
+## NPM usage
+
+Icons are available as a package on [NPM](https://www.npmjs.com/package/@loganmarchione/homelab-svg-assets).
+
+Run `npm install @loganmarchione/homelab-svg-assets`, or add the package to your `package.json` file (below)
+
+```
+{
+  "dependencies": {
+    "@loganmarchione/homelab-svg-assets": "*"
+  }
+}
+```
+
+Icons will be available at `./node_modules/@loganmarchione/homelab-svg-assets/assets/linux.svg`
 
 ## Hugo usage
 
@@ -96,14 +122,8 @@ Copy/paste the following code into the shortcode (you can apply custom CSS using
 Finally, in your markdown files, you can reference the icon:
 
 ```
-{{< homelab src="twitter" >}}
+{{< homelab src="linux" >}}
 ```
-
-# Icons
-
-See [ICONS.md](ICONS.md) for a preview of all icons.
-
-See [TODO.md](TODO.md) for icons I'm working on.
 
 # Contribute
 
@@ -115,11 +135,4 @@ See [DISCLAIMER.md](DISCLAIMER.md)
 
 # TODO
 
-- [x] Add Hugo working example
-- [x] Add LICENSE.md
-- [x] Add DISCLAIMER.md
-- [x] Verify auto-update [Packagist hook](https://packagist.org/about#how-to-update-packages) is working
-- [x] Add `data.json` to collect brand guidelines and legal requirements
-- [x] Write Python script to dynamically generate `ICONS.md` from `data.json` file
-- [ ] Go through list of icons to find any that require the registered trademark (®) or trademark symbol (™) to be added
-- [ ] Add Diagrams.net library (will need to format JSON data into XML)
+See [TODO.md](TODO.md)
