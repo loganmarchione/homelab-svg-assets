@@ -7,6 +7,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/almalinux.svg",
+            "name": "AlmaLinux OS",
+            "source": "https://almalinux.org/",
+            "guidelines": "https://almalinux.org/p/the-almalinux-os-trademark-usage-policy/"
+        },
+        {
             "path": "./assets/alpinelinux.svg",
             "name": "Alpine Linux",
             "source": "https://www.alpinelinux.org/",
@@ -811,6 +817,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/kalilinux.svg",
+            "name": "Kali Linux",
+            "source": "https://www.kali.org/",
+            "guidelines": "https://www.kali.org/docs/policy/trademark/"
+        },
+        {
             "path": "./assets/kde.svg",
             "name": "KDE",
             "source": "https://kde.org/stuff/clipart/",
@@ -1084,6 +1096,12 @@
             "path": "./assets/n8n.svg",
             "name": "n8n",
             "source": "https://n8n.io/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/netdata.svg",
+            "name": "Netdata",
+            "source": "https://github.com/netdata/netdata/blob/master/web/gui/dashboard/images/netdata-logomark.svg",
             "guidelines": ""
         },
         {
