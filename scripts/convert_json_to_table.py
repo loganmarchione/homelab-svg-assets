@@ -10,7 +10,7 @@ with open("icons.json", "r") as json_file:
 x = PrettyTable()
 x.set_style(MARKDOWN)
 x.align = "l"
-x.field_names = ["Icon","Name", "Source", "Guidelines"]
+x.field_names = ["Icon","Name", "Icon Source", "Icon Guidelines"]
 
 # For each item inside "icons"
 for item in data["icons"]:
@@ -26,7 +26,7 @@ for item in data["icons"]:
   if not guidelines:
    f_guidelines=f""
   if guidelines:
-    f_guidelines=f"[Guidlines]({guidelines})"
+    f_guidelines=f"[Guidelines]({guidelines})"
   
   # Add the row
   x.add_row([f_img, name, f_source, f_guidelines])

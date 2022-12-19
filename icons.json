@@ -1,0 +1,1744 @@
+{
+    "icons": [
+        {
+            "path": "./assets/adguardhome.svg",
+            "name": "AdGuard Home",
+            "source": "https://github.com/AdguardTeam/AdGuardHome/blob/master/doc/adguard_home_lightmode.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/alpinelinux.svg",
+            "name": "Alpine Linux",
+            "source": "https://www.alpinelinux.org/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/amazon.svg",
+            "name": "Amazon",
+            "source": "https://en.wikipedia.org/wiki/Amazon_(company)",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/amazon-smile.svg",
+            "name": "Amazon (smile)",
+            "source": "https://en.wikipedia.org/wiki/Amazon_(company)",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/amazonwebservices.svg",
+            "name": "Amazon Web Service (AWS)",
+            "source": "https://en.wikipedia.org/wiki/Amazon_Web_Services",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/amd.svg",
+            "name": "AMD",
+            "source": "https://en.wikipedia.org/wiki/Advanced_Micro_Devices",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/amd-wide.svg",
+            "name": "AMD (wide)",
+            "source": "https://en.wikipedia.org/wiki/Advanced_Micro_Devices",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/android.svg",
+            "name": "Android",
+            "source": "https://developer.android.com/distribute/marketing-tools/brand-guidelines",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/ansible-black.svg",
+            "name": "Ansible (black)",
+            "source": "https://www.ansible.com/logos",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/ansible-gray.svg",
+            "name": "Ansible (gray)",
+            "source": "https://www.ansible.com/logos",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/ansible-outline.svg",
+            "name": "Ansible (outline)",
+            "source": "https://www.ansible.com/logos",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/ansible-red.svg",
+            "name": "Ansible (red)",
+            "source": "https://www.ansible.com/logos",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/ansible-teal.svg",
+            "name": "Ansible (teal)",
+            "source": "https://www.ansible.com/logos",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/apachecassandra.svg",
+            "name": "Apache Cassandra",
+            "source": "https://en.wikipedia.org/wiki/Apache_Cassandra",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/apacheguacamole.svg",
+            "name": "Apache Guacamole",
+            "source": "https://www.apache.org/logos/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/apachehttpd.svg",
+            "name": "Apache HTTPD",
+            "source": "https://www.apache.org/logos/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/apachekafka.svg",
+            "name": "Apache Kafka",
+            "source": "https://www.apache.org/logos/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/apacheopenoffice.svg",
+            "name": "Apache OpenOffice",
+            "source": "https://www.apache.org/logos/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/apachesolr.svg",
+            "name": "Apache Solr",
+            "source": "https://www.apache.org/logos/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/apachesubversion.svg",
+            "name": "Apache Subversion",
+            "source": "https://www.apache.org/logos/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/apachetomcat.svg",
+            "name": "Apache Tomcat",
+            "source": "https://www.apache.org/logos/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/appimage.svg",
+            "name": "AppImage",
+            "source": "https://github.com/AppImage/appimage.github.io/blob/master/img/logo3.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/apple-black.svg",
+            "name": "Apple (black)",
+            "source": "https://en.wikipedia.org/wiki/Apple_Inc.",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/apple-gray.svg",
+            "name": "Apple (gray)",
+            "source": "https://en.wikipedia.org/wiki/Apple_Inc.",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/apple-rainbow.svg",
+            "name": "Apple (rainbow)",
+            "source": "https://en.wikipedia.org/wiki/Apple_Inc.",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/archlinux.svg",
+            "name": "Arch Linux",
+            "source": "https://archlinux.org/art/",
+            "guidelines": "https://wiki.archlinux.org/title/DeveloperWiki:TrademarkPolicy"
+        },
+        {
+            "path": "./assets/argocd.svg",
+            "name": "ArgoCD",
+            "source": "https://cncf-branding.netlify.app/projects/argo/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/arm.svg",
+            "name": "ARM",
+            "source": "https://www.arm.com/company/policies/trademarks/guidelines-corporate-logo",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/audacity.svg",
+            "name": "Audacity",
+            "source": "https://github.com/audacity/audacity/blob/master/images/audacity.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/authelia.svg",
+            "name": "Authelia",
+            "source": "https://github.com/authelia/authelia/blob/master/docs/static/images/branding/logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/backblaze.svg",
+            "name": "Backblaze",
+            "source": "https://www.backblaze.com/partner/affiliate_resources.html",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/bash-dark.svg",
+            "name": "Bash (dark)",
+            "source": "https://bashlogo.com/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/bash-light.svg",
+            "name": "Bash (light)",
+            "source": "https://bashlogo.com/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/bitcoin.svg",
+            "name": "Bitcoin",
+            "source": "https://bitcoin.org",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/bitwarden.svg",
+            "name": "Bitwarden",
+            "source": "https://github.com/bitwarden/brand/blob/master/icons/icon.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/bookstack.svg",
+            "name": "BookStack",
+            "source": "https://www.bookstackapp.com/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/bootstrap.svg",
+            "name": "Bootstrap",
+            "source": "https://getbootstrap.com/docs/5.2/about/brand/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/boundary.svg",
+            "name": "Boundary",
+            "source": "https://www.hashicorp.com/brand",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/brave.svg",
+            "name": "Brave",
+            "source": "https://brave.com/brave-branding-assets/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/bulma.svg",
+            "name": "Bulma",
+            "source": "https://bulma.io/brand/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/cplusplus.svg",
+            "name": "C++",
+            "source": "https://github.com/isocpp/logos/blob/master/cpp_logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/calibre.svg",
+            "name": "Calibre",
+            "source": "https://github.com/kovidgoyal/calibre/blob/master/imgsrc/calibre.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/canonical.svg",
+            "name": "Canonical",
+            "source": "https://design.ubuntu.com/downloads/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/centos.svg",
+            "name": "CentOS",
+            "source": "https://wiki.centos.org/ArtWork/Brand/Logo",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/ceph.svg",
+            "name": "Ceph",
+            "source": "https://ceph.io",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/certmanager.svg",
+            "name": "cert-manager",
+            "source": "https://github.com/cert-manager/cert-manager/blob/master/logo/logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/checkmk.svg",
+            "name": "checkmk",
+            "source": "https://checkmk.com/company/brand-assets",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/chromium.svg",
+            "name": "Chromium",
+            "source": "https://en.wikipedia.org/wiki/Chromium_(web_browser)",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/cloudflare.svg",
+            "name": "Cloudflare",
+            "source": "https://www.cloudflare.com/logo/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/cloudflarepages.svg",
+            "name": "Cloudflare Pages",
+            "source": "https://pages.cloudflare.com/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/codeberg.svg",
+            "name": "Codeberg",
+            "source": "https://codeberg.org/Codeberg/Design/src/branch/main/logo/icon/svg/codeberg-logo_icon_blue.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/consul.svg",
+            "name": "Consul",
+            "source": "https://www.hashicorp.com/brand",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/crowdsec.svg",
+            "name": "CrowdSec",
+            "source": "https://www.crowdsec.net/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/css3.svg",
+            "name": "CSS3",
+            "source": "https://en.wikipedia.org/wiki/CSS",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/cyberchef.svg",
+            "name": "CyberChef",
+            "source": "https://github.com/gchq/CyberChef/blob/master/src/web/static/images/logo/cyberchef_hat.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/datadog.svg",
+            "name": "Datadog (Bits)",
+            "source": "https://www.datadoghq.com/about/resources/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/debian.svg",
+            "name": "Debian",
+            "source": "https://www.debian.org/logos/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/deluge.svg",
+            "name": "Deluge",
+            "source": "https://git.deluge-torrent.org/deluge/tree/deluge/ui/data/icons/hicolor/scalable/apps/deluge.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/diagramsdotnet.svg",
+            "name": "Diagrams.net (aka Draw.io)",
+            "source": "https://github.com/jgraph/drawio/blob/dev/src/main/webapp/images/drawlogo-color.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/digitalocean.svg",
+            "name": "DigitalOcean",
+            "source": "https://www.digitalocean.com/press",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/discord.svg",
+            "name": "Discord",
+            "source": "https://discord.com/branding",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/discourse.svg",
+            "name": "Discourse",
+            "source": "https://www.discourse.org/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/docker.svg",
+            "name": "Docker",
+            "source": "https://github.com/docker/docs/blob/main/assets/images/docker-icon.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/docker-moby.svg",
+            "name": "Docker (Moby)",
+            "source": "https://github.com/docker/docs/blob/main/assets/images/engine.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/dokuwiki.svg",
+            "name": "DokuWiki",
+            "source": "https://www.dokuwiki.org/logo",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/dragonflybsd.svg",
+            "name": "DragonFlyBSD",
+            "source": "https://www.dragonflybsd.org/images/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/droneci.svg",
+            "name": "Drone CI",
+            "source": "https://github.com/drone/docs/blob/master/static/logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/eclipsemosquitto.svg",
+            "name": "Eclipse Mosquitto",
+            "source": "https://github.com/eclipse/mosquitto/blob/master/logo/mosquitto-logo-only.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/elastic.svg",
+            "name": "Elastic Co.",
+            "source": "https://en.wikipedia.org/wiki/Elastic_NV",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/elastic-beats.svg",
+            "name": "Elastic Co. Beats",
+            "source": "https://www.elastic.co/beats/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/elastic-elasticsearch.svg",
+            "name": "Elastic Co. Elasticsearch",
+            "source": "https://www.elastic.co/elasticsearch/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/elastic-kibana.svg",
+            "name": "Elastic Co. Kibana",
+            "source": "https://www.elastic.co/kibana/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/elastic-logstash.svg",
+            "name": "Elastic Co. Logstash",
+            "source": "https://www.elastic.co/logstash/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/electron.svg",
+            "name": "Electron",
+            "source": "https://www.electronjs.org/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/element.svg",
+            "name": "Element",
+            "source": "https://element.io/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/elementaryos.svg",
+            "name": "elementary OS",
+            "source": "https://elementary.io/brand",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/esphome.svg",
+            "name": "ESPHome",
+            "source": "https://esphome.io/images/index.html",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/etcd.svg",
+            "name": "etcd",
+            "source": "https://github.com/etcd-io/etcd/blob/main/logos/etcd-glyph-color.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/ethereum-black.svg",
+            "name": "Ethereum (black)",
+            "source": "https://github.com/ethereum/ethereum-org-website/blob/dev/src/assets/assets/eth-diamond-black.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/ethereum-colored.svg",
+            "name": "Ethereum (colored)",
+            "source": "https://github.com/ethereum/ethereum-org-website/blob/dev/src/assets/assets/eth-glyph-colored.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/ethereum-purple.svg",
+            "name": "Ethereum (purple)",
+            "source": "https://github.com/ethereum/ethereum-org-website/blob/dev/src/assets/assets/eth-diamond-purple.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/facebook.svg",
+            "name": "Facebook",
+            "source": "https://en.wikipedia.org/wiki/Facebook",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/fastmail.svg",
+            "name": "Fastmail",
+            "source": "https://www.fastmail.com/media-assets/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/filezilla.svg",
+            "name": "FileZilla",
+            "source": "https://en.wikipedia.org/wiki/FileZilla",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/flathub.svg",
+            "name": "Flathub",
+            "source": "https://github.com/flathub/website/blob/main/frontend/public/img/logo/flathub-logo-toolbar.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/flatpak-black.svg",
+            "name": "Flatpak (black)",
+            "source": "https://flatpak.org/press/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/flatpak-white.svg",
+            "name": "Flatpak (white)",
+            "source": "https://flatpak.org/press/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/fluxcd.svg",
+            "name": "FluxCD",
+            "source": "https://github.com/fluxcd/website/blob/main/assets/icons/logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/focalboard.svg",
+            "name": "Focalboard",
+            "source": "https://github.com/mattermost/focalboard/blob/main/webapp/static/favicon.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/forgejo.svg",
+            "name": "Forgejo",
+            "source": "https://codeberg.org/forgejo/forgejo",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/fossil.svg",
+            "name": "Fossil",
+            "source": "https://en.wikipedia.org/wiki/Fossil_(software)",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/freshrss.svg",
+            "name": "FreshRSS",
+            "source": "https://github.com/FreshRSS/FreshRSS/blob/edge/docs/img/FreshRSS-logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/gimp.svg",
+            "name": "GIMP (Wilber)",
+            "source": "https://www.gimp.org/about/linking.html",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/git.svg",
+            "name": "Git",
+            "source": "https://git-scm.com/downloads/logos",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/gitea.svg",
+            "name": "Gitea",
+            "source": "https://github.com/go-gitea/gitea/blob/main/assets/logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/github-invertocat.svg",
+            "name": "GitHub (Invertocat)",
+            "source": "https://github.com/logos",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/github-octocat.svg",
+            "name": "GitHub (Octocat)",
+            "source": "https://github.com/logos",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/gitlab.svg",
+            "name": "GitLab",
+            "source": "https://about.gitlab.com/press/press-kit/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/gnome.svg",
+            "name": "Gnome",
+            "source": "https://foundation.gnome.org/logo-and-trademarks/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/google.svg",
+            "name": "Google",
+            "source": "https://en.wikipedia.org/wiki/Google",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/googlecalendar.svg",
+            "name": "Google Calendar",
+            "source": "https://en.wikipedia.org/wiki/Google_Calendar",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/googlechrome.svg",
+            "name": "Google Chrome",
+            "source": "https://en.wikipedia.org/wiki/Google_Chrome",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/googlecloudplatform.svg",
+            "name": "Google Cloud Platform (GCP)",
+            "source": "https://en.wikipedia.org/wiki/Google_Cloud_Platform",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/googledrive.svg",
+            "name": "Google Drive",
+            "source": "https://en.wikipedia.org/wiki/Google_Drive",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/googlemail.svg",
+            "name": "Google Mail (Gmail)",
+            "source": "https://en.wikipedia.org/wiki/Gmail",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/gnupg.svg",
+            "name": "GnuPG",
+            "source": "https://en.wikipedia.org/wiki/GNU_Privacy_Guard",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/gnu.svg",
+            "name": "GNU (Heckert)",
+            "source": "https://www.gnu.org/graphics/heckert_gnu.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/go-black.svg",
+            "name": "Go (black)",
+            "source": "https://go.dev/blog/go-brand",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/go-blue.svg",
+            "name": "Go (blue)",
+            "source": "https://go.dev/blog/go-brand",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/grafana.svg",
+            "name": "Grafana",
+            "source": "https://github.com/grafana/grafana/blob/main/public/img/grafana_icon.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/grafanaloki.svg",
+            "name": "Grafana Loki",
+            "source": "https://grafana.com/oss/loki/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/grav.svg",
+            "name": "Grav",
+            "source": "https://getgrav.org/media",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/graylog.svg",
+            "name": "Graylog",
+            "source": "https://www.graylog.org/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/harbor.svg",
+            "name": "Harbor",
+            "source": "https://cncf-branding.netlify.app/projects/harbor/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/harvester.svg",
+            "name": "Harvester",
+            "source": "https://www.rancher.com/brand-guidelines",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/hashicorp-black.svg",
+            "name": "HashiCorp (black)",
+            "source": "https://www.hashicorp.com/brand",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/hashicorp-white.svg",
+            "name": "HashiCorp (white)",
+            "source": "https://www.hashicorp.com/brand",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/helm.svg",
+            "name": "Helm",
+            "source": "https://helm.sh/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/homeassistant.svg",
+            "name": "Home Assistant",
+            "source": "https://github.com/home-assistant/assets/blob/master/logo/logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/homeassistant-small.svg",
+            "name": "Home Assistant (small)",
+            "source": "https://github.com/home-assistant/assets/blob/master/logo/logo-small.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/html5.svg",
+            "name": "HTML5",
+            "source": "https://www.w3.org/html/logo/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/hugo.svg",
+            "name": "Hugo",
+            "source": "https://gohugo.io/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/influx-outline.svg",
+            "name": "Influx (outline)",
+            "source": "https://influxdata.github.io/branding/logo/downloads/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/influx-solid.svg",
+            "name": "Influx (solid)",
+            "source": "https://influxdata.github.io/branding/logo/downloads/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/inkscape.svg",
+            "name": "Inkscape",
+            "source": "https://gitlab.com/inkscape/inkscape/-/blob/master/share/icons/application/scalable/org.inkscape.Inkscape.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/instagram.svg",
+            "name": "Instagram",
+            "source": "https://en.wikipedia.org/wiki/Instagram",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/intel.svg",
+            "name": "Intel",
+            "source": "https://en.wikipedia.org/wiki/Intel",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/intel-circle.svg",
+            "name": "Intel (circle)",
+            "source": "https://en.wikipedia.org/wiki/Intel",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/javascript.svg",
+            "name": "JavaScript",
+            "source": "https://github.com/voodootikigod/logo.js/blob/master/js.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/jellyfin.svg",
+            "name": "Jellyfin",
+            "source": "https://github.com/jellyfin/jellyfin-ux/blob/master/branding/SVG/icon-transparent.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/jellyseerr.svg",
+            "name": "Jellyseerr",
+            "source": "https://github.com/Fallenbagel/jellyseerr/blob/develop/public/logo_full.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/jfrog.svg",
+            "name": "JFrog",
+            "source": "https://jfrog.com/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/jfrogartifactory.svg",
+            "name": "JFrog Artifactory",
+            "source": "https://jfrog.com/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/k3os.svg",
+            "name": "K3OS",
+            "source": "https://www.rancher.com/brand-guidelines",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/k3s.svg",
+            "name": "K3s",
+            "source": "https://www.rancher.com/brand-guidelines",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/kde.svg",
+            "name": "KDE",
+            "source": "https://kde.org/stuff/clipart/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/kiwix.svg",
+            "name": "Kiwix",
+            "source": "https://en.wikipedia.org/wiki/Kiwix",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/kodi.svg",
+            "name": "Kodi",
+            "source": "https://kodi.tv/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/kubernetes.svg",
+            "name": "Kubernetes",
+            "source": "https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/latex.svg",
+            "name": "Latex",
+            "source": "https://www.latex-project.org/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/latex-wide.svg",
+            "name": "Latex (wide)",
+            "source": "https://www.latex-project.org/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/letsencrypt.svg",
+            "name": "Let’s Encrypt",
+            "source": "https://letsencrypt.org/trademarks/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/librenms-black.svg",
+            "name": "LibreNMS (black)",
+            "source": "https://github.com/librenms/librenms.github.io/blob/master/images/LibreNMS-Logo-Black.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/librenms-white.svg",
+            "name": "LibreNMS (white)",
+            "source": "https://github.com/librenms/librenms.github.io/blob/master/images/LibreNMS-Logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/libreoffice.svg",
+            "name": "LibreOffice",
+            "source": "https://wiki.documentfoundation.org/Gallery_Logos",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/lidarr.svg",
+            "name": "Lidarr",
+            "source": "https://github.com/Lidarr/Lidarr/blob/develop/Logo/Lidarr.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/lineageos.svg",
+            "name": "LineageOS",
+            "source": "https://lineageos.org/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/linkedin.svg",
+            "name": "LinkedIn",
+            "source": "https://en.wikipedia.org/wiki/LinkedIn",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/linode.svg",
+            "name": "Linode",
+            "source": "https://www.linode.com/company/press/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/linux.svg",
+            "name": "Linux (Tux)",
+            "source": "https://en.wikipedia.org/wiki/Linux",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/linuxmint.svg",
+            "name": "Linux Mint",
+            "source": "https://github.com/linuxmint/brand-logo/blob/master/leaf.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/longhorn.svg",
+            "name": "Longhorn",
+            "source": "https://www.rancher.com/brand-guidelines",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/lxc.svg",
+            "name": "LXC",
+            "source": "https://github.com/lxc/linuxcontainers.org/blob/master/static/img/containers.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/manjaro.svg",
+            "name": "Manjaro",
+            "source": "https://gitlab.manjaro.org/artwork/branding/logo/-/blob/master/logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/mariadb.svg",
+            "name": "MariaDB",
+            "source": "https://mariadb.com/about-us/logos/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/mastodon.svg",
+            "name": "Mastodon",
+            "source": "https://joinmastodon.org/branding",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/mastodon-no-gradient.svg",
+            "name": "Mastodon (no gradient)",
+            "source": "https://joinmastodon.org/branding",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/mattermost-black.svg",
+            "name": "Mattermost (black)",
+            "source": "https://handbook.mattermost.com/operations/operations/company-processes/publishing/publishing-guidelines/brand-and-visual-design-guidelines",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/mattermost-blue.svg",
+            "name": "Mattermost (blue)",
+            "source": "https://handbook.mattermost.com/operations/operations/company-processes/publishing/publishing-guidelines/brand-and-visual-design-guidelines",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/matrix-black.svg",
+            "name": "Matrix (black)",
+            "source": "https://matrix.org/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/matrix-white.svg",
+            "name": "Matrix (white)",
+            "source": "https://matrix.org/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/maxmind.svg",
+            "name": "MaxMind",
+            "source": "https://www.maxmind.com",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/memcached.svg",
+            "name": "Memcached",
+            "source": "https://en.wikipedia.org/wiki/Memcached",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/microsoft.svg",
+            "name": "Microsoft",
+            "source": "https://en.wikipedia.org/wiki/Microsoft",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/microsoftazure.svg",
+            "name": "Microsoft Azure",
+            "source": "https://en.wikipedia.org/wiki/Microsoft_Azure",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/microsoftedge.svg",
+            "name": "Microsoft Edge",
+            "source": "https://en.wikipedia.org/wiki/Microsoft_Edge",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/mikrotik.svg",
+            "name": "MikroTik",
+            "source": "https://merch.mikrotik.com/pages/mikrotik-logo",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/miniflux.svg",
+            "name": "Miniflux",
+            "source": "https://github.com/miniflux/logo/blob/master/icon.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/minio.svg",
+            "name": "MinIO",
+            "source": "https://min.io/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/mongodb-forest-green.svg",
+            "name": "MongoDB (forest green)",
+            "source": "https://www.mongodb.com/brand-resources",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/mongodb-spring-green.svg",
+            "name": "MongoDB (spring green)",
+            "source": "https://www.mongodb.com/brand-resources",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/mozilla.svg",
+            "name": "Mozilla",
+            "source": "https://mozilla.design/mozilla/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/mozillafirefox.svg",
+            "name": "Mozilla Firefox",
+            "source": "https://mozilla.design/firefox/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/mozillafirefoxbrowser.svg",
+            "name": "Mozilla Firefox Browser",
+            "source": "https://mozilla.design/firefox/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/mozillafirefoxbrowserbeta.svg",
+            "name": "Mozilla Firefox Browser Beta",
+            "source": "https://mozilla.design/firefox/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/mozillafirefoxbrowserdeveloper.svg",
+            "name": "Mozilla Firefox Browser Developer Edition",
+            "source": "https://mozilla.design/firefox/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/mozillafirefoxbrowsernightly.svg",
+            "name": "Mozilla Firefox Browser Nightly",
+            "source": "https://mozilla.design/firefox/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/mozillathunderbird.svg",
+            "name": "Mozilla Thunderbird",
+            "source": "https://github.com/thundernest/thunderbird-website/blob/master/media/svg/logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/mullvad.svg",
+            "name": "Mullvad",
+            "source": "https://mullvad.net/en/press/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/mysql.svg",
+            "name": "MySQL (Sakila)",
+            "source": "https://www.mysql.com/about/legal/logos.html",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/n8n.svg",
+            "name": "n8n",
+            "source": "https://n8n.io/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/netlify.svg",
+            "name": "Netlify",
+            "source": "https://www.netlify.com/press",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/networkupstools.svg",
+            "name": "Network UPS Tools (NUT)",
+            "source": "https://github.com/networkupstools/nut/blob/master/docs/images/nut.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/nextcloud.svg",
+            "name": "Nextcloud",
+            "source": "https://nextcloud.com/press/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/nginx.svg",
+            "name": "Nginx",
+            "source": "https://www.nginx.com/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/nginxproxymanager.svg",
+            "name": "Nginx Proxy Manager",
+            "source": "https://github.com/NginxProxyManager/nginx-proxy-manager/blob/develop/docs/.vuepress/public/logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/nodejs.svg",
+            "name": "Node.js",
+            "source": "https://en.wikipedia.org/wiki/Node.js",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/nodered.svg",
+            "name": "Node-RED",
+            "source": "https://nodered.org/about/resources/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/nomad.svg",
+            "name": "Nomad",
+            "source": "https://www.hashicorp.com/brand",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/npm.svg",
+            "name": "NPM",
+            "source": "https://github.com/npm/logos/blob/master/npm%20logo/npm-logo-red.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/nvidia.svg",
+            "name": "Nvidia",
+            "source": "https://en.wikipedia.org/wiki/Nvidia",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/nvidia-wide.svg",
+            "name": "Nvidia (wide)",
+            "source": "https://en.wikipedia.org/wiki/Nvidia",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/openbsd.svg",
+            "name": "OpenBSD",
+            "source": "https://en.wikipedia.org/wiki/OpenBSD",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/openjdk.svg",
+            "name": "OpenJDK (Duke)",
+            "source": "https://wiki.openjdk.org/display/duke/Gallery",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/openmediavault.svg",
+            "name": "OpenMediaVault",
+            "source": "https://github.com/openmediavault/openmediavault/blob/master/deb/openmediavault/workbench/src/favicon.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/opensearch.svg",
+            "name": "OpenSearch",
+            "source": "https://opensearch.org/brand.html",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/openvpn.svg",
+            "name": "OpenVPN",
+            "source": "https://openvpn.net/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/opnsense.svg",
+            "name": "OPNsense",
+            "source": "https://en.wikipedia.org/wiki/OPNsense",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/owncloud.svg",
+            "name": "ownCloud",
+            "source": "https://owncloud.com/trademark/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/opensuse.svg",
+            "name": "openSUSE",
+            "source": "https://en.opensuse.org/openSUSE:Artwork_brand",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/openwrt.svg",
+            "name": "OpenWRT",
+            "source": "https://github.com/openwrt/branding/blob/master/logo/openwrt_logo_blue_and_dark_blue.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/openzfs.svg",
+            "name": "OpenZFS",
+            "source": "https://en.wikipedia.org/wiki/OpenZFS",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/opera.svg",
+            "name": "Opera",
+            "source": "https://brand.opera.com/1472-2/opera-logos/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/overseerr.svg",
+            "name": "Overseerr",
+            "source": "https://github.com/sct/overseerr/blob/develop/public/logo_full.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/opencontainerinitiative.svg",
+            "name": "Open Container Initiative",
+            "source": "https://github.com/opencontainers/opencontainers.org/blob/master/static/img/logos/OCI-logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/opensourcehardware.svg",
+            "name": "Open Source Hardware",
+            "source": "https://www.oshwa.org/open-source-hardware-logo/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/opensourceinitiative.svg",
+            "name": "Open Source Initiative",
+            "source": "https://opensource.org/logo-usage-guidelines",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/packer.svg",
+            "name": "Packer",
+            "source": "https://www.hashicorp.com/brand",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/peertube.svg",
+            "name": "PeerTube",
+            "source": "https://joinpeertube.org/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/pfsense-black.svg",
+            "name": "pfSense (black)",
+            "source": "https://en.wikipedia.org/wiki/PfSense",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/pfsense-blue.svg",
+            "name": "pfSense (blue)",
+            "source": "https://en.wikipedia.org/wiki/PfSense",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/php.svg",
+            "name": "PHP",
+            "source": "https://www.php.net/download-logos.php",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/pihole.svg",
+            "name": "Pi-hole",
+            "source": "https://github.com/pi-hole/graphics/blob/master/Vortex/Vortex.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/plex-black.svg",
+            "name": "Plex (black)",
+            "source": "https://brand.plex.tv",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/plex-white.svg",
+            "name": "Plex (white)",
+            "source": "https://brand.plex.tv",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/popos.svg",
+            "name": "Pop!_OS",
+            "source": "https://github.com/pop-os/icon-theme/blob/master/src/fullcolor/logos/distributor-logo-pop-os.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/portainer.svg",
+            "name": "Portainer",
+            "source": "https://github.com/portainer/portainer/blob/develop/app/assets/images/logo_alt.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/postgresql.svg",
+            "name": "PostgreSQL (Slonik)",
+            "source": "https://wiki.postgresql.org/wiki/Logo",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/prometheus.svg",
+            "name": "Prometheus",
+            "source": "https://github.com/prometheus/prometheus/blob/main/documentation/images/prometheus-logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/prowlarr.svg",
+            "name": "Prowlarr",
+            "source": "https://github.com/Prowlarr/Prowlarr/blob/develop/Logo/Prowlarr.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/proxmox.svg",
+            "name": "Proxmox",
+            "source": "https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/python.svg",
+            "name": "Python",
+            "source": "https://www.python.org/community/logos/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/pypi.svg",
+            "name": "PyPI",
+            "source": "https://pypi.org/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/qbittorrent.svg",
+            "name": "qBittorrent",
+            "source": "https://github.com/qbittorrent/qBittorrent/blob/master/src/icons/qbittorrent-tray.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/qemu.svg",
+            "name": "QEMU",
+            "source": "https://gitlab.com/qemu-project/qemu/-/blob/master/pc-bios/qemu_logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/radarr.svg",
+            "name": "Radarr",
+            "source": "https://github.com/Radarr/Radarr/blob/develop/Logo/Radarr.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/rancher.svg",
+            "name": "Rancher",
+            "source": "https://www.rancher.com/brand-guidelines",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/rapid7.svg",
+            "name": "Rapid7",
+            "source": "https://brand.rapid7.com/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/rapid7-wide.svg",
+            "name": "Rapid7 (wide)",
+            "source": "https://brand.rapid7.com/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/raspberrypi.svg",
+            "name": "RaspberryPi",
+            "source": "https://www.raspberrypi.org",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/rclone.svg",
+            "name": "Rclone",
+            "source": "https://github.com/rclone/rclone/blob/master/graphics/logo/svg/logo_symbol_color.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/readarr.svg",
+            "name": "Readarr",
+            "source": "https://github.com/Readarr/Readarr/blob/develop/Logo/Readarr.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/reddit.svg",
+            "name": "Reddit (Snoo)",
+            "source": "https://www.redditinc.com/brand",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/redhat.svg",
+            "name": "RedHat",
+            "source": "https://www.redhat.com/en/about/brand/standards/logo",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/redis.svg",
+            "name": "Redis",
+            "source": "https://redis.com/brand-guidelines/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/rockylinux.svg",
+            "name": "Rocky Linux",
+            "source": "https://github.com/rocky-linux/rocky-logos/blob/main/icons/hicolor/scalable/apps/fedora-logo-icon.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/roundcube.svg",
+            "name": "Roundcube",
+            "source": "https://roundcube.net/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/ruby.svg",
+            "name": "Ruby",
+            "source": "https://www.ruby-lang.org/en/about/logo/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/safari.svg",
+            "name": "Safari",
+            "source": "https://en.wikipedia.org/wiki/Safari_(web_browser)",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/searx.svg",
+            "name": "Searx",
+            "source": "https://github.com/searx/searx/blob/master/searx/static/themes/simple/img/searx_logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/signal.svg",
+            "name": "Signal",
+            "source": "https://github.com/signalapp/Signal-Desktop/blob/main/images/signal-logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/slack.svg",
+            "name": "Slack",
+            "source": "https://slack.com/media-kit",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/smallstep.svg",
+            "name": "Smallstep",
+            "source": "https://smallstep.com/docs",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/snap.svg",
+            "name": "Snap",
+            "source": "https://design.ubuntu.com/downloads/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/snapchat.svg",
+            "name": "Snapchat",
+            "source": "https://en.wikipedia.org/wiki/Snapchat",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/sonarr.svg",
+            "name": "Sonarr",
+            "source": "https://github.com/Sonarr/Sonarr/blob/develop/Logo/Sonarr.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/sourcehut.svg",
+            "name": "sourcehut",
+            "source": "https://sourcehut.org/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/splunk.svg",
+            "name": "Splunk",
+            "source": "https://www.splunk.com/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/sqlite.svg",
+            "name": "SQLite",
+            "source": "https://en.wikipedia.org/wiki/SQLite",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/steam.svg",
+            "name": "Steam",
+            "source": "https://en.wikipedia.org/wiki/Steam_(service)",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/stringis.svg",
+            "name": "string.is",
+            "source": "https://github.com/recurser/string-is/blob/develop/src/images/logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/syncthing.svg",
+            "name": "Syncthing",
+            "source": "https://github.com/syncthing/syncthing/blob/main/assets/logo-only.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/tailscale.svg",
+            "name": "Tailscale",
+            "source": "https://tailscale.com/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/telegram.svg",
+            "name": "Telegram",
+            "source": "https://telegram.org/tour/screenshots",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/tenable.svg",
+            "name": "Tenable",
+            "source": "https://www.tenable.com/media",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/terraform.svg",
+            "name": "Terraform",
+            "source": "https://www.hashicorp.com/brand",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/tiktok.svg",
+            "name": "TikTok",
+            "source": "https://en.wikipedia.org/wiki/TikTok",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/tinytinyrss.svg",
+            "name": "TinyTinyRSS (TT-RSS)",
+            "source": "https://gitlab.com/prism-break/prism-break/-/blob/master/source/assets/logos/tt-rss.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/traefik-gopher.svg",
+            "name": "Traefik (gopher)",
+            "source": "https://github.com/traefik/traefik/blob/master/webui/src/assets/traefik.avatar.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/traefik-proxy.svg",
+            "name": "Traefik (proxy)",
+            "source": "https://traefik.io/traefik/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/transmission.svg",
+            "name": "Transmission",
+            "source": "https://en.wikipedia.org/wiki/Transmission_(BitTorrent_client)",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/truenas.svg",
+            "name": "TrueNAS",
+            "source": "https://www.truenas.com/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/twitch.svg",
+            "name": "Twitch",
+            "source": "https://brand.twitch.tv/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/twitter.svg",
+            "name": "Twitter",
+            "source": "https://about.twitter.com/en/who-we-are/brand-toolkit",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/ubuntu-circle-tag.svg",
+            "name": "Ubuntu (circle of friends tag)",
+            "source": "https://design.ubuntu.com/downloads/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/ubuntu-circle.svg",
+            "name": "Ubuntu (circle of friends)",
+            "source": "https://design.ubuntu.com/downloads/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/ubiquiti.svg",
+            "name": "Ubiquiti",
+            "source": "https://en.wikipedia.org/wiki/Ubiquiti",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/unraid.svg",
+            "name": "Unraid",
+            "source": "https://unraid.net/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/uptimekuma.svg",
+            "name": "Uptime Kuma",
+            "source": "https://github.com/louislam/uptime-kuma/blob/master/public/icon.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/vagrant.svg",
+            "name": "Vagrant",
+            "source": "https://www.hashicorp.com/brand",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/vault.svg",
+            "name": "Vault",
+            "source": "https://www.hashicorp.com/brand",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/vim.svg",
+            "name": "Vim",
+            "source": "https://en.wikipedia.org/wiki/Vim_(text_editor)",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/vlc.svg",
+            "name": "VLC",
+            "source": "https://en.wikipedia.org/wiki/VLC_media_player",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/visualstudiocode.svg",
+            "name": "Visual Studio Code",
+            "source": "https://code.visualstudio.com/brand",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/vyos.svg",
+            "name": "VyOS",
+            "source": "https://vyos.io/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/waypoint.svg",
+            "name": "Waypoint",
+            "source": "https://www.hashicorp.com/brand",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/whatsapp.svg",
+            "name": "WhatsApp",
+            "source": "https://en.wikipedia.org/wiki/WhatsApp",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/wikipedia.svg",
+            "name": "Wikipedia",
+            "source": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_logos",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/wikijs.svg",
+            "name": "Wiki.js",
+            "source": "https://js.wiki/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/windows8.svg",
+            "name": "Windows 8",
+            "source": "https://en.wikipedia.org/wiki/Windows_8",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/windows10.svg",
+            "name": "Windows 10",
+            "source": "https://en.wikipedia.org/wiki/Windows_10",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/windows11.svg",
+            "name": "Windows 11",
+            "source": "https://en.wikipedia.org/wiki/Windows_11",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/wireguard.svg",
+            "name": "WireGuard",
+            "source": "https://www.wireguard.com/trademark-policy/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/woodpeckerci.svg",
+            "name": "Woodpecker CI",
+            "source": "https://github.com/woodpecker-ci/woodpecker/blob/master/docs/static/img/logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/woodpeckerci-full.svg",
+            "name": "Woodpecker CI (full)",
+            "source": "https://github.com/woodpecker-ci/woodpecker/blob/master/docs/static/img/logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/wordpress.svg",
+            "name": "WordPress",
+            "source": "https://wordpress.org/about/logos/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/youtube.svg",
+            "name": "YouTube",
+            "source": "https://en.wikipedia.org/wiki/YouTube",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/ycombinator.svg",
+            "name": "Y Combinator",
+            "source": "https://en.wikipedia.org/wiki/Y_Combinator",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/zshell.svg",
+            "name": "Z Shell (ZSH)",
+            "source": "https://en.wikipedia.org/wiki/Z_shell",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/zwave.svg",
+            "name": "Z-Wave",
+            "source": "https://en.wikipedia.org/wiki/Z-Wave",
+            "guidelines": ""
+        }
+    ]
+}

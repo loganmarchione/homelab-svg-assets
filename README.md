@@ -30,6 +30,8 @@ This repo will serve as a source of icons used in my personal projects.
 
 Icons as SVGs are available in the [assets](https://github.com/loganmarchione/homelab-svg-assets/tree/main/assets) directory.
 
+See [ICONS.md](ICONS.md) for a preview of all icons.
+
 ## PHP usage
 
 Icons are available in PHP as a package on [Packagist](https://packagist.org/packages/loganmarchione/homelab-svg-assets).  
@@ -101,6 +103,8 @@ Finally, in your markdown files, you can reference the icon:
 
 See [ICONS.md](ICONS.md) for a preview of all icons.
 
+See [TODO.md](TODO.md) for icons I'm working on.
+
 # Contribute
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)
@@ -114,8 +118,8 @@ See [DISCLAIMER.md](DISCLAIMER.md)
 - [x] Add Hugo working example
 - [x] Add LICENSE.md
 - [x] Add DISCLAIMER.md
-- [ ] Verify auto-update [Packagist hook](https://packagist.org/about#how-to-update-packages) is working
-- [ ] Add `data.json` to collect brand guidelines and legal requirements
-- [ ] Write Python script to dynamically generate `ICONS.md` from `data.json` file
+- [x] Verify auto-update [Packagist hook](https://packagist.org/about#how-to-update-packages) is working
+- [x] Add `data.json` to collect brand guidelines and legal requirements
+- [x] Write Python script to dynamically generate `ICONS.md` from `data.json` file
 - [ ] Go through list of icons to find any that require the registered trademark (®) or trademark symbol (™) to be added
-- [ ] Add Diagrams.net library (need)
+- [ ] Add Diagrams.net library (will need to format JSON data into XML)
