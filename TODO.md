@@ -5,8 +5,11 @@
   - C#
   - Fedora
   - Kali Linux
+  - Glances
   - LXDE
+  - Mailcow
   - Microsoft SQl Server
+  - Netdata
   - Pritunl
   - Radicale
   - Seafile
