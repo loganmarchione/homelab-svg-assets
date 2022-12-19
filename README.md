@@ -24,7 +24,7 @@ This repo will serve as a source of icons used in my personal projects.
 
 # Usage
 
-❗ All users should read read the [disclaimer](DISCLAIMER.md) before using this project. 
+❗ All users should read the [disclaimer](DISCLAIMER.md) before using this project. 
 
 ## General usage
 
