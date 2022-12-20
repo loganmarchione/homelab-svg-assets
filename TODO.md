@@ -17,12 +17,21 @@
 
 # Icons
 - Icons to add
+  - Bootstrap
   - C#
+  - curl
   - Fedora
   - Firefly III
+  - Jenkins
+  - Markdown
   - Navidrome
   - Ombi
+  - OVH
   - Radicale
+  - SemVer
+  - Stack Exchange
+  - Stack Overflow
+  - SteamDB
   - VMWare
   - XFCE
 
