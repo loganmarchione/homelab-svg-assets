@@ -143,10 +143,6 @@ Finally, in your markdown files, you can reference the icon:
 {{< homelab src="linux" >}}
 ```
 
-# Contribute
-
-See [CONTRIBUTING.md](CONTRIBUTING.md)
-
 # Legal
 
 See [DISCLAIMER.md](DISCLAIMER.md)
