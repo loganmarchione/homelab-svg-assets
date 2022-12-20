@@ -247,6 +247,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/bazarr.svg",
+            "name": "Bazarr",
+            "source": "https://github.com/morpheus65535/bazarr/issues/2020",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/bitcoin.svg",
             "name": "Bitcoin",
             "source": "https://bitcoin.org",
@@ -274,7 +280,7 @@
             "path": "./assets/boundary.svg",
             "name": "Boundary",
             "source": "https://www.hashicorp.com/brand",
-            "guidelines": ""
+            "guidelines": "https://www.hashicorp.com/brand"
         },
         {
             "path": "./assets/brave.svg",
@@ -358,7 +364,7 @@
             "path": "./assets/consul.svg",
             "name": "Consul",
             "source": "https://www.hashicorp.com/brand",
-            "guidelines": ""
+            "guidelines": "https://www.hashicorp.com/brand"
         },
         {
             "path": "./assets/crowdsec.svg",
@@ -502,6 +508,12 @@
             "path": "./assets/elementaryos.svg",
             "name": "elementary OS",
             "source": "https://elementary.io/brand",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/emby.svg",
+            "name": "Emby",
+            "source": "https://github.com/MediaBrowser/Emby.Resources/blob/master/images/svg_logos/EmbyLogo_Reconstruct_Step3_Outset_15.svg",
             "guidelines": ""
         },
         {
@@ -748,13 +760,13 @@
             "path": "./assets/hashicorp-black.svg",
             "name": "HashiCorp (black)",
             "source": "https://www.hashicorp.com/brand",
-            "guidelines": ""
+            "guidelines": "https://www.hashicorp.com/brand"
         },
         {
             "path": "./assets/hashicorp-white.svg",
             "name": "HashiCorp (white)",
             "source": "https://www.hashicorp.com/brand",
-            "guidelines": ""
+            "guidelines": "https://www.hashicorp.com/brand"
         },
         {
             "path": "./assets/helm.svg",
@@ -785,6 +797,30 @@
             "name": "Hugo",
             "source": "https://gohugo.io/",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/ibm-8bar-black.svg",
+            "name": "IBM 8-bar (black)",
+            "source": "https://www.ibm.com/design/language/ibm-logos/8-bar/",
+            "guidelines": "https://www.ibm.com/design/language/ibm-logos/8-bar/"
+        },
+        {
+            "path": "./assets/ibm-8bar-blue.svg",
+            "name": "IBM 8-bar (blue)",
+            "source": "https://www.ibm.com/design/language/ibm-logos/8-bar/",
+            "guidelines": "https://www.ibm.com/design/language/ibm-logos/8-bar/"
+        },
+        {
+            "path": "./assets/ibm-rebus-black.svg",
+            "name": "IBM Rebus (black)",
+            "source": "https://www.ibm.com/design/language/ibm-logos/rebus",
+            "guidelines": "https://www.ibm.com/design/language/ibm-logos/rebus"
+        },
+        {
+            "path": "./assets/ibm-rebus-blue.svg",
+            "name": "IBM Rebus (blue)",
+            "source": "https://www.ibm.com/design/language/ibm-logos/rebus",
+            "guidelines": "https://www.ibm.com/design/language/ibm-logos/rebus"
         },
         {
             "path": "./assets/influx-outline.svg",
@@ -985,6 +1021,18 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/lxde-gray.svg",
+            "name": "LXDE (gray)",
+            "source": "https://github.com/lxde/lxde.github.io/blob/master/images/favicon.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/lxde-white.svg",
+            "name": "LXDE (white)",
+            "source": "https://github.com/lxde/lxde.github.io/blob/master/images/lxde-logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/mailcow.svg",
             "name": "mailcow",
             "source": "https://github.com/mailcow/mailcow-dockerized/blob/master/data/web/img/cow_mailcow.svg",
@@ -1066,6 +1114,12 @@
             "path": "./assets/microsoftedge.svg",
             "name": "Microsoft Edge",
             "source": "https://en.wikipedia.org/wiki/Microsoft_Edge",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/microsoftsqlserver.svg",
+            "name": "Microsoft SQL Server",
+            "source": "https://de.wikipedia.org/wiki/Microsoft_SQL_Server",
             "guidelines": ""
         },
         {
@@ -1210,7 +1264,7 @@
             "path": "./assets/nomad.svg",
             "name": "Nomad",
             "source": "https://www.hashicorp.com/brand",
-            "guidelines": ""
+            "guidelines": "https://www.hashicorp.com/brand"
         },
         {
             "path": "./assets/npm.svg",
@@ -1324,7 +1378,7 @@
             "path": "./assets/packer.svg",
             "name": "Packer",
             "source": "https://www.hashicorp.com/brand",
-            "guidelines": ""
+            "guidelines": "https://www.hashicorp.com/brand"
         },
         {
             "path": "./assets/peertube.svg",
@@ -1384,6 +1438,12 @@
             "path": "./assets/postgresql.svg",
             "name": "PostgreSQL (Slonik)",
             "source": "https://wiki.postgresql.org/wiki/Logo",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/pritunl.svg",
+            "name": "Pritunl",
+            "source": "https://github.com/pritunl/pritunl/blob/master/www/img/logo.svg",
             "guidelines": ""
         },
         {
@@ -1513,6 +1573,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/seafile.svg",
+            "name": "Seafile",
+            "source": "https://de.wikipedia.org/wiki/Seafile",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/searx.svg",
             "name": "Searx",
             "source": "https://github.com/searx/searx/blob/master/searx/static/themes/simple/img/searx_logo.svg",
@@ -1612,7 +1678,7 @@
             "path": "./assets/terraform.svg",
             "name": "Terraform",
             "source": "https://www.hashicorp.com/brand",
-            "guidelines": ""
+            "guidelines": "https://www.hashicorp.com/brand"
         },
         {
             "path": "./assets/tiktok.svg",
@@ -1702,13 +1768,13 @@
             "path": "./assets/vagrant.svg",
             "name": "Vagrant",
             "source": "https://www.hashicorp.com/brand",
-            "guidelines": ""
+            "guidelines": "https://www.hashicorp.com/brand"
         },
         {
             "path": "./assets/vault.svg",
             "name": "Vault",
             "source": "https://www.hashicorp.com/brand",
-            "guidelines": ""
+            "guidelines": "https://www.hashicorp.com/brand"
         },
         {
             "path": "./assets/vim.svg",
@@ -1738,7 +1804,7 @@
             "path": "./assets/waypoint.svg",
             "name": "Waypoint",
             "source": "https://www.hashicorp.com/brand",
-            "guidelines": ""
+            "guidelines": "https://www.hashicorp.com/brand"
         },
         {
             "path": "./assets/whatsapp.svg",
@@ -1801,6 +1867,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/yarn.svg",
+            "name": "Yarn",
+            "source": "https://github.com/yarnpkg/assets/blob/master/yarn-kitten-circle.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/youtube.svg",
             "name": "YouTube",
             "source": "https://en.wikipedia.org/wiki/YouTube",
@@ -1822,6 +1894,12 @@
             "path": "./assets/zwave.svg",
             "name": "Z-Wave",
             "source": "https://en.wikipedia.org/wiki/Z-Wave",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/zerossl.svg",
+            "name": "ZeroSSL",
+            "source": "https://zerossl.com/",
             "guidelines": ""
         }
     ]
