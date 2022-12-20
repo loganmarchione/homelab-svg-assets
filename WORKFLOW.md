@@ -49,7 +49,7 @@ When possible, icons should be sought from official sources first, only then fal
 1. Open each file with Inkscape
 1. Resize the document and viewbox to 48x48
 1. Select all elements of the icon and create a group (this helps during resizing/alignment)
-1. Resize the icon to 48x48px (ensuring to retain ratio)
+1. Resize the icon to 48x48 (ensuring to retain ratio)
 1. Center the icon on page both horizontally and vertically (the icon should be touching at least two sides of the document now)
 1. Clean up document (`File--->Clean Up Document`)
 1. Save the SVG file to the `assets` directory
@@ -63,7 +63,7 @@ When possible, icons should be sought from official sources first, only then fal
 # 5. Name the icon
 
 Each icon will have two names:
-- A filename (e.q., `filename.svg`)
+- A filename (e.g., `filename.svg`)
 - A display name
 
 Adhere to the following rules when choosing filenames:
@@ -126,7 +126,9 @@ Add the icon to the `icons.json` file. There are four lines for each icon:
 1. Path: The path in the `assets` directory to the icon
 1. Name: The display name that will be shown in the final markdown file
 1. A link to the source where you found the SVG file
-1. A link to the brand's guidelines, if any exist (otherwise leave blank)
+1. A link to the brand's guidelines
+    - If none exist, leave blank
+    - The guidelines may be the same as the source
 
 When adding to the `icons.json` file, use the following guidelines:
 
@@ -164,7 +166,7 @@ A full example is below:
 1. Increment the version number in `package.json` to match a new git tag
 1. Do git work
     ```
-    git add 
+    git add .
     git commit -m "Text goes here"
     git push
     git tag -a X.Y.Z -m "X.Y.Z - Text goes here"

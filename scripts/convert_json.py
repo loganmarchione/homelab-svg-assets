@@ -7,7 +7,6 @@ from prettytable import MARKDOWN
 with open("icons.json", "r") as json_file:
   data = json.load(json_file)
 
-
 # Setup the Markdown table
 x = PrettyTable()
 x.set_style(MARKDOWN)
@@ -69,7 +68,7 @@ with open("ICONS.md", "w") as md_output:
     print(x, file=md_output)
     md_output.close()
 
-# Print XML (their XML is actually just JSON wrapped in a single XML tag)
+# Print XML (Diagram.net's XML is actually just JSON wrapped in a single XML tag)
 with open("homelab-svg-assets.xml", "w") as xml_output:
     print("<mxlibrary>"+json_dump+"</mxlibrary>", file=xml_output)
     xml_output.close()
