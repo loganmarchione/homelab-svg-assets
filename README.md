@@ -14,6 +14,7 @@ Over 300 full-color SVG icons of homelab-related software, products, and brands 
 - [Table of Contents](#table-of-contents)
 - [Usage](#usage)
   - [General usage](#general-usage)
+  - [Diagrams.net usage](#diagramsnet-usage)
   - [CDN usage](#cdn-usage)
   - [PHP usage](#php-usage)
   - [NPM usage](#npm-usage)
@@ -29,6 +30,26 @@ Over 300 full-color SVG icons of homelab-related software, products, and brands 
 ## General usage
 
 Icons as SVGs are available in the [assets](https://github.com/loganmarchione/homelab-svg-assets/tree/main/assets) directory. See [ICONS.md](ICONS.md) for a preview of all icons.
+
+## Diagrams.net usage
+
+In a [Diagrams.net](https://app.diagrams.net/) project, go to `File-->Open Library from-->URL` and paste in the URL below (it will take a second to load)
+
+```
+https://raw.githubusercontent.com/loganmarchione/homelab-svg-assets/main/homelab-svg-assets.xml
+```
+
+You can also start brand new project with the library built-in to the URL by using [this link](https://app.diagrams.net/?clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Floganmarchione%2Fhomelab-svg-assets%2Fmain%2Fhomelab-svg-assets.xml) (also below)
+
+```
+https://app.diagrams.net/?clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Floganmarchione%2Fhomelab-svg-assets%2Fmain%2Fhomelab-svg-assets.xml
+```
+
+If you self-host Diagrams.net (it is available as a [Docker container](https://hub.docker.com/r/jgraph/drawio)), you can replace the domain with your custom domain
+
+```
+https://drawio.yourdomain.com/?clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Floganmarchione%2Fhomelab-svg-assets%2Fmain%2Fhomelab-svg-assets.xml
+```
 
 ## CDN usage
 
@@ -57,7 +78,6 @@ Run `composer require loganmarchione/homelab-svg-assets`, or add the package to 
 Icons will be available at `./vendor/loganmarchione/homelab-svg-assets/assets/linux.svg`
 
 ## NPM usage
-
 Icons are available as a package on [NPM](https://www.npmjs.com/package/@loganmarchione/homelab-svg-assets).
 
 Run `npm install @loganmarchione/homelab-svg-assets`, or add the package to your `package.json` file (below)

@@ -6,7 +6,7 @@
     ```
 1. Run the Python script 
     ```
-    python3 scripts/convert_json_to_table.py
+    python3 scripts/convert_json.py
     ```
 1. Get current git tags
    ```
