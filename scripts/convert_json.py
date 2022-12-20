@@ -57,7 +57,7 @@ for item in data["icons"]:
                                "h": 48,
                                "title": name,
                                "aspect": "fixed"})
-      image_file.close()
+        image_file.close()
 
 # The actual JSON string, with all whitespace removed
 json_dump = json.dumps(json_obj_list, separators=(',', ':'))
