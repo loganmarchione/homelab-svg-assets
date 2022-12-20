@@ -11,7 +11,7 @@ with open("icons.json", "r") as json_file:
 x = PrettyTable()
 x.set_style(MARKDOWN)
 x.align = "l"
-x.field_names = ["Icon","Name", "Icon Source", "Icon Guidelines"]
+x.field_names = ["Icon", "Name", "Icon Source", "Icon Guidelines"]
 
 # Initialize an empty list
 json_obj_list = []
@@ -52,11 +52,11 @@ for item in data["icons"]:
     data_string="data:image/svg+xml;base64,"+data
 
     # Create the JSON object for each icon
-    json_obj_list .append({"data":data_string,
-                           "w":48,
-                           "h":48,
-                           "title":name,
-                           "aspect":"fixed"})
+    json_obj_list .append({"data": data_string,
+                           "w": 48,
+                           "h": 48,
+                           "title": name,
+                           "aspect": "fixed"})
   image_file.close()
 
 # The actual JSON string, with all whitespace removed
