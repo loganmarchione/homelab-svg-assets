@@ -5,7 +5,7 @@ from prettytable import MARKDOWN
 
 # Read JSON file
 with open("icons.json", "r") as json_file:
-  data = json.load(json_file)
+    data = json.load(json_file)
 
 # Setup the Markdown table
 x = PrettyTable()
@@ -18,46 +18,46 @@ json_obj_list = []
 
 # For each item inside "icons"
 for item in data["icons"]:
-  name = item['name']
-  path = item['path']
-  source = item['source']
-  guidelines = item['guidelines']
+    name = item['name']
+    path = item['path']
+    source = item['source']
+    guidelines = item['guidelines']
 
-  #
-  # Markdown
-  #
+    #
+    # Markdown
+    #
 
-  # Markdown-formatted links
-  f_img=f"![]({path})"
-  f_source=f"[Source]({source})"
-  # If guidelines are missing, do not add a link
-  if not guidelines:
-   f_guidelines=f""
-  if guidelines:
-    f_guidelines=f"[Guidelines]({guidelines})"
+    # Markdown-formatted links
+    f_img=f"![]({path})"
+    f_source=f"[Source]({source})"
+    # If guidelines are missing, do not add a link
+    if not guidelines:
+     f_guidelines=f""
+    if guidelines:
+      f_guidelines=f"[Guidelines]({guidelines})"
   
-  # Add the row
-  x.add_row([f_img, name, f_source, f_guidelines])
+    # Add the row
+    x.add_row([f_img, name, f_source, f_guidelines])
 
-  #
-  # XML
-  #
+    #
+    # XML
+    #
 
-  # Open each image
-  with open(path, "rb") as image_file:
-    # The data is binary, so need to get it to a string
-    data = base64.b64encode(image_file.read()).decode('ascii')
+    # Open each image
+    with open(path, "rb") as image_file:
+      # The data is binary, so need to get it to a string
+      data = base64.b64encode(image_file.read()).decode('ascii')
 
-    # Build a string
-    data_string="data:image/svg+xml;base64,"+data
+      # Build a string
+      data_string="data:image/svg+xml;base64,"+data
 
-    # Create the JSON object for each icon
-    json_obj_list .append({"data": data_string,
-                           "w": 48,
-                           "h": 48,
-                           "title": name,
-                           "aspect": "fixed"})
-  image_file.close()
+      # Create the JSON object for each icon
+      json_obj_list .append({"data": data_string,
+                             "w": 48,
+                             "h": 48,
+                             "title": name,
+                             "aspect": "fixed"})
+    image_file.close()
 
 # The actual JSON string, with all whitespace removed
 json_dump = json.dumps(json_obj_list, separators=(',', ':'))
