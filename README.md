@@ -19,7 +19,6 @@ Over 300 full-color SVG icons of homelab-related software, products, and brands 
   - [PHP usage](#php-usage)
   - [NPM usage](#npm-usage)
   - [Hugo usage](#hugo-usage)
-- [Contribute](#contribute)
 - [Legal](#legal)
 - [TODO](#todo)
 
