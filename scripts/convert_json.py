@@ -30,9 +30,9 @@ for item in data["icons"]:
     # Markdown-formatted links
     f_img = f"![]({path})"
     f_source = f"[Source]({source})"
-    # If guidelines are missing, do not add a link
+    # If guidelines are missing, do not add a Markdown link
     if not guidelines:
-        f_guidelines = f""
+        f_guidelines = ""
     if guidelines:
         f_guidelines = f"[Guidelines]({guidelines})"
 
