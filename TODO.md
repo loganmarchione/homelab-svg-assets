@@ -17,21 +17,30 @@
 
 # Icons
 - Icons to add
+  - Arduino
   - Bootstrap
+  - C
   - C#
+  - CircleCI
+  - Composer
   - curl
+  - Drupal
   - Fedora
+  - Firebase
   - Firefly III
   - Jenkins
   - Markdown
   - Navidrome
   - Ombi
   - OVH
+  - Perl
+  - Podman
   - Radicale
   - SemVer
   - Stack Exchange
   - Stack Overflow
   - SteamDB
+  - TravisCI
   - VMWare
   - XFCE
 
