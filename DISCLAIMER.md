@@ -10,7 +10,7 @@
 
 The code in this repository that I (Logan Marchione) created is licensed under the MIT license (see [LICENSE.md](LICENSE.md)).
 
-However, the SVG icons of homelab-related software, products, and brands are property of their respective owners. I am not affiliated with their owners, nor do I represent them. The usage of the SVG icons of homelab-related software, products, and brands is subject to their respective owners.
+However, the SVG icons of homelab-related software, products, and brands are property of their respective owners. I am not affiliated with their owners, nor do I represent them. The usage of these software, products, and brands does not imply endorsement of any kind. All icons/SVGs in this project are used for referential purposes only to accurately identify each software, product, and brand. All icons/SVGs in this project are not monetized in any way. It is up to the end-user to ensure proper use of each icon/SVG. Usage of this project and the icons/SVGs within constitutes acknowledgement of these conditions.
 
 # Updating of icons
 

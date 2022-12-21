@@ -17,35 +17,17 @@
 
 # Icons
 - Icons to add
-  - Arduino
   - Audiobookshelf
-  - Azuracast
-  - Bootstrap
   - C
   - C#
-  - CircleCI
-  - Composer
-  - curl
-  - Drupal
   - Fedora
-  - Firebase
   - Firefly III
-  - Jenkins
   - Kanboard
-  - Markdown
   - Navidrome
-  - ntfy
-  - OctoPrint
   - Ombi
   - OVH
   - Perl
-  - Podman
   - Radicale
-  - SemVer
-  - Stack Exchange
-  - Stack Overflow
-  - SteamDB
-  - Tasmota
   - TravisCI
   - VMWare
   - XFCE
@@ -56,6 +38,7 @@
   - ~~Bazarr - Issue open [here](https://github.com/morpheus65535/bazarr/issues/2020)~~
   - Caddy - Can't find a SVG of this (icons [here](https://github.com/caddyserver/website/tree/master/src/resources/images) have PNG data embedded in them)
   - CloudBeaver - Can't find a SVG of this
+  - Composer - Can't find a SVG of this
   - FreeBSD - Can't find a good SVG of this  (has some PNG data inside it)
   - Ghost - Can't find a SVG of this
   - Glances - Can't find a SVG of this
@@ -64,10 +47,11 @@
   - Jackett - Issue open [here](https://github.com/Jackett/Jackett/issues/13789)
   - Microsoft SQL Server - Can't find a SVG of this
   - Postfix - Can't find a SVG of this
+  - SemVer - Issue open [here](https://github.com/semver/semver.org/issues/399)
   - Tdarr - Can't find a SVG of this
   - Telegraf - Issue open [here](https://github.com/influxdata/telegraf/issues/12327)
   - Watchtower - Issue open [here](https://github.com/containrrr/watchtower/issues/1510)
-  - XCP-ng - Issue open [here](https://github.com/xcp-ng/xcp/issues/583)
+  - ~~XCP-ng - Issue open [here](https://github.com/xcp-ng/xcp/issues/583)~~
   - ZeroTier - Can't find a SVG of this
   - Zigbee - Can't find a SVG of this
   - Zigbee2MQTT - This SVG is a mess
