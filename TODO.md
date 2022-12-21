@@ -18,6 +18,7 @@
 # Icons
 - Icons to add
   - Arduino
+  - Audiobookshelf
   - Bootstrap
   - C
   - C#
@@ -31,6 +32,7 @@
   - Jenkins
   - Markdown
   - Navidrome
+  - OctoPrint
   - Ombi
   - OVH
   - Perl
@@ -40,6 +42,7 @@
   - Stack Exchange
   - Stack Overflow
   - SteamDB
+  - Tasmota
   - TravisCI
   - VMWare
   - XFCE
