@@ -58,31 +58,31 @@
             "path": "./assets/ansible-black.svg",
             "name": "Ansible (black)",
             "source": "https://www.ansible.com/logos",
-            "guidelines": ""
+            "guidelines": "https://www.ansible.com/logos"
         },
         {
             "path": "./assets/ansible-gray.svg",
             "name": "Ansible (gray)",
             "source": "https://www.ansible.com/logos",
-            "guidelines": ""
+            "guidelines": "https://www.ansible.com/logos"
         },
         {
             "path": "./assets/ansible-outline.svg",
             "name": "Ansible (outline)",
             "source": "https://www.ansible.com/logos",
-            "guidelines": ""
+            "guidelines": "https://www.ansible.com/logos"
         },
         {
             "path": "./assets/ansible-red.svg",
             "name": "Ansible (red)",
             "source": "https://www.ansible.com/logos",
-            "guidelines": ""
+            "guidelines": "https://www.ansible.com/logos"
         },
         {
             "path": "./assets/ansible-teal.svg",
             "name": "Ansible (teal)",
             "source": "https://www.ansible.com/logos",
-            "guidelines": ""
+            "guidelines": "https://www.ansible.com/logos"
         },
         {
             "path": "./assets/apachecassandra.svg",
@@ -178,7 +178,7 @@
             "path": "./assets/arm.svg",
             "name": "ARM",
             "source": "https://www.arm.com/company/policies/trademarks/guidelines-corporate-logo",
-            "guidelines": ""
+            "guidelines": "https://www.arm.com/company/policies/trademarks/guidelines-corporate-logo"
         },
         {
             "path": "./assets/atlassian.svg",
@@ -229,6 +229,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/audiobookshelf.svg",
+            "name": "Audiobookshelf",
+            "source": "https://github.com/advplyr/audiobookshelf/blob/master/client/static/icon.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/authelia.svg",
             "name": "Authelia",
             "source": "https://github.com/authelia/authelia/blob/master/docs/static/images/branding/logo.svg",
@@ -244,19 +250,19 @@
             "path": "./assets/backblaze.svg",
             "name": "Backblaze",
             "source": "https://www.backblaze.com/partner/affiliate_resources.html",
-            "guidelines": ""
+            "guidelines": "https://www.backblaze.com/company/news.html"
         },
         {
             "path": "./assets/bash-dark.svg",
             "name": "Bash (dark)",
             "source": "https://bashlogo.com/",
-            "guidelines": ""
+            "guidelines": "https://github.com/odb/official-bash-logo"
         },
         {
             "path": "./assets/bash-light.svg",
             "name": "Bash (light)",
             "source": "https://bashlogo.com/",
-            "guidelines": ""
+            "guidelines": "https://github.com/odb/official-bash-logo"
         },
         {
             "path": "./assets/bazarr.svg",
@@ -274,7 +280,7 @@
             "path": "./assets/bitwarden.svg",
             "name": "Bitwarden",
             "source": "https://github.com/bitwarden/brand/blob/master/icons/icon.svg",
-            "guidelines": ""
+            "guidelines": "https://github.com/bitwarden/brand"
         },
         {
             "path": "./assets/bookstack.svg",
@@ -298,19 +304,19 @@
             "path": "./assets/brave.svg",
             "name": "Brave",
             "source": "https://brave.com/brave-branding-assets/",
-            "guidelines": ""
+            "guidelines": "https://brave.com/brave-branding-assets/"
         },
         {
             "path": "./assets/bulma.svg",
             "name": "Bulma",
             "source": "https://bulma.io/brand/",
-            "guidelines": ""
+            "guidelines": "https://bulma.io/brand/"
         },
         {
             "path": "./assets/cplusplus.svg",
             "name": "C++",
             "source": "https://github.com/isocpp/logos/blob/master/cpp_logo.svg",
-            "guidelines": ""
+            "guidelines": "https://isocpp.org/home/terms-of-use"
         },
         {
             "path": "./assets/calibre.svg",
@@ -680,9 +686,9 @@
         },
         {
             "path": "./assets/gitlab.svg",
-            "name": "GitLab",
+            "name": "GitLab (tanuki)",
             "source": "https://about.gitlab.com/press/press-kit/",
-            "guidelines": ""
+            "guidelines": "https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/trademark-guidelines/"
         },
         {
             "path": "./assets/gnome.svg",
@@ -829,6 +835,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/homebrew.svg",
+            "name": "Homebrew",
+            "source": "https://github.com/Homebrew/brew.sh/blob/master/assets/img/homebrew.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/html5.svg",
             "name": "HTML5",
             "source": "https://www.w3.org/html/logo/",
@@ -943,6 +955,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/json.svg",
+            "name": "JSON",
+            "source": "https://en.wikipedia.org/wiki/JSON",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/k3os.svg",
             "name": "K3OS",
             "source": "https://www.rancher.com/brand-guidelines",
@@ -959,6 +977,12 @@
             "name": "Kali Linux",
             "source": "https://www.kali.org/",
             "guidelines": "https://www.kali.org/docs/policy/trademark/"
+        },
+        {
+            "path": "./assets/kanboard.svg",
+            "name": "Kanboard",
+            "source": "https://github.com/kanboard/kanboard/blob/main/assets/img/icon.svg",
+            "guidelines": ""
         },
         {
             "path": "./assets/kde.svg",
@@ -1521,8 +1545,8 @@
         {
             "path": "./assets/popos.svg",
             "name": "Pop!_OS",
-            "source": "https://github.com/pop-os/icon-theme/blob/master/src/fullcolor/logos/distributor-logo-pop-os.svg",
-            "guidelines": ""
+            "source": "https://github.com/system76/brand/blob/master/Pop_OS%20branding/Pop_icon.svg",
+            "guidelines": "https://system76.com/about"
         },
         {
             "path": "./assets/portainer.svg",
@@ -1777,6 +1801,30 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/synology-black.svg",
+            "name": "Synology (black)",
+            "source": "https://design.synology.com/elements/logo",
+            "guidelines": "https://design.synology.com/elements/logo"
+        },
+        {
+            "path": "./assets/synology-two-color.svg",
+            "name": "Synology (two-color)",
+            "source": "https://design.synology.com/elements/logo",
+            "guidelines": "https://design.synology.com/elements/logo"
+        },
+        {
+            "path": "./assets/synology-white.svg",
+            "name": "Synology (white)",
+            "source": "https://design.synology.com/elements/logo",
+            "guidelines": "https://design.synology.com/elements/logo"
+        },
+        {
+            "path": "./assets/system76.svg",
+            "name": "System76",
+            "source": "https://github.com/system76/brand/blob/master/System76%20branding/system76-logo_secondary.svg",
+            "guidelines": "https://system76.com/about"
+        },
+        {
             "path": "./assets/tailscale.svg",
             "name": "Tailscale",
             "source": "https://tailscale.com/",
@@ -1798,7 +1846,7 @@
             "path": "./assets/tenable.svg",
             "name": "Tenable",
             "source": "https://www.tenable.com/media",
-            "guidelines": ""
+            "guidelines": "https://www.tenable.com/media"
         },
         {
             "path": "./assets/terraform.svg",
@@ -1858,7 +1906,7 @@
             "path": "./assets/twitter.svg",
             "name": "Twitter",
             "source": "https://about.twitter.com/en/who-we-are/brand-toolkit",
-            "guidelines": ""
+            "guidelines": "https://about.twitter.com/en/who-we-are/brand-toolkit"
         },
         {
             "path": "./assets/ubuntu-circle-tag.svg",

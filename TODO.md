@@ -17,12 +17,10 @@
 
 # Icons
 - Icons to add
-  - Audiobookshelf
   - C
   - C#
   - Fedora
   - Firefly III
-  - Kanboard
   - Navidrome
   - Ombi
   - OVH
