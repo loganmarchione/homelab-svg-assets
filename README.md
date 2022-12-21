@@ -20,6 +20,7 @@ Over 300 full-color SVG icons of homelab-related software, products, and brands 
   - [NPM usage](#npm-usage)
   - [Hugo usage](#hugo-usage)
 - [Legal](#legal)
+- [Other icon sets](#other-icon-sets)
 - [TODO](#todo)
 
 # Usage
@@ -145,6 +146,15 @@ Finally, in your markdown files, you can reference the icon:
 # Legal
 
 See [DISCLAIMER.md](DISCLAIMER.md)
+
+# Other icon sets
+
+It would be remiss of me if I did not mention other great icons sets
+
+- [Simple Icons](https://simpleicons.org/) - Monochromatic SVG icons for popular brands
+- [Bootstrap Icons](https://icons.getbootstrap.com/) - Mostly generic icons, but some brand icons
+- [Font Awesome](https://fontawesome.com/icons) - Mix of generic and brand icons
+- [Devicon](https://devicon.dev/) - Icons representing programming languages, designing & development tools
 
 # TODO
 
