@@ -13,12 +13,13 @@
 - [x] Add `data.json` to collect brand guidelines and legal requirements
 - [x] Write Python script to dynamically generate `ICONS.md` from `data.json` file
 - [ ] Go through list of icons to find any that require the registered trademark (®) or trademark symbol (™) to be added
-- [ ] Add Diagrams.net library (will need to format JSON data into XML)
+- [x] Add Diagrams.net library (will need to format JSON data into XML)
 
 # Icons
 - Icons to add
   - Arduino
   - Audiobookshelf
+  - Azuracast
   - Bootstrap
   - C
   - C#
@@ -30,8 +31,10 @@
   - Firebase
   - Firefly III
   - Jenkins
+  - Kanboard
   - Markdown
   - Navidrome
+  - ntfy
   - OctoPrint
   - Ombi
   - OVH
