@@ -163,6 +163,12 @@
             "guidelines": "https://wiki.archlinux.org/title/DeveloperWiki:TrademarkPolicy"
         },
         {
+            "path": "./assets/arduino.svg",
+            "name": "Arduino",
+            "source": "https://www.arduino.cc/en/trademark",
+            "guidelines": "https://support.arduino.cc/hc/en-us/articles/4679102084892-Arduino-and-Community-logos"
+        },
+        {
             "path": "./assets/argocd.svg",
             "name": "ArgoCD",
             "source": "https://cncf-branding.netlify.app/projects/argo/",
@@ -229,6 +235,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/azuracast.svg",
+            "name": "AzuraCast",
+            "source": "https://docs.azuracast.com/en/press-kit",
+            "guidelines": "https://docs.azuracast.com/en/press-kit"
+        },
+        {
             "path": "./assets/backblaze.svg",
             "name": "Backblaze",
             "source": "https://www.backblaze.com/partner/affiliate_resources.html",
@@ -274,7 +286,7 @@
             "path": "./assets/bootstrap.svg",
             "name": "Bootstrap",
             "source": "https://getbootstrap.com/docs/5.2/about/brand/",
-            "guidelines": ""
+            "guidelines": "https://getbootstrap.com/docs/5.2/about/brand/"
         },
         {
             "path": "./assets/boundary.svg",
@@ -343,6 +355,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/circleci.svg",
+            "name": "CircleCI",
+            "source": "https://circleci.com/",
+            "guidelines": "https://circleci.com/legal/trademark-guidelines/"
+        },
+        {
             "path": "./assets/cloudflare.svg",
             "name": "Cloudflare",
             "source": "https://www.cloudflare.com/logo/",
@@ -377,6 +395,12 @@
             "name": "CSS3",
             "source": "https://en.wikipedia.org/wiki/CSS",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/curl.svg",
+            "name": "curl",
+            "source": "https://curl.se/logo/",
+            "guidelines": "https://curl.se/logo/"
         },
         {
             "path": "./assets/cyberchef.svg",
@@ -455,6 +479,18 @@
             "name": "Drone CI",
             "source": "https://github.com/drone/docs/blob/master/static/logo.svg",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/drupal.svg",
+            "name": "Drupal",
+            "source": "https://www.drupal.org/about/media-kit/logos",
+            "guidelines": "https://www.drupal.org/about/media-kit/logo-wordmark-guidelines"
+        },
+        {
+            "path": "./assets/drupal-druplicon.svg",
+            "name": "Drupal (Druplicon)",
+            "source": "https://www.drupal.org/about/media-kit/logos",
+            "guidelines": "https://www.drupal.org/about/media-kit/logo-wordmark-guidelines"
         },
         {
             "path": "./assets/eclipsemosquitto.svg",
@@ -685,6 +721,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/googlefirebase.svg",
+            "name": "Google Firebase",
+            "source": "https://firebase.google.com/brand-guidelines/",
+            "guidelines": "https://firebase.google.com/brand-guidelines/"
+        },
+        {
             "path": "./assets/googlemail.svg",
             "name": "Google Mail (Gmail)",
             "source": "https://en.wikipedia.org/wiki/Gmail",
@@ -883,6 +925,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/jenkins.svg",
+            "name": "Jenkins",
+            "source": "https://www.jenkins.io/artwork/",
+            "guidelines": "https://www.jenkins.io/press/"
+        },
+        {
             "path": "./assets/jfrog.svg",
             "name": "JFrog",
             "source": "https://jfrog.com/",
@@ -1048,7 +1096,19 @@
             "path": "./assets/mariadb.svg",
             "name": "MariaDB",
             "source": "https://mariadb.com/about-us/logos/",
-            "guidelines": ""
+            "guidelines": "https://mariadb.com/about-us/logos/"
+        },
+        {
+            "path": "./assets/markdown.svg",
+            "name": "Markdown",
+            "source": "https://github.com/dcurtis/markdown-mark/blob/master/svg/markdown-mark.svg",
+            "guidelines": "https://github.com/dcurtis/markdown-mark"
+        },
+        {
+            "path": "./assets/markdown-solid.svg",
+            "name": "Markdown (solid)",
+            "source": "https://github.com/dcurtis/markdown-mark/blob/master/svg/markdown-mark-solid.svg",
+            "guidelines": "https://github.com/dcurtis/markdown-mark"
         },
         {
             "path": "./assets/mastodon.svg",
@@ -1097,6 +1157,12 @@
             "name": "Memcached",
             "source": "https://en.wikipedia.org/wiki/Memcached",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/mercurial.svg",
+            "name": "Mercurial",
+            "source": "https://www.mercurial-scm.org/hg-logo/",
+            "guidelines": "https://www.mercurial-scm.org/hg-logo/"
         },
         {
             "path": "./assets/microsoft.svg",
@@ -1273,6 +1339,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/ntfy.svg",
+            "name": "ntfy",
+            "source": "https://github.com/binwiederhier/ntfy/blob/main/web/src/img/ntfy.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/nvidia.svg",
             "name": "Nvidia",
             "source": "https://en.wikipedia.org/wiki/Nvidia",
@@ -1285,6 +1357,18 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/octoprint.svg",
+            "name": "OctoPrint",
+            "source": "https://github.com/OctoPrint/OctoPrint/blob/master/src/octoprint/static/img/mask-theme.svg",
+            "guidelines": "https://octoprint.org/trademark-rules/"
+        },
+        {
+            "path": "./assets/openapiinitiative.svg",
+            "name": "OpenAPI Initiative",
+            "source": "https://github.com/OAI/OpenAPI-Style-Guide/blob/main/graphics/vector/OpenAPI_Logo_Pantone.svg",
+            "guidelines": "https://www.openapis.org/faq/style-guide"
+        },
+        {
             "path": "./assets/openbsd.svg",
             "name": "OpenBSD",
             "source": "https://en.wikipedia.org/wiki/OpenBSD",
@@ -1294,7 +1378,7 @@
             "path": "./assets/openjdk.svg",
             "name": "OpenJDK (Duke)",
             "source": "https://wiki.openjdk.org/display/duke/Gallery",
-            "guidelines": ""
+            "guidelines": "https://wiki.openjdk.org/display/duke/Main"
         },
         {
             "path": "./assets/openmediavault.svg",
@@ -1306,7 +1390,19 @@
             "path": "./assets/opensearch.svg",
             "name": "OpenSearch",
             "source": "https://opensearch.org/brand.html",
-            "guidelines": ""
+            "guidelines": "https://opensearch.org/brand.html"
+        },
+        {
+            "path": "./assets/openstack.svg",
+            "name": "OpenStack",
+            "source": "https://github.com/openwrt/branding/blob/master/logo/openwrt_logo_blue_and_dark_blue.svg",
+            "guidelines": "https://www.openstack.org/brand/openstack-logo/"
+        },
+        {
+            "path": "./assets/opensuse.svg",
+            "name": "openSUSE",
+            "source": "https://en.opensuse.org/openSUSE:Artwork_brand",
+            "guidelines": "https://en.opensuse.org/openSUSE:Trademark_guidelines"
         },
         {
             "path": "./assets/openvpn.svg",
@@ -1315,45 +1411,15 @@
             "guidelines": ""
         },
         {
-            "path": "./assets/opnsense.svg",
-            "name": "OPNsense",
-            "source": "https://en.wikipedia.org/wiki/OPNsense",
-            "guidelines": ""
-        },
-        {
-            "path": "./assets/owncloud.svg",
-            "name": "ownCloud",
-            "source": "https://owncloud.com/trademark/",
-            "guidelines": ""
-        },
-        {
-            "path": "./assets/opensuse.svg",
-            "name": "openSUSE",
-            "source": "https://en.opensuse.org/openSUSE:Artwork_brand",
-            "guidelines": ""
-        },
-        {
             "path": "./assets/openwrt.svg",
             "name": "OpenWRT",
             "source": "https://github.com/openwrt/branding/blob/master/logo/openwrt_logo_blue_and_dark_blue.svg",
-            "guidelines": ""
+            "guidelines": "https://openwrt.org/docs/guide-graphic-designer/openwrt-logo"
         },
         {
             "path": "./assets/openzfs.svg",
             "name": "OpenZFS",
             "source": "https://en.wikipedia.org/wiki/OpenZFS",
-            "guidelines": ""
-        },
-        {
-            "path": "./assets/opera.svg",
-            "name": "Opera",
-            "source": "https://brand.opera.com/1472-2/opera-logos/",
-            "guidelines": ""
-        },
-        {
-            "path": "./assets/overseerr.svg",
-            "name": "Overseerr",
-            "source": "https://github.com/sct/overseerr/blob/develop/public/logo_full.svg",
             "guidelines": ""
         },
         {
@@ -1366,12 +1432,36 @@
             "path": "./assets/opensourcehardware.svg",
             "name": "Open Source Hardware",
             "source": "https://www.oshwa.org/open-source-hardware-logo/",
-            "guidelines": ""
+            "guidelines": "https://www.oshwa.org/open-source-hardware-logo/"
         },
         {
             "path": "./assets/opensourceinitiative.svg",
             "name": "Open Source Initiative",
             "source": "https://opensource.org/logo-usage-guidelines",
+            "guidelines": "https://opensource.org/logo-usage-guidelines"
+        },
+        {
+            "path": "./assets/opera.svg",
+            "name": "Opera",
+            "source": "https://brand.opera.com/1472-2/opera-logos/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/opnsense.svg",
+            "name": "OPNsense",
+            "source": "https://en.wikipedia.org/wiki/OPNsense",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/overseerr.svg",
+            "name": "Overseerr",
+            "source": "https://github.com/sct/overseerr/blob/develop/public/logo_full.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/owncloud.svg",
+            "name": "ownCloud",
+            "source": "https://owncloud.com/trademark/",
             "guidelines": ""
         },
         {
@@ -1423,6 +1513,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/podman.svg",
+            "name": "Podman",
+            "source": "https://podman.io/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/popos.svg",
             "name": "Pop!_OS",
             "source": "https://github.com/pop-os/icon-theme/blob/master/src/fullcolor/logos/distributor-logo-pop-os.svg",
@@ -1468,7 +1564,7 @@
             "path": "./assets/python.svg",
             "name": "Python",
             "source": "https://www.python.org/community/logos/",
-            "guidelines": ""
+            "guidelines": "https://www.python.org/psf/trademarks/"
         },
         {
             "path": "./assets/pypi.svg",
@@ -1639,9 +1735,33 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/stackexchange.svg",
+            "name": "Stack Exchange",
+            "source": "https://stackoverflow.design/brand/logo/",
+            "guidelines": "https://stackoverflow.com/legal/trademark-guidance"
+        },
+        {
+            "path": "./assets/stackoverflow.svg",
+            "name": "Stack Overflow",
+            "source": "https://stackoverflow.design/brand/logo/",
+            "guidelines": "https://stackoverflow.com/legal/trademark-guidance"
+        },
+        {
             "path": "./assets/steam.svg",
             "name": "Steam",
-            "source": "https://en.wikipedia.org/wiki/Steam_(service)",
+            "source": "https://partner.steamgames.com/doc/marketing/branding",
+            "guidelines": "https://partner.steamgames.com/doc/marketing/branding"
+        },
+        {
+            "path": "./assets/steamdeck.svg",
+            "name": "Steam Deck",
+            "source": "https://partner.steamgames.com/doc/marketing/branding",
+            "guidelines": "https://partner.steamgames.com/doc/marketing/branding"
+        },
+        {
+            "path": "./assets/steamdb.svg",
+            "name": "SteamDB",
+            "source": "https://steamdb.info/",
             "guidelines": ""
         },
         {
@@ -1660,6 +1780,12 @@
             "path": "./assets/tailscale.svg",
             "name": "Tailscale",
             "source": "https://tailscale.com/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/tasmota.svg",
+            "name": "Tasmota",
+            "source": "https://github.com/arendst/Tasmota/blob/master/tools/logo/TASMOTA_Symbol_Vector.svg",
             "guidelines": ""
         },
         {
@@ -1865,6 +1991,12 @@
             "name": "WordPress",
             "source": "https://wordpress.org/about/logos/",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/xcpng.svg",
+            "name": "XCP-NG",
+            "source": "https://vates.fr/blog/vates-brand-guidelines/",
+            "guidelines": "https://vates.fr/blog/vates-brand-guidelines/"
         },
         {
             "path": "./assets/yarn.svg",
