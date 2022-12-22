@@ -1,6 +1,12 @@
 {
     "icons": [
         {
+            "path": "./assets/dotnet.svg",
+            "name": ".NET",
+            "source": "https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.svg",
+            "guidelines": "https://github.com/dotnet/brand"
+        },
+        {
             "path": "./assets/adguardhome.svg",
             "name": "AdGuard Home",
             "source": "https://github.com/AdguardTeam/AdGuardHome/blob/master/doc/adguard_home_lightmode.svg",
@@ -385,6 +391,12 @@
             "guidelines": "https://circleci.com/legal/trademark-guidelines/"
         },
         {
+            "path": "./assets/cloudbeaver.svg",
+            "name": "CloudBeaver",
+            "source": "https://demo.cloudbeaver.io/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/cloudflare.svg",
             "name": "Cloudflare",
             "source": "https://www.cloudflare.com/logo/",
@@ -400,6 +412,12 @@
             "path": "./assets/codeberg.svg",
             "name": "Codeberg",
             "source": "https://codeberg.org/Codeberg/Design/src/branch/main/logo/icon/svg/codeberg-logo_icon_blue.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/composer.svg",
+            "name": "Composer",
+            "source": "https://github.com/composer/composer/issues/4403",
             "guidelines": ""
         },
         {
@@ -631,6 +649,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/firefly-iii.svg",
+            "name": "Firefly III",
+            "source": "https://github.com/firefly-iii/firefly-iii/blob/main/public/maskable-icon.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/flathub.svg",
             "name": "Flathub",
             "source": "https://github.com/flathub/website/blob/main/frontend/public/img/logo/flathub-logo-toolbar.svg",
@@ -671,6 +695,12 @@
             "name": "Fossil",
             "source": "https://en.wikipedia.org/wiki/Fossil_(software)",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/freebsd.svg",
+            "name": "FreeBSD",
+            "source": "https://freebsdfoundation.org/get-involved/brand-assets/",
+            "guidelines": "https://freebsdfoundation.org/legal/trademark-usage-terms-and-conditions/"
         },
         {
             "path": "./assets/freshrss.svg",
@@ -1369,6 +1399,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/navidrome.svg",
+            "name": "Navidrome",
+            "source": "https://www.navidrome.org/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/netdata.svg",
             "name": "Netdata",
             "source": "https://github.com/netdata/netdata/blob/master/web/gui/dashboard/images/netdata-logomark.svg",
@@ -1451,6 +1487,12 @@
             "name": "OctoPrint",
             "source": "https://github.com/OctoPrint/OctoPrint/blob/master/src/octoprint/static/img/mask-theme.svg",
             "guidelines": "https://octoprint.org/trademark-rules/"
+        },
+        {
+            "path": "./assets/ombi.svg",
+            "name": "Ombi",
+            "source": "https://github.com/Ombi-app/Ombi/blob/develop/assets/Ombi-icon.ai",
+            "guidelines": ""
         },
         {
             "path": "./assets/openapiinitiative.svg",
@@ -1546,6 +1588,12 @@
             "path": "./assets/overseerr.svg",
             "name": "Overseerr",
             "source": "https://github.com/sct/overseerr/blob/develop/public/logo_full.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/ovh.svg",
+            "name": "OVH",
+            "source": "https://www.ovhcloud.com/en/",
             "guidelines": ""
         },
         {
@@ -1687,6 +1735,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/radicale.svg",
+            "name": "Radicale",
+            "source": "https://radicale.org/v3.html",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/rancher.svg",
             "name": "Rancher",
             "source": "https://www.rancher.com/brand-guidelines",
@@ -1726,7 +1780,7 @@
             "path": "./assets/reddit.svg",
             "name": "Reddit (Snoo)",
             "source": "https://www.redditinc.com/brand",
-            "guidelines": ""
+            "guidelines": "https://www.redditinc.com/brand"
         },
         {
             "path": "./assets/redhat.svg",
@@ -1738,7 +1792,7 @@
             "path": "./assets/redis.svg",
             "name": "Redis",
             "source": "https://redis.com/brand-guidelines/",
-            "guidelines": ""
+            "guidelines": "https://redis.com/brand-guidelines/"
         },
         {
             "path": "./assets/rockylinux.svg",
@@ -1756,7 +1810,7 @@
             "path": "./assets/ruby.svg",
             "name": "Ruby",
             "source": "https://www.ruby-lang.org/en/about/logo/",
-            "guidelines": ""
+            "guidelines": "https://www.ruby-lang.org/en/about/logo/"
         },
         {
             "path": "./assets/rust.svg",
@@ -1969,6 +2023,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/travisci.svg",
+            "name": "TravisCI",
+            "source": "https://blog.travis-ci.com/2014-11-20-brand-stand",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/truenas.svg",
             "name": "TrueNAS",
             "source": "https://www.truenas.com/",
@@ -2044,6 +2104,12 @@
             "path": "./assets/visualstudiocode.svg",
             "name": "Visual Studio Code",
             "source": "https://code.visualstudio.com/brand",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/vmware.svg",
+            "name": "VMWare",
+            "source": "https://en.wikipedia.org/wiki/VMware",
             "guidelines": ""
         },
         {
@@ -2125,6 +2191,12 @@
             "guidelines": "https://vates.fr/blog/vates-brand-guidelines/"
         },
         {
+            "path": "./assets/xfce.svg",
+            "name": "XFCE",
+            "source": "https://www.xfce.org/download",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/yarn.svg",
             "name": "Yarn",
             "source": "https://github.com/yarnpkg/assets/blob/master/yarn-kitten-circle.svg",
@@ -2159,6 +2231,12 @@
             "name": "ZeroSSL",
             "source": "https://zerossl.com/",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/zigbee.svg",
+            "name": "Zigbee",
+            "source": "https://zigbeealliance.org/wp-content/uploads/2019/11/Zigbee-Alliance-Trademark-and-Logo-Policy.pdf",
+            "guidelines": "https://zigbeealliance.org/wp-content/uploads/2019/11/Zigbee-Alliance-Trademark-and-Logo-Policy.pdf"
         }
     ]
 }

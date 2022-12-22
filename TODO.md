@@ -17,42 +17,26 @@
 
 # Icons
 - Icons to add
-  - Anaconda
-  - Cisco
-  - Fedora
-  - Firefly III
-  - Navidrome
-  - Ombi
-  - OVH
-  - Perl
-  - Radicale
-  - SSH
-  - TravisCI
-  - VMWare
-  - XFCE
+
 
 - Icons that I can't find
   - Adminer - Can't find a SVG of this (this software hasn't had an update since [2021-05-23](https://github.com/vrana/adminer/commit/88647b93e467210f270340e758af6771e2c5638a))
-  - Baikal - Issue open [here](https://github.com/sabre-io/Baikal/issues/1143)
-  - ~~Bazarr - Issue open [here](https://github.com/morpheus65535/bazarr/issues/2020)~~
+  - [Baikal](https://github.com/sabre-io/Baikal/issues/1143)
+  - ~~[Bazarr](https://github.com/morpheus65535/bazarr/issues/2020)~~
   - Caddy - Can't find a SVG of this (icons [here](https://github.com/caddyserver/website/tree/master/src/resources/images) have PNG data embedded in them)
-  - CloudBeaver - Can't find a SVG of this
-  - Composer - Can't find a SVG of this
-  - FreeBSD - Can't find a good SVG of this  (has some PNG data inside it)
   - Ghost - Can't find a SVG of this
   - Glances - Can't find a SVG of this
-  - ~~Gotify - Issue open [here](https://github.com/gotify/website/issues/67)~~
-  - Handbrake - The [SVG](https://github.com/HandBrake/HandBrake/blob/master/gtk/src/hb-icon.svg) is an encoded PNG
-  - Jackett - Issue open [here](https://github.com/Jackett/Jackett/issues/13789)
-  - Microsoft SQL Server - Can't find a SVG of this
+  - ~~[Gotify](https://github.com/gotify/website/issues/67)~~
+  - [Handbrake](https://github.com/HandBrake/HandBrake/issues/4749)
+  - [Jackett](https://github.com/Jackett/Jackett/issues/13789)
+  - ~~[Ombi](https://github.com/Ombi-app/Ombi/issues/4834)~~
   - Postfix - Can't find a SVG of this
-  - SemVer - Issue open [here](https://github.com/semver/semver.org/issues/399)
+  - [SemVer](https://github.com/semver/semver.org/issues/399)
   - Tdarr - Can't find a SVG of this
-  - Telegraf - Issue open [here](https://github.com/influxdata/telegraf/issues/12327)
-  - Watchtower - Issue open [here](https://github.com/containrrr/watchtower/issues/1510)
-  - ~~XCP-ng - Issue open [here](https://github.com/xcp-ng/xcp/issues/583)~~
+  - [Telegraf](https://github.com/influxdata/telegraf/issues/12327)
+  - [Watchtower](https://github.com/containrrr/watchtower/issues/1510)
+  - ~~[XCP-ng](https://github.com/xcp-ng/xcp/issues/583)~~
   - ZeroTier - Can't find a SVG of this
-  - Zigbee - Can't find a SVG of this
   - Zigbee2MQTT - This SVG is a mess
 
 - Icons that don't touch the edges (possibly need to be replaced?)
@@ -62,6 +46,12 @@
   - LXC
   - WikiJS
   - WhatsApp
+
+- Icons that require explicit permission (which I don't have yet)
+  - Anaconda
+  - Cisco
+  - Fedora - Email sent on 2022-12-22
+  - [Perl](https://github.com/tpf/marketing-materials/blob/master/images/onion-logo/tpf-logo-onion.svg) - I think I need to [email](https://www.perlfoundation.org/trademarks.html)
 
 - Icons that came from non-official sources (possibly need to be replaced?)
   - TinyTinyRSS - Can't find a SVG of this
