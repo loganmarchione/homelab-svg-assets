@@ -17,8 +17,8 @@
 
 # Icons
 - Icons to add
-  - C
-  - C#
+  - Anaconda
+  - Cisco
   - Fedora
   - Firefly III
   - Navidrome
@@ -26,6 +26,7 @@
   - OVH
   - Perl
   - Radicale
+  - SSH
   - TravisCI
   - VMWare
   - XFCE

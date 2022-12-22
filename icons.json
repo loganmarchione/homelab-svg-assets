@@ -241,6 +241,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/authentik.svg",
+            "name": "Authentik",
+            "source": "https://github.com/goauthentik/authentik/blob/main/website/static/img/icon_top_brand_colour.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/azuracast.svg",
             "name": "AzuraCast",
             "source": "https://docs.azuracast.com/en/press-kit",
@@ -311,6 +317,18 @@
             "name": "Bulma",
             "source": "https://bulma.io/brand/",
             "guidelines": "https://bulma.io/brand/"
+        },
+        {
+            "path": "./assets/c.svg",
+            "name": "C",
+            "source": "",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/csharp.svg",
+            "name": "C#",
+            "source": "",
+            "guidelines": ""
         },
         {
             "path": "./assets/cplusplus.svg",
@@ -433,6 +451,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/deno.svg",
+            "name": "Deno",
+            "source": "https://github.com/denoland/dotland/blob/main/static/logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/diagramsdotnet.svg",
             "name": "Diagrams.net (aka Draw.io)",
             "source": "https://github.com/jgraph/drawio/blob/dev/src/main/webapp/images/drawlogo-color.svg",
@@ -448,7 +472,7 @@
             "path": "./assets/discord.svg",
             "name": "Discord",
             "source": "https://discord.com/branding",
-            "guidelines": ""
+            "guidelines": "https://discord.com/branding"
         },
         {
             "path": "./assets/discourse.svg",
@@ -655,6 +679,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/frigate.svg",
+            "name": "Frigate",
+            "source": "https://github.com/blakeblackshear/frigate/blob/dev/docs/static/img/logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/gimp.svg",
             "name": "GIMP (Wilber)",
             "source": "https://gitlab.gnome.org/Infrastructure/gimp-web/blob/master/themes/newgimp/static/images/gimp.svg",
@@ -739,15 +769,15 @@
             "guidelines": ""
         },
         {
-            "path": "./assets/gnupg.svg",
-            "name": "GnuPG",
-            "source": "https://en.wikipedia.org/wiki/GNU_Privacy_Guard",
-            "guidelines": ""
-        },
-        {
             "path": "./assets/gnu.svg",
             "name": "GNU (Heckert)",
             "source": "https://www.gnu.org/graphics/heckert_gnu.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/gnupg.svg",
+            "name": "GnuPG",
+            "source": "https://en.wikipedia.org/wiki/GNU_Privacy_Guard",
             "guidelines": ""
         },
         {
@@ -790,6 +820,12 @@
             "path": "./assets/graylog.svg",
             "name": "Graylog",
             "source": "https://www.graylog.org/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/grocy.svg",
+            "name": "Grocy",
+            "source": "https://github.com/grocy/grocy/blob/master/public/img/grocy_logo.svg",
             "guidelines": ""
         },
         {
@@ -919,6 +955,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/jamstack.svg",
+            "name": "Jamstack",
+            "source": "https://jamstack.org/logos/",
+            "guidelines": "https://jamstack.org/logos/"
+        },
+        {
             "path": "./assets/javascript.svg",
             "name": "JavaScript",
             "source": "https://github.com/voodootikigod/logo.js/blob/master/js.svg",
@@ -958,6 +1000,18 @@
             "path": "./assets/json.svg",
             "name": "JSON",
             "source": "https://en.wikipedia.org/wiki/JSON",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/jupyter.svg",
+            "name": "Jupyter",
+            "source": "https://github.com/jupyter/design/blob/master/logos/Logo%20Mark/logomark-orangebody-greyplanets/logomark-orangebody-greyplanets.svg",
+            "guidelines": "https://github.com/jupyter/design/blob/master/brandguide/brand_guide.pdf"
+        },
+        {
+            "path": "./assets/k0s.svg",
+            "name": "k0s",
+            "source": "https://github.com/k0sproject/k0sproject.github.io/blob/main/images/k0s-logo.svg",
             "guidelines": ""
         },
         {
@@ -1177,6 +1231,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/mealie.svg",
+            "name": "Mealie",
+            "source": "https://hay-kot.github.io/mealie/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/memcached.svg",
             "name": "Memcached",
             "source": "https://en.wikipedia.org/wiki/Memcached",
@@ -1222,6 +1282,12 @@
             "path": "./assets/miniflux.svg",
             "name": "Miniflux",
             "source": "https://github.com/miniflux/logo/blob/master/icon.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/minikube.svg",
+            "name": "minikube",
+            "source": "https://github.com/kubernetes/minikube/blob/master/images/logo/logo.svg",
             "guidelines": ""
         },
         {
@@ -1558,7 +1624,7 @@
             "path": "./assets/postgresql.svg",
             "name": "PostgreSQL (Slonik)",
             "source": "https://wiki.postgresql.org/wiki/Logo",
-            "guidelines": ""
+            "guidelines": "https://www.postgresql.org/about/policies/trademarks/"
         },
         {
             "path": "./assets/pritunl.svg",
@@ -1583,6 +1649,12 @@
             "name": "Proxmox",
             "source": "https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/pushover.svg",
+            "name": "Pushover",
+            "source": "https://support.pushover.net/i63-pushover-logos-and-usage",
+            "guidelines": "https://support.pushover.net/i63-pushover-logos-and-usage"
         },
         {
             "path": "./assets/python.svg",
@@ -1685,6 +1757,12 @@
             "name": "Ruby",
             "source": "https://www.ruby-lang.org/en/about/logo/",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/rust.svg",
+            "name": "Rust",
+            "source": "https://foundation.rust-lang.org/policies/logo-policy-and-media-guide/",
+            "guidelines": "https://foundation.rust-lang.org/policies/logo-policy-and-media-guide/"
         },
         {
             "path": "./assets/safari.svg",
