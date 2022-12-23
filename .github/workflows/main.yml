@@ -52,5 +52,6 @@ jobs:
       run: |
         if grep -irlq png assets/*.svg; then
           echo 'ERROR: Found PNG information in the assets directory!'
+          grep -irl png assets/*.svg
           exit 1
         fi
