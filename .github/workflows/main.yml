@@ -1,4 +1,4 @@
-name: Python_Lint
+name: Lint
 
 on:
   push:
@@ -9,8 +9,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  lint:
-    name: Lint
+  python_lint:
+    name: Python Lint
 
     runs-on: ubuntu-latest
     strategy:
@@ -38,3 +38,19 @@ jobs:
     - name: Lint with flake8
       run: |
         grep -rl '^#!/.*py' | xargs -n1 flake8 --extend-ignore=E501
+
+  png_search:
+    name: PNG Search
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out the codebase
+      uses: actions/checkout@v3
+
+    - name: Search for encoded PNG files
+      run: |
+        if grep -irlq png assets/*.svg; then
+          echo 'ERROR: Found PNG information in the assets directory!'
+          exit 1
+        fi
