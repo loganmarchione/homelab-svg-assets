@@ -2221,6 +2221,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/weaveworks.svg",
+            "name": "Weaveworks",
+            "source": "https://www.weave.works/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/whatsapp.svg",
             "name": "WhatsApp",
             "source": "https://en.wikipedia.org/wiki/WhatsApp",
