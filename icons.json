@@ -46,7 +46,7 @@
             "path": "./assets/amd.svg",
             "name": "AMD",
             "source": "https://en.wikipedia.org/wiki/Advanced_Micro_Devices",
-            "guidelines": ""
+            "guidelines": "https://www.amd.com/en/partner/marketing-materials"
         },
         {
             "path": "./assets/amd-wide.svg",
@@ -58,7 +58,7 @@
             "path": "./assets/android.svg",
             "name": "Android",
             "source": "https://developer.android.com/distribute/marketing-tools/brand-guidelines",
-            "guidelines": ""
+            "guidelines": "https://about.google/brand-resource-center/"
         },
         {
             "path": "./assets/ansible-black.svg",
@@ -119,6 +119,12 @@
             "name": "Apache OpenOffice",
             "source": "https://www.apache.org/logos/",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/apachesoftwarefoundation.svg",
+            "name": "Apache Software Foundation",
+            "source": "https://www.apache.org/foundation/press/kit/",
+            "guidelines": "https://www.apache.org/foundation/press/kit/"
         },
         {
             "path": "./assets/apachesolr.svg",
@@ -352,13 +358,13 @@
             "path": "./assets/canonical.svg",
             "name": "Canonical",
             "source": "https://design.ubuntu.com/downloads/",
-            "guidelines": ""
+            "guidelines": "https://design.ubuntu.com/brand/canonical-logo/"
         },
         {
             "path": "./assets/centos.svg",
             "name": "CentOS",
             "source": "https://wiki.centos.org/ArtWork/Brand/Logo",
-            "guidelines": ""
+            "guidelines": "https://wiki.centos.org/ArtWork/Brand/Logo"
         },
         {
             "path": "./assets/ceph.svg",
@@ -376,7 +382,7 @@
             "path": "./assets/checkmk.svg",
             "name": "checkmk",
             "source": "https://checkmk.com/company/brand-assets",
-            "guidelines": ""
+            "guidelines": "https://checkmk.com/company/brand-assets"
         },
         {
             "path": "./assets/chromium.svg",
@@ -400,12 +406,18 @@
             "path": "./assets/cloudflare.svg",
             "name": "Cloudflare",
             "source": "https://www.cloudflare.com/logo/",
-            "guidelines": ""
+            "guidelines": "https://www.cloudflare.com/logo/"
         },
         {
             "path": "./assets/cloudflarepages.svg",
             "name": "Cloudflare Pages",
             "source": "https://pages.cloudflare.com/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/cockpit.svg",
+            "name": "Cockpit",
+            "source": "https://github.com/cockpit-project/cockpit/blob/main/src/branding/default/logo.svg",
             "guidelines": ""
         },
         {
@@ -454,13 +466,13 @@
             "path": "./assets/datadog.svg",
             "name": "Datadog (Bits)",
             "source": "https://www.datadoghq.com/about/resources/",
-            "guidelines": ""
+            "guidelines": "https://www.datadoghq.com/about/resources/"
         },
         {
             "path": "./assets/debian.svg",
             "name": "Debian",
             "source": "https://www.debian.org/logos/",
-            "guidelines": ""
+            "guidelines": "https://www.debian.org/logos/"
         },
         {
             "path": "./assets/deluge.svg",
@@ -514,13 +526,13 @@
             "path": "./assets/dokuwiki.svg",
             "name": "DokuWiki",
             "source": "https://www.dokuwiki.org/logo",
-            "guidelines": ""
+            "guidelines": "https://www.dokuwiki.org/logo"
         },
         {
             "path": "./assets/dragonflybsd.svg",
             "name": "DragonFlyBSD",
             "source": "https://www.dragonflybsd.org/images/",
-            "guidelines": ""
+            "guidelines": "https://www.dragonflybsd.org/images/"
         },
         {
             "path": "./assets/droneci.svg",
@@ -640,7 +652,7 @@
             "path": "./assets/fastmail.svg",
             "name": "Fastmail",
             "source": "https://www.fastmail.com/media-assets/",
-            "guidelines": ""
+            "guidelines": "https://www.fastmail.com/media-assets/"
         },
         {
             "path": "./assets/filezilla.svg",
@@ -703,6 +715,12 @@
             "guidelines": "https://freebsdfoundation.org/legal/trademark-usage-terms-and-conditions/"
         },
         {
+            "path": "./assets/freeipa.svg",
+            "name": "FreeIPA",
+            "source": "https://pagure.io/freeipa/issue/7362",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/freshrss.svg",
             "name": "FreshRSS",
             "source": "https://github.com/FreshRSS/FreshRSS/blob/edge/docs/img/FreshRSS-logo.svg",
@@ -724,7 +742,7 @@
             "path": "./assets/git.svg",
             "name": "Git",
             "source": "https://git-scm.com/downloads/logos",
-            "guidelines": ""
+            "guidelines": "https://git-scm.com/downloads/logos"
         },
         {
             "path": "./assets/gitea.svg",
@@ -736,13 +754,13 @@
             "path": "./assets/github-invertocat.svg",
             "name": "GitHub (Invertocat)",
             "source": "https://github.com/logos",
-            "guidelines": ""
+            "guidelines": "https://github.com/logos"
         },
         {
             "path": "./assets/github-octocat.svg",
             "name": "GitHub (Octocat)",
             "source": "https://github.com/logos",
-            "guidelines": ""
+            "guidelines": "https://github.com/logos"
         },
         {
             "path": "./assets/gitlab.svg",
@@ -754,37 +772,37 @@
             "path": "./assets/gnome.svg",
             "name": "Gnome",
             "source": "https://foundation.gnome.org/logo-and-trademarks/",
-            "guidelines": ""
+            "guidelines": "https://foundation.gnome.org/logo-and-trademarks/"
         },
         {
             "path": "./assets/google.svg",
             "name": "Google",
             "source": "https://en.wikipedia.org/wiki/Google",
-            "guidelines": ""
+            "guidelines": "https://about.google/brand-resource-center/"
         },
         {
             "path": "./assets/googlecalendar.svg",
             "name": "Google Calendar",
             "source": "https://en.wikipedia.org/wiki/Google_Calendar",
-            "guidelines": ""
+            "guidelines": "https://about.google/brand-resource-center/"
         },
         {
             "path": "./assets/googlechrome.svg",
             "name": "Google Chrome",
             "source": "https://en.wikipedia.org/wiki/Google_Chrome",
-            "guidelines": ""
+            "guidelines": "https://about.google/brand-resource-center/"
         },
         {
             "path": "./assets/googlecloudplatform.svg",
             "name": "Google Cloud Platform (GCP)",
             "source": "https://en.wikipedia.org/wiki/Google_Cloud_Platform",
-            "guidelines": ""
+            "guidelines": "https://about.google/brand-resource-center/"
         },
         {
             "path": "./assets/googledrive.svg",
             "name": "Google Drive",
             "source": "https://en.wikipedia.org/wiki/Google_Drive",
-            "guidelines": ""
+            "guidelines": "https://about.google/brand-resource-center/"
         },
         {
             "path": "./assets/googlefirebase.svg",
@@ -796,13 +814,13 @@
             "path": "./assets/googlemail.svg",
             "name": "Google Mail (Gmail)",
             "source": "https://en.wikipedia.org/wiki/Gmail",
-            "guidelines": ""
+            "guidelines": "https://about.google/brand-resource-center/"
         },
         {
             "path": "./assets/gnu.svg",
             "name": "GNU (Heckert)",
-            "source": "https://www.gnu.org/graphics/heckert_gnu.svg",
-            "guidelines": ""
+            "source": "https://www.gnu.org/graphics/heckert_gnu.en.html",
+            "guidelines": "https://www.gnu.org/graphics/heckert_gnu.en.html"
         },
         {
             "path": "./assets/gnupg.svg",
@@ -814,13 +832,13 @@
             "path": "./assets/go-black.svg",
             "name": "Go (black)",
             "source": "https://go.dev/blog/go-brand",
-            "guidelines": ""
+            "guidelines": "https://go.dev/blog/go-brand"
         },
         {
             "path": "./assets/go-blue.svg",
             "name": "Go (blue)",
             "source": "https://go.dev/blog/go-brand",
-            "guidelines": ""
+            "guidelines": "https://go.dev/blog/go-brand"
         },
         {
             "path": "./assets/gotify.svg",
@@ -868,7 +886,7 @@
             "path": "./assets/harvester.svg",
             "name": "Harvester",
             "source": "https://www.rancher.com/brand-guidelines",
-            "guidelines": ""
+            "guidelines": "https://www.rancher.com/brand-guidelines"
         },
         {
             "path": "./assets/hashicorp-black.svg",
@@ -892,13 +910,13 @@
             "path": "./assets/homeassistant.svg",
             "name": "Home Assistant",
             "source": "https://github.com/home-assistant/assets/blob/master/logo/logo.svg",
-            "guidelines": ""
+            "guidelines": "https://design.home-assistant.io/#brand/logo"
         },
         {
             "path": "./assets/homeassistant-small.svg",
             "name": "Home Assistant (small)",
             "source": "https://github.com/home-assistant/assets/blob/master/logo/logo-small.svg",
-            "guidelines": ""
+            "guidelines": "https://design.home-assistant.io/#brand/logo"
         },
         {
             "path": "./assets/homebrew.svg",
@@ -910,7 +928,7 @@
             "path": "./assets/html5.svg",
             "name": "HTML5",
             "source": "https://www.w3.org/html/logo/",
-            "guidelines": ""
+            "guidelines": "https://www.w3.org/html/logo/"
         },
         {
             "path": "./assets/hugo.svg",
@@ -943,16 +961,10 @@
             "guidelines": "https://www.ibm.com/design/language/ibm-logos/rebus"
         },
         {
-            "path": "./assets/influx-outline.svg",
-            "name": "Influx (outline)",
+            "path": "./assets/influx.svg",
+            "name": "Influx",
             "source": "https://influxdata.github.io/branding/logo/downloads/",
-            "guidelines": ""
-        },
-        {
-            "path": "./assets/influx-solid.svg",
-            "name": "Influx (solid)",
-            "source": "https://influxdata.github.io/branding/logo/downloads/",
-            "guidelines": ""
+            "guidelines": "https://influxdata.github.io/branding/logo/downloads/"
         },
         {
             "path": "./assets/inkscape.svg",
@@ -994,13 +1006,13 @@
             "path": "./assets/javascript.svg",
             "name": "JavaScript",
             "source": "https://github.com/voodootikigod/logo.js/blob/master/js.svg",
-            "guidelines": ""
+            "guidelines": "https://github.com/voodootikigod/logo.js"
         },
         {
             "path": "./assets/jellyfin.svg",
             "name": "Jellyfin",
             "source": "https://github.com/jellyfin/jellyfin-ux/blob/master/branding/SVG/icon-transparent.svg",
-            "guidelines": ""
+            "guidelines": "https://jellyfin.org/docs/general/contributing/branding/#logo"
         },
         {
             "path": "./assets/jellyseerr.svg",
@@ -1018,13 +1030,13 @@
             "path": "./assets/jfrog.svg",
             "name": "JFrog",
             "source": "https://jfrog.com/",
-            "guidelines": ""
+            "guidelines": "https://jfrog.com/brand-guidelines/"
         },
         {
             "path": "./assets/jfrogartifactory.svg",
             "name": "JFrog Artifactory",
             "source": "https://jfrog.com/",
-            "guidelines": ""
+            "guidelines": "https://jfrog.com/brand-guidelines/"
         },
         {
             "path": "./assets/json.svg",
@@ -1048,13 +1060,13 @@
             "path": "./assets/k3os.svg",
             "name": "K3OS",
             "source": "https://www.rancher.com/brand-guidelines",
-            "guidelines": ""
+            "guidelines": "https://www.rancher.com/brand-guidelines"
         },
         {
             "path": "./assets/k3s.svg",
             "name": "K3s",
             "source": "https://www.rancher.com/brand-guidelines",
-            "guidelines": ""
+            "guidelines": "https://www.rancher.com/brand-guidelines"
         },
         {
             "path": "./assets/kalilinux.svg",
@@ -1069,10 +1081,22 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/kasm.svg",
+            "name": "Kasm Workspaces",
+            "source": "https://www.kasmweb.com",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/kde.svg",
             "name": "KDE",
             "source": "https://kde.org/stuff/clipart/",
-            "guidelines": ""
+            "guidelines": "https://kde.org/stuff/clipart/"
+        },
+        {
+            "path": "./assets/kdeplasma.svg",
+            "name": "KDE Plasma",
+            "source": "https://kde.org/stuff/clipart/",
+            "guidelines": "https://kde.org/stuff/clipart/"
         },
         {
             "path": "./assets/kiwix.svg",
@@ -1108,7 +1132,7 @@
             "path": "./assets/letsencrypt.svg",
             "name": "Let’s Encrypt",
             "source": "https://letsencrypt.org/trademarks/",
-            "guidelines": ""
+            "guidelines": "https://letsencrypt.org/trademarks/"
         },
         {
             "path": "./assets/librenms-black.svg",
@@ -1126,7 +1150,7 @@
             "path": "./assets/libreoffice.svg",
             "name": "LibreOffice",
             "source": "https://wiki.documentfoundation.org/Gallery_Logos",
-            "guidelines": ""
+            "guidelines": "https://wiki.documentfoundation.org/Design/Branding"
         },
         {
             "path": "./assets/lidarr.svg",
@@ -1150,7 +1174,7 @@
             "path": "./assets/linode.svg",
             "name": "Linode",
             "source": "https://www.linode.com/company/press/",
-            "guidelines": ""
+            "guidelines": "https://www.linode.com/company/press/"
         },
         {
             "path": "./assets/linux.svg",
@@ -1168,7 +1192,7 @@
             "path": "./assets/longhorn.svg",
             "name": "Longhorn",
             "source": "https://www.rancher.com/brand-guidelines",
-            "guidelines": ""
+            "guidelines": "https://www.rancher.com/brand-guidelines"
         },
         {
             "path": "./assets/lxc.svg",
@@ -1186,6 +1210,12 @@
             "path": "./assets/lxde-white.svg",
             "name": "LXDE (white)",
             "source": "https://github.com/lxde/lxde.github.io/blob/master/images/lxde-logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/mailinabox.svg",
+            "name": "Mail-in-a-Box",
+            "source": "https://github.com/mail-in-a-box/mailinabox.email/blob/main/static/logo.svg",
             "guidelines": ""
         },
         {
@@ -1222,25 +1252,25 @@
             "path": "./assets/mastodon.svg",
             "name": "Mastodon",
             "source": "https://joinmastodon.org/branding",
-            "guidelines": ""
+            "guidelines": "https://joinmastodon.org/branding"
         },
         {
             "path": "./assets/mastodon-no-gradient.svg",
             "name": "Mastodon (no gradient)",
             "source": "https://joinmastodon.org/branding",
-            "guidelines": ""
+            "guidelines": "https://joinmastodon.org/branding"
         },
         {
             "path": "./assets/mattermost-black.svg",
             "name": "Mattermost (black)",
             "source": "https://handbook.mattermost.com/operations/operations/company-processes/publishing/publishing-guidelines/brand-and-visual-design-guidelines",
-            "guidelines": ""
+            "guidelines": "https://handbook.mattermost.com/operations/operations/company-processes/publishing/publishing-guidelines/brand-and-visual-design-guidelines"
         },
         {
             "path": "./assets/mattermost-blue.svg",
             "name": "Mattermost (blue)",
             "source": "https://handbook.mattermost.com/operations/operations/company-processes/publishing/publishing-guidelines/brand-and-visual-design-guidelines",
-            "guidelines": ""
+            "guidelines": "https://handbook.mattermost.com/operations/operations/company-processes/publishing/publishing-guidelines/brand-and-visual-design-guidelines"
         },
         {
             "path": "./assets/matrix-black.svg",
@@ -1265,6 +1295,24 @@
             "name": "Mealie",
             "source": "https://hay-kot.github.io/mealie/",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/mediawiki-large.svg",
+            "name": "MediaWiki (large)",
+            "source": "https://www.mediawiki.org/wiki/Manual:MediaWiki_logo_guidelines",
+            "guidelines": "https://www.mediawiki.org/wiki/Manual:MediaWiki_logo_guidelines"
+        },
+        {
+            "path": "./assets/mediawiki-medium.svg",
+            "name": "MediaWiki (medium)",
+            "source": "https://www.mediawiki.org/wiki/Manual:MediaWiki_logo_guidelines",
+            "guidelines": "https://www.mediawiki.org/wiki/Manual:MediaWiki_logo_guidelines"
+        },
+        {
+            "path": "./assets/mediawiki-small.svg",
+            "name": "MediaWiki (small)",
+            "source": "https://www.mediawiki.org/wiki/Manual:MediaWiki_logo_guidelines",
+            "guidelines": "https://www.mediawiki.org/wiki/Manual:MediaWiki_logo_guidelines"
         },
         {
             "path": "./assets/memcached.svg",
@@ -1306,7 +1354,7 @@
             "path": "./assets/mikrotik.svg",
             "name": "MikroTik",
             "source": "https://merch.mikrotik.com/pages/mikrotik-logo",
-            "guidelines": ""
+            "guidelines": "https://merch.mikrotik.com/pages/mikrotik-logo"
         },
         {
             "path": "./assets/miniflux.svg",
@@ -1330,49 +1378,49 @@
             "path": "./assets/mongodb-forest-green.svg",
             "name": "MongoDB (forest green)",
             "source": "https://www.mongodb.com/brand-resources",
-            "guidelines": ""
+            "guidelines": "https://www.mongodb.com/brand-resources"
         },
         {
             "path": "./assets/mongodb-spring-green.svg",
             "name": "MongoDB (spring green)",
             "source": "https://www.mongodb.com/brand-resources",
-            "guidelines": ""
+            "guidelines": "https://www.mongodb.com/brand-resources"
         },
         {
             "path": "./assets/mozilla.svg",
             "name": "Mozilla",
             "source": "https://mozilla.design/mozilla/",
-            "guidelines": ""
+            "guidelines": "https://mozilla.design/mozilla/"
         },
         {
             "path": "./assets/mozillafirefox.svg",
             "name": "Mozilla Firefox",
             "source": "https://mozilla.design/firefox/",
-            "guidelines": ""
+            "guidelines": "https://mozilla.design/mozilla/"
         },
         {
             "path": "./assets/mozillafirefoxbrowser.svg",
             "name": "Mozilla Firefox Browser",
             "source": "https://mozilla.design/firefox/",
-            "guidelines": ""
+            "guidelines": "https://mozilla.design/mozilla/"
         },
         {
             "path": "./assets/mozillafirefoxbrowserbeta.svg",
             "name": "Mozilla Firefox Browser Beta",
             "source": "https://mozilla.design/firefox/",
-            "guidelines": ""
+            "guidelines": "https://mozilla.design/mozilla/"
         },
         {
             "path": "./assets/mozillafirefoxbrowserdeveloper.svg",
             "name": "Mozilla Firefox Browser Developer Edition",
             "source": "https://mozilla.design/firefox/",
-            "guidelines": ""
+            "guidelines": "https://mozilla.design/mozilla/"
         },
         {
             "path": "./assets/mozillafirefoxbrowsernightly.svg",
             "name": "Mozilla Firefox Browser Nightly",
             "source": "https://mozilla.design/firefox/",
-            "guidelines": ""
+            "guidelines": "https://mozilla.design/mozilla/"
         },
         {
             "path": "./assets/mozillathunderbird.svg",
@@ -1384,13 +1432,13 @@
             "path": "./assets/mullvad.svg",
             "name": "Mullvad",
             "source": "https://mullvad.net/en/press/",
-            "guidelines": ""
+            "guidelines": "https://mullvad.net/en/press/"
         },
         {
             "path": "./assets/mysql.svg",
             "name": "MySQL (Sakila)",
             "source": "https://www.mysql.com/about/legal/logos.html",
-            "guidelines": ""
+            "guidelines": "https://www.mysql.com/about/legal/logos.html"
         },
         {
             "path": "./assets/n8n.svg",
@@ -1414,6 +1462,12 @@
             "path": "./assets/netlify.svg",
             "name": "Netlify",
             "source": "https://www.netlify.com/press",
+            "guidelines": "https://www.netlify.com/press"
+        },
+        {
+            "path": "./assets/netbox.svg",
+            "name": "NetBox",
+            "source": "https://docs.netbox.dev/",
             "guidelines": ""
         },
         {
@@ -1426,7 +1480,7 @@
             "path": "./assets/nextcloud.svg",
             "name": "Nextcloud",
             "source": "https://nextcloud.com/press/",
-            "guidelines": ""
+            "guidelines": "https://nextcloud.com/trademarks/"
         },
         {
             "path": "./assets/nginx.svg",
@@ -1444,7 +1498,7 @@
             "path": "./assets/nodejs.svg",
             "name": "Node.js",
             "source": "https://en.wikipedia.org/wiki/Node.js",
-            "guidelines": ""
+            "guidelines": "https://nodejs.org/static/documents/foundation-visual-guidelines.pdf"
         },
         {
             "path": "./assets/nodered.svg",
@@ -1474,13 +1528,13 @@
             "path": "./assets/nvidia.svg",
             "name": "Nvidia",
             "source": "https://en.wikipedia.org/wiki/Nvidia",
-            "guidelines": ""
+            "guidelines": "https://www.nvidia.com/en-us/about-nvidia/legal-info/logo-brand-usage/"
         },
         {
             "path": "./assets/nvidia-wide.svg",
             "name": "Nvidia (wide)",
             "source": "https://en.wikipedia.org/wiki/Nvidia",
-            "guidelines": ""
+            "guidelines": "https://www.nvidia.com/en-us/about-nvidia/legal-info/logo-brand-usage/"
         },
         {
             "path": "./assets/octoprint.svg",
@@ -1492,6 +1546,12 @@
             "path": "./assets/ombi.svg",
             "name": "Ombi",
             "source": "https://github.com/Ombi-app/Ombi/blob/develop/assets/Ombi-icon.ai",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/onedev.svg",
+            "name": "OneDev",
+            "source": "https://code.onedev.io/onedev/server/~files/main/server-core/src/main/java/io/onedev/server/web/asset/icon/logo.svg",
             "guidelines": ""
         },
         {
@@ -1552,7 +1612,7 @@
             "path": "./assets/openzfs.svg",
             "name": "OpenZFS",
             "source": "https://en.wikipedia.org/wiki/OpenZFS",
-            "guidelines": ""
+            "guidelines": "https://openzfs.org/OpenZFS%20Guidelines.pdf"
         },
         {
             "path": "./assets/opencontainerinitiative.svg",
@@ -1576,13 +1636,13 @@
             "path": "./assets/opera.svg",
             "name": "Opera",
             "source": "https://brand.opera.com/1472-2/opera-logos/",
-            "guidelines": ""
+            "guidelines": "https://brand.opera.com/1472-2/opera-logos/"
         },
         {
             "path": "./assets/opnsense.svg",
             "name": "OPNsense",
             "source": "https://en.wikipedia.org/wiki/OPNsense",
-            "guidelines": ""
+            "guidelines": "https://opnsense.org/about/legal-notices/"
         },
         {
             "path": "./assets/overseerr.svg",
@@ -1600,13 +1660,19 @@
             "path": "./assets/owncloud.svg",
             "name": "ownCloud",
             "source": "https://owncloud.com/trademark/",
-            "guidelines": ""
+            "guidelines": "https://owncloud.com/trademark/"
         },
         {
             "path": "./assets/packer.svg",
             "name": "Packer",
             "source": "https://www.hashicorp.com/brand",
             "guidelines": "https://www.hashicorp.com/brand"
+        },
+        {
+            "path": "./assets/paperlessng.svg",
+            "name": "Paperless-ng",
+            "source": "https://github.com/jonaswinkler/paperless-ng/blob/master/src-ui/src/assets/logo.svg",
+            "guidelines": ""
         },
         {
             "path": "./assets/peertube.svg",
@@ -1630,25 +1696,31 @@
             "path": "./assets/php.svg",
             "name": "PHP",
             "source": "https://www.php.net/download-logos.php",
-            "guidelines": ""
+            "guidelines": "https://www.php.net/download-logos.php"
         },
         {
             "path": "./assets/pihole.svg",
             "name": "Pi-hole",
             "source": "https://github.com/pi-hole/graphics/blob/master/Vortex/Vortex.svg",
+            "guidelines": "https://pi-hole.net/trademark-rules-and-brand-guidelines/"
+        },
+        {
+            "path": "./assets/plausible.svg",
+            "name": "Plausible",
+            "source": "https://github.com/plausible/docs/blob/master/static/img/logo.svg",
             "guidelines": ""
         },
         {
             "path": "./assets/plex-black.svg",
             "name": "Plex (black)",
             "source": "https://brand.plex.tv",
-            "guidelines": ""
+            "guidelines": "https://brand.plex.tv"
         },
         {
             "path": "./assets/plex-white.svg",
             "name": "Plex (white)",
             "source": "https://brand.plex.tv",
-            "guidelines": ""
+            "guidelines": "https://brand.plex.tv"
         },
         {
             "path": "./assets/podman.svg",
@@ -1696,7 +1768,7 @@
             "path": "./assets/proxmox.svg",
             "name": "Proxmox",
             "source": "https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment",
-            "guidelines": ""
+            "guidelines": "https://www.proxmox.com/en/news/media-kit"
         },
         {
             "path": "./assets/pushover.svg",
@@ -1714,7 +1786,7 @@
             "path": "./assets/pypi.svg",
             "name": "PyPI",
             "source": "https://pypi.org/",
-            "guidelines": ""
+            "guidelines": "https://pypi.org/trademarks/"
         },
         {
             "path": "./assets/qbittorrent.svg",
@@ -1744,25 +1816,25 @@
             "path": "./assets/rancher.svg",
             "name": "Rancher",
             "source": "https://www.rancher.com/brand-guidelines",
-            "guidelines": ""
+            "guidelines": "https://www.rancher.com/brand-guidelines"
         },
         {
             "path": "./assets/rapid7.svg",
             "name": "Rapid7",
             "source": "https://brand.rapid7.com/",
-            "guidelines": ""
+            "guidelines": "https://brand.rapid7.com/"
         },
         {
             "path": "./assets/rapid7-wide.svg",
             "name": "Rapid7 (wide)",
             "source": "https://brand.rapid7.com/",
-            "guidelines": ""
+            "guidelines": "https://brand.rapid7.com/"
         },
         {
             "path": "./assets/raspberrypi.svg",
             "name": "RaspberryPi",
             "source": "https://www.raspberrypi.org",
-            "guidelines": ""
+            "guidelines": "https://static.raspberrypi.org/files/Raspberry_Pi_Visual_Guidelines.pdf"
         },
         {
             "path": "./assets/rclone.svg",
@@ -1786,7 +1858,7 @@
             "path": "./assets/redhat.svg",
             "name": "RedHat",
             "source": "https://www.redhat.com/en/about/brand/standards/logo",
-            "guidelines": ""
+            "guidelines": "https://www.redhat.com/en/about/brand/standards/logo"
         },
         {
             "path": "./assets/redis.svg",
@@ -1846,7 +1918,7 @@
             "path": "./assets/slack.svg",
             "name": "Slack",
             "source": "https://slack.com/media-kit",
-            "guidelines": ""
+            "guidelines": "https://slack.com/media-kit"
         },
         {
             "path": "./assets/smallstep.svg",
@@ -1864,7 +1936,7 @@
             "path": "./assets/snapchat.svg",
             "name": "Snapchat",
             "source": "https://en.wikipedia.org/wiki/Snapchat",
-            "guidelines": ""
+            "guidelines": "https://www.snap.com/en-US/brand-guidelines"
         },
         {
             "path": "./assets/sonarr.svg",
@@ -1969,10 +2041,16 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/tautulli.svg",
+            "name": "Tautulli",
+            "source": "https://github.com/Tautulli/Tautulli/blob/master/data/interfaces/default/images/logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/telegram.svg",
             "name": "Telegram",
             "source": "https://telegram.org/tour/screenshots",
-            "guidelines": ""
+            "guidelines": "https://telegram.org/tour/screenshots"
         },
         {
             "path": "./assets/tenable.svg",
@@ -1990,7 +2068,7 @@
             "path": "./assets/tiktok.svg",
             "name": "TikTok",
             "source": "https://en.wikipedia.org/wiki/TikTok",
-            "guidelines": ""
+            "guidelines": "https://tiktokbrandbook.com/"
         },
         {
             "path": "./assets/tinytinyrss.svg",
@@ -2038,7 +2116,7 @@
             "path": "./assets/twitch.svg",
             "name": "Twitch",
             "source": "https://brand.twitch.tv/",
-            "guidelines": ""
+            "guidelines": "https://brand.twitch.tv/"
         },
         {
             "path": "./assets/twitter.svg",
@@ -2050,13 +2128,13 @@
             "path": "./assets/ubuntu-circle-tag.svg",
             "name": "Ubuntu (circle of friends tag)",
             "source": "https://design.ubuntu.com/downloads/",
-            "guidelines": ""
+            "guidelines": "https://design.ubuntu.com/brand/ubuntu-logo/"
         },
         {
             "path": "./assets/ubuntu-circle.svg",
             "name": "Ubuntu (circle of friends)",
             "source": "https://design.ubuntu.com/downloads/",
-            "guidelines": ""
+            "guidelines": "https://design.ubuntu.com/brand/ubuntu-logo/"
         },
         {
             "path": "./assets/ubiquiti.svg",
@@ -2119,10 +2197,28 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/watchtower.svg",
+            "name": "Watchtower",
+            "source": "https://github.com/containrrr/watchtower/discussions/1513",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/waypoint.svg",
             "name": "Waypoint",
             "source": "https://www.hashicorp.com/brand",
             "guidelines": "https://www.hashicorp.com/brand"
+        },
+        {
+            "path": "./assets/wazuh.svg",
+            "name": "Wazuh",
+            "source": "https://github.com/wazuh/wazuh-documentation/blob/develop/source/_themes/wazuh_doc_theme_v3/static/images/favicon.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/wazuh-wide.svg",
+            "name": "Wazuh (wide)",
+            "source": "https://wazuh.com/",
+            "guidelines": ""
         },
         {
             "path": "./assets/whatsapp.svg",
@@ -2134,7 +2230,7 @@
             "path": "./assets/wikipedia.svg",
             "name": "Wikipedia",
             "source": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_logos",
-            "guidelines": ""
+            "guidelines": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_logos"
         },
         {
             "path": "./assets/wikijs.svg",
@@ -2164,7 +2260,7 @@
             "path": "./assets/wireguard.svg",
             "name": "WireGuard",
             "source": "https://www.wireguard.com/trademark-policy/",
-            "guidelines": ""
+            "guidelines": "https://www.wireguard.com/trademark-policy/"
         },
         {
             "path": "./assets/woodpeckerci.svg",
@@ -2182,7 +2278,7 @@
             "path": "./assets/wordpress.svg",
             "name": "WordPress",
             "source": "https://wordpress.org/about/logos/",
-            "guidelines": ""
+            "guidelines": "https://wordpress.org/about/logos/"
         },
         {
             "path": "./assets/xcpng.svg",
@@ -2206,7 +2302,7 @@
             "path": "./assets/youtube.svg",
             "name": "YouTube",
             "source": "https://en.wikipedia.org/wiki/YouTube",
-            "guidelines": ""
+            "guidelines": "https://www.youtube.com/howyoutubeworks/resources/brand-resources/#logos-icons-and-colors"
         },
         {
             "path": "./assets/ycombinator.svg",
@@ -2225,6 +2321,18 @@
             "name": "Z-Wave",
             "source": "https://en.wikipedia.org/wiki/Z-Wave",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/zabbix.svg",
+            "name": "Zabbix",
+            "source": "https://github.com/zabbix/zabbix/blob/master/sass/img/icon-sprite.svg",
+            "guidelines": "https://www.zabbix.com/logo"
+        },
+        {
+            "path": "./assets/zabbix-wide.svg",
+            "name": "Zabbix (wide)",
+            "source": "https://www.zabbix.com/logo",
+            "guidelines": "https://www.zabbix.com/logo"
         },
         {
             "path": "./assets/zerossl.svg",

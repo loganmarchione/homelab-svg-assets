@@ -27,14 +27,15 @@
   - Ghost - Can't find a SVG of this
   - Glances - Can't find a SVG of this
   - ~~[Gotify](https://github.com/gotify/website/issues/67)~~
-  - [Handbrake](https://github.com/HandBrake/HandBrake/issues/4749)
+  - ~~[Handbrake](https://github.com/HandBrake/HandBrake/issues/4749)~~
+    - No original SVG exists
   - [Jackett](https://github.com/Jackett/Jackett/issues/13789)
   - ~~[Ombi](https://github.com/Ombi-app/Ombi/issues/4834)~~
   - Postfix - Can't find a SVG of this
   - [SemVer](https://github.com/semver/semver.org/issues/399)
   - Tdarr - Can't find a SVG of this
   - [Telegraf](https://github.com/influxdata/telegraf/issues/12327)
-  - [Watchtower](https://github.com/containrrr/watchtower/issues/1510)
+  - ~~[Watchtower](https://github.com/containrrr/watchtower/issues/1510)~~
   - ~~[XCP-ng](https://github.com/xcp-ng/xcp/issues/583)~~
   - ZeroTier - Can't find a SVG of this
   - Zigbee2MQTT - This SVG is a mess
@@ -42,7 +43,6 @@
 - Icons that don't touch the edges (possibly need to be replaced?)
   - Audacity
   - CyberChef
-  - CentOS
   - LXC
   - WikiJS
   - WhatsApp
@@ -52,6 +52,10 @@
   - Cisco
   - Fedora - Email sent on 2022-12-22
   - [Perl](https://github.com/tpf/marketing-materials/blob/master/images/onion-logo/tpf-logo-onion.svg) - I think I need to [email](https://www.perlfoundation.org/trademarks.html)
+
+- Icons that I think I need to add a trademark symbol to
+  - Docker
+  - Elastic
 
 - Icons that came from non-official sources (possibly need to be replaced?)
   - TinyTinyRSS - Can't find a SVG of this
