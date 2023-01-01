@@ -17,6 +17,8 @@
 
 # Icons
 - Icons to add
+  - Systemd
+  - Outline wiki
 
 
 - Icons that I can't find
