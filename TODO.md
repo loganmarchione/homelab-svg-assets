@@ -17,34 +17,7 @@
 
 # Icons
 - Icons to add
-  - Adafruit
-  - Auracast
-  - Bluetooth
   - Chromecast
-  - CNCF
-  - Dell
-  - Espressif
-  - F5
-  - Gatsby
-  - Gentoo
-  - GNU Emacs
-  - HP
-  - Jekyll
-  - KeePassXC
-  - Lenovo
-  - Linux Foundation
-  - MicroPython
-  - OBS Studio
-  - Obsidian
-  - Outline (wiki)
-  - PowerShell
-  - Pulumi
-  - RedHat Open Shift
-  - Scaleway
-  - Supermicro
-  - Systemd
-  - TrueNAS Scale
-  - https://about.meta.com/brand/resources/whatsapp/whatsapp-brand/
 
 - Icons that I can't find
   - Adminer - Can't find a SVG of this (this software hasn't had an update since [2021-05-23](https://github.com/vrana/adminer/commit/88647b93e467210f270340e758af6771e2c5638a))
@@ -72,7 +45,6 @@
   - CyberChef
   - LXC
   - WikiJS
-  - WhatsApp
 
 - Icons that require explicit permission (which I don't have yet)
   - Anaconda

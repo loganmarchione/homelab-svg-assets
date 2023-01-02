@@ -7,6 +7,12 @@
             "guidelines": "https://github.com/dotnet/brand"
         },
         {
+            "path": "./assets/adafruit.svg",
+            "name": "Adafruit",
+            "source": "https://www.adafruit.com/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/adguardhome.svg",
             "name": "AdGuard Home",
             "source": "https://github.com/AdguardTeam/AdGuardHome/blob/master/doc/adguard_home_lightmode.svg",
@@ -247,6 +253,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/auracast.svg",
+            "name": "Auracast",
+            "source": "https://www.bluetooth.com/marketing-branding/",
+            "guidelines": "https://www.bluetooth.com/marketing-branding/"
+        },
+        {
             "path": "./assets/authelia.svg",
             "name": "Authelia",
             "source": "https://github.com/authelia/authelia/blob/master/docs/static/images/branding/logo.svg",
@@ -299,6 +311,12 @@
             "name": "Bitwarden",
             "source": "https://github.com/bitwarden/brand/blob/master/icons/icon.svg",
             "guidelines": "https://github.com/bitwarden/brand"
+        },
+        {
+            "path": "./assets/bluetooth.svg",
+            "name": "Bluetooth",
+            "source": "https://www.bluetooth.com/marketing-branding/",
+            "guidelines": "https://www.bluetooth.com/marketing-branding/"
         },
         {
             "path": "./assets/bookstack.svg",
@@ -397,6 +415,12 @@
             "guidelines": "https://circleci.com/legal/trademark-guidelines/"
         },
         {
+            "path": "./assets/cloudnativecomputingfoundation.svg",
+            "name": "Cloud Native Computing Foundation (CNCF)",
+            "source": "https://www.cncf.io/brand-guidelines/",
+            "guidelines": "https://www.cncf.io/brand-guidelines/"
+        },
+        {
             "path": "./assets/cloudbeaver.svg",
             "name": "CloudBeaver",
             "source": "https://demo.cloudbeaver.io/",
@@ -473,6 +497,12 @@
             "name": "Debian",
             "source": "https://www.debian.org/logos/",
             "guidelines": "https://www.debian.org/logos/"
+        },
+        {
+            "path": "./assets/dell.svg",
+            "name": "Dell",
+            "source": "https://en.wikipedia.org/wiki/Dell",
+            "guidelines": ""
         },
         {
             "path": "./assets/deluge.svg",
@@ -607,6 +637,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/emacs.svg",
+            "name": "Emacs",
+            "source": "https://git.savannah.gnu.org/cgit/emacs.git/tree/etc/images/icons/hicolor/scalable/apps/emacs.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/emby.svg",
             "name": "Emby",
             "source": "https://github.com/MediaBrowser/Emby.Resources/blob/master/images/svg_logos/EmbyLogo_Reconstruct_Step3_Outset_15.svg",
@@ -616,6 +652,12 @@
             "path": "./assets/esphome.svg",
             "name": "ESPHome",
             "source": "https://esphome.io/images/index.html",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/espressif.svg",
+            "name": "Espressif",
+            "source": "https://www.espressif.com/",
             "guidelines": ""
         },
         {
@@ -643,10 +685,16 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/f5.svg",
+            "name": "F5",
+            "source": "https://www.f5.com/company/news/press-kit",
+            "guidelines": "https://www.f5.com/company/news/press-kit"
+        },
+        {
             "path": "./assets/facebook.svg",
             "name": "Facebook",
-            "source": "https://en.wikipedia.org/wiki/Facebook",
-            "guidelines": ""
+            "source": "https://about.meta.com/brand/resources/facebookapp/logo/",
+            "guidelines": "https://about.meta.com/brand/resources/facebookapp/logo/"
         },
         {
             "path": "./assets/fastmail.svg",
@@ -721,6 +769,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/freenas.svg",
+            "name": "FreeNAS",
+            "source": "https://github.com/truenas/webui/blob/master/src/assets/images/ix-original.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/freshrss.svg",
             "name": "FreshRSS",
             "source": "https://github.com/FreshRSS/FreshRSS/blob/edge/docs/img/FreshRSS-logo.svg",
@@ -731,6 +785,18 @@
             "name": "Frigate",
             "source": "https://github.com/blakeblackshear/frigate/blob/dev/docs/static/img/logo.svg",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/gatsby.svg",
+            "name": "Gatsby",
+            "source": "https://www.gatsbyjs.com/guidelines/logo",
+            "guidelines": "https://www.gatsbyjs.com/guidelines/logo"
+        },
+        {
+            "path": "./assets/gentoolinux.svg",
+            "name": "Gentoo Linux",
+            "source": "https://www.gentoo.org/inside-gentoo/artwork/gentoo-logo.html",
+            "guidelines": "https://www.gentoo.org/inside-gentoo/foundation/name-logo-guidelines.html"
         },
         {
             "path": "./assets/gimp.svg",
@@ -925,6 +991,18 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/hp-black.svg",
+            "name": "HP (black)",
+            "source": "https://brandcentral.hp.com/us/en/elements/hp-logo.html",
+            "guidelines": "https://brandcentral.hp.com/us/en/elements/hp-logo.html"
+        },
+        {
+            "path": "./assets/hp-white.svg",
+            "name": "HP (white)",
+            "source": "https://brandcentral.hp.com/us/en/elements/hp-logo.html",
+            "guidelines": "https://brandcentral.hp.com/us/en/elements/hp-logo.html"
+        },
+        {
             "path": "./assets/html5.svg",
             "name": "HTML5",
             "source": "https://www.w3.org/html/logo/",
@@ -976,7 +1054,7 @@
             "path": "./assets/instagram.svg",
             "name": "Instagram",
             "source": "https://en.wikipedia.org/wiki/Instagram",
-            "guidelines": ""
+            "guidelines": "https://about.meta.com/brand/resources/instagram/instagram-brand/"
         },
         {
             "path": "./assets/intel.svg",
@@ -997,6 +1075,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/ixsystems.svg",
+            "name": "iXsystems",
+            "source": "https://github.com/truenas/webui/blob/master/src/assets/images/ix-original.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/jamstack.svg",
             "name": "Jamstack",
             "source": "https://jamstack.org/logos/",
@@ -1007,6 +1091,12 @@
             "name": "JavaScript",
             "source": "https://github.com/voodootikigod/logo.js/blob/master/js.svg",
             "guidelines": "https://github.com/voodootikigod/logo.js"
+        },
+        {
+            "path": "./assets/jekyll.svg",
+            "name": "Jekyll",
+            "source": "https://github.com/jekyll/brand/blob/master/jekyll-test-tube.svg",
+            "guidelines": ""
         },
         {
             "path": "./assets/jellyfin.svg",
@@ -1099,6 +1189,12 @@
             "guidelines": "https://kde.org/stuff/clipart/"
         },
         {
+            "path": "./assets/keepassxc.svg",
+            "name": "KeePassXC",
+            "source": "https://github.com/keepassxreboot/keepassxc/blob/develop/share/icons/application/scalable/apps/keepassxc.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/kiwix.svg",
             "name": "Kiwix",
             "source": "https://en.wikipedia.org/wiki/Kiwix",
@@ -1126,6 +1222,12 @@
             "path": "./assets/latex-wide.svg",
             "name": "Latex (wide)",
             "source": "https://www.latex-project.org/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/lenovo.svg",
+            "name": "Lenovo",
+            "source": "https://en.wikipedia.org/wiki/Lenovo",
             "guidelines": ""
         },
         {
@@ -1181,6 +1283,12 @@
             "name": "Linux (Tux)",
             "source": "https://en.wikipedia.org/wiki/Linux",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/linuxfoundation.svg",
+            "name": "Linux Foundation",
+            "source": "https://www.linuxfoundation.org/brand-guidelines",
+            "guidelines": "https://www.linuxfoundation.org/brand-guidelines"
         },
         {
             "path": "./assets/linuxmint.svg",
@@ -1343,6 +1451,12 @@
             "name": "Microsoft Edge",
             "source": "https://en.wikipedia.org/wiki/Microsoft_Edge",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/microsoftpowershell.svg",
+            "name": "Microsoft PowerShell",
+            "source": "https://gist.github.com/Xainey/d5bde7d01dcbac51ac951810e94313aa",
+            "guidelines": "https://learn.microsoft.com/en-us/powershell/scripting/community/digital-art"
         },
         {
             "path": "./assets/microsoftsqlserver.svg",
@@ -1537,6 +1651,18 @@
             "guidelines": "https://www.nvidia.com/en-us/about-nvidia/legal-info/logo-brand-usage/"
         },
         {
+            "path": "./assets/obsstudio.svg",
+            "name": "OBS Studio",
+            "source": "https://github.com/obsproject/obs-studio/blob/master/UI/xdg-data/icons/obs-logo-scalable.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/obsidian.svg",
+            "name": "Obsidian",
+            "source": "https://obsidian.md/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/octoprint.svg",
             "name": "OctoPrint",
             "source": "https://github.com/OctoPrint/OctoPrint/blob/master/src/octoprint/static/img/mask-theme.svg",
@@ -1643,6 +1769,12 @@
             "name": "OPNsense",
             "source": "https://en.wikipedia.org/wiki/OPNsense",
             "guidelines": "https://opnsense.org/about/legal-notices/"
+        },
+        {
+            "path": "./assets/outline.svg",
+            "name": "Outline",
+            "source": "https://github.com/outline/website/blob/main/public/images/logo.svg",
+            "guidelines": ""
         },
         {
             "path": "./assets/overseerr.svg",
@@ -1771,6 +1903,12 @@
             "guidelines": "https://www.proxmox.com/en/news/media-kit"
         },
         {
+            "path": "./assets/pulumi.svg",
+            "name": "Pulumi",
+            "source": "https://www.pulumi.com/brand/",
+            "guidelines": "https://www.pulumi.com/brand/"
+        },
+        {
             "path": "./assets/pushover.svg",
             "name": "Pushover",
             "source": "https://support.pushover.net/i63-pushover-logos-and-usage",
@@ -1861,6 +1999,12 @@
             "guidelines": "https://www.redhat.com/en/about/brand/standards/logo"
         },
         {
+            "path": "./assets/redhatopenshift.svg",
+            "name": "RedHat OpenShift",
+            "source": "https://en.wikipedia.org/wiki/OpenShift",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/redis.svg",
             "name": "Redis",
             "source": "https://redis.com/brand-guidelines/",
@@ -1895,6 +2039,12 @@
             "name": "Safari",
             "source": "https://en.wikipedia.org/wiki/Safari_(web_browser)",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/scaleway.svg",
+            "name": "Scaleway",
+            "source": "https://www.scaleway.com/en/design-resources/",
+            "guidelines": "https://www.scaleway.com/en/design-resources/"
         },
         {
             "path": "./assets/seafile.svg",
@@ -1999,6 +2149,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/supermicro.svg",
+            "name": "Supermicro",
+            "source": "https://www.supermicro.com/en/supermicro-logos",
+            "guidelines": "https://www.supermicro.com/en/supermicro-logos"
+        },
+        {
             "path": "./assets/syncthing.svg",
             "name": "Syncthing",
             "source": "https://github.com/syncthing/syncthing/blob/main/assets/logo-only.svg",
@@ -2027,6 +2183,12 @@
             "name": "System76",
             "source": "https://github.com/system76/brand/blob/master/System76%20branding/system76-logo_secondary.svg",
             "guidelines": "https://system76.com/about"
+        },
+        {
+            "path": "./assets/systemd.svg",
+            "name": "systemd",
+            "source": "https://brand.systemd.io/",
+            "guidelines": "https://brand.systemd.io/"
         },
         {
             "path": "./assets/tailscale.svg",
@@ -2110,6 +2272,12 @@
             "path": "./assets/truenas.svg",
             "name": "TrueNAS",
             "source": "https://www.truenas.com/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/truenas-scale.svg",
+            "name": "TrueNAS Scale",
+            "source": "https://github.com/truenas/webui/blob/master/src/assets/customicons/truenas_scale_logomark_rgb.svg",
             "guidelines": ""
         },
         {
@@ -2229,8 +2397,8 @@
         {
             "path": "./assets/whatsapp.svg",
             "name": "WhatsApp",
-            "source": "https://en.wikipedia.org/wiki/WhatsApp",
-            "guidelines": ""
+            "source": "https://about.meta.com/brand/resources/whatsapp/whatsapp-brand/",
+            "guidelines": "https://about.meta.com/brand/resources/whatsapp/whatsapp-brand/"
         },
         {
             "path": "./assets/wikipedia.svg",
