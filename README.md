@@ -5,6 +5,8 @@
 
 
 [![Lint](https://github.com/loganmarchione/homelab-svg-assets/actions/workflows/main.yml/badge.svg)](https://github.com/loganmarchione/homelab-svg-assets/actions/workflows/main.yml)
+[![Lint](https://img.shields.io/github/stars/loganmarchione/homelab-svg-assets?style=social)](https://github.com/loganmarchione/homelab-svg-assets/stargazers)
+
 
 <a href="https://github.com/loganmarchione/homelab-svg-assets/tags"><img src="https://img.shields.io/github/v/tag/loganmarchione/homelab-svg-assets?color=green&logo=github&label=Latest%20GitHub%20Tag&sort=semver" alt="Latest GitHub Tag"/></a>
 <a href="https://packagist.org/packages/loganmarchione/homelab-svg-assets"><img src="https://img.shields.io/packagist/v/loganmarchione/homelab-svg-assets?color=green&logo=packagist&logoColor=white&label=Latest%20Packagist%20Version" alt="Latest Packagist Version"/></a>
