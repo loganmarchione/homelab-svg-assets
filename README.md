@@ -10,7 +10,7 @@
 <a href="https://packagist.org/packages/loganmarchione/homelab-svg-assets"><img src="https://img.shields.io/packagist/v/loganmarchione/homelab-svg-assets?color=green&logo=packagist&logoColor=white&label=Latest%20Packagist%20Version" alt="Latest Packagist Version"/></a>
 <a href="https://www.npmjs.com/package/@loganmarchione/homelab-svg-assets"><img src="https://img.shields.io/npm/v/@loganmarchione/homelab-svg-assets?color=green&logo=npm&label=Latest%20NPM%20Version" alt="Latest NPM Version"/></a>
 
-Over 350 full-color SVG icons of homelab-related software, products, and brands in a normalized size.
+Over 400 full-color SVG icons of homelab-related software, products, and brands in a normalized size.
 
 # Table of Contents
 - [Table of Contents](#table-of-contents)
