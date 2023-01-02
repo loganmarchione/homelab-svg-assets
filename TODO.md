@@ -17,9 +17,34 @@
 
 # Icons
 - Icons to add
+  - Adafruit
+  - Auracast
+  - Bluetooth
+  - Chromecast
+  - CNCF
+  - Dell
+  - Espressif
+  - F5
+  - Gatsby
+  - Gentoo
+  - GNU Emacs
+  - HP
+  - Jekyll
+  - KeePassXC
+  - Lenovo
+  - Linux Foundation
+  - MicroPython
+  - OBS Studio
+  - Obsidian
+  - Outline (wiki)
+  - PowerShell
+  - Pulumi
+  - RedHat Open Shift
+  - Scaleway
+  - Supermicro
   - Systemd
-  - Outline wiki
-
+  - TrueNAS Scale
+  - https://about.meta.com/brand/resources/whatsapp/whatsapp-brand/
 
 - Icons that I can't find
   - Adminer - Can't find a SVG of this (this software hasn't had an update since [2021-05-23](https://github.com/vrana/adminer/commit/88647b93e467210f270340e758af6771e2c5638a))
@@ -53,6 +78,7 @@
   - Anaconda
   - Cisco
   - Fedora - Email sent on 2022-12-22
+  - Oracle (this includes Java)
   - [Perl](https://github.com/tpf/marketing-materials/blob/master/images/onion-logo/tpf-logo-onion.svg) - I think I need to [email](https://www.perlfoundation.org/trademarks.html)
 
 - Icons that I think I need to add a trademark symbol to
