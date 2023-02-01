@@ -12,18 +12,12 @@
 - [x] Verify auto-update [Packagist hook](https://packagist.org/about#how-to-update-packages) is working
 - [x] Add `data.json` to collect brand guidelines and legal requirements
 - [x] Write Python script to dynamically generate `ICONS.md` from `data.json` file
-- [ ] Go through list of icons to find any that require the registered trademark (®) or trademark symbol (™) to be added
+- [x] Go through list of icons to find any that require the registered trademark (®) or trademark symbol (™) to be added
 - [x] Add Diagrams.net library (will need to format JSON data into XML)
 
 # Icons
 - Icons to add
-  - Chromecast
-  - https://superuser.com/
-  - https://serverfault.com/
-  - Immich
-  - Scrutiny
-  - Filebrowser
-  - Joplin
+  - N/A
 
 - Icons that I can't find
   - Adminer - Can't find a SVG of this (this software hasn't had an update since [2021-05-23](https://github.com/vrana/adminer/commit/88647b93e467210f270340e758af6771e2c5638a))
@@ -60,7 +54,6 @@
   - [Perl](https://github.com/tpf/marketing-materials/blob/master/images/onion-logo/tpf-logo-onion.svg) - I think I need to [email](https://www.perlfoundation.org/trademarks.html)
 
 - Icons that I think I need to add a trademark symbol to
-  - Docker
   - Elastic
 
 - Icons that came from non-official sources (possibly need to be replaced?)
