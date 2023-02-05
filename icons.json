@@ -350,13 +350,13 @@
         },
         {
             "path": "./assets/c.svg",
-            "name": "C",
+            "name": "C (custom)",
             "source": "",
             "guidelines": ""
         },
         {
             "path": "./assets/csharp.svg",
-            "name": "C#",
+            "name": "C# (custom)",
             "source": "",
             "guidelines": ""
         },
@@ -544,13 +544,13 @@
             "path": "./assets/docker.svg",
             "name": "Docker",
             "source": "https://github.com/docker/docs/blob/main/assets/images/docker-icon.svg",
-            "guidelines": ""
+            "guidelines": "https://www.docker.com/legal/trademark-guidelines/"
         },
         {
             "path": "./assets/docker-moby.svg",
             "name": "Docker (Moby)",
             "source": "https://github.com/docker/docs/blob/main/assets/images/engine.svg",
-            "guidelines": ""
+            "guidelines": "https://www.docker.com/legal/trademark-guidelines/"
         },
         {
             "path": "./assets/dokuwiki.svg",
@@ -701,6 +701,12 @@
             "name": "Fastmail",
             "source": "https://www.fastmail.com/media-assets/",
             "guidelines": "https://www.fastmail.com/media-assets/"
+        },
+        {
+            "path": "./assets/filebrowser.svg",
+            "name": "File Browser",
+            "source": "https://github.com/filebrowser/filebrowser/blob/master/frontend/public/img/logo.svg",
+            "guidelines": ""
         },
         {
             "path": "./assets/filezilla.svg",
@@ -1039,6 +1045,12 @@
             "guidelines": "https://www.ibm.com/design/language/ibm-logos/rebus"
         },
         {
+            "path": "./assets/immich.svg",
+            "name": "Immich",
+            "source": "https://github.com/immich-app/immich/blob/main/design/immich-logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/influx.svg",
             "name": "Influx",
             "source": "https://influxdata.github.io/branding/logo/downloads/",
@@ -1127,6 +1139,12 @@
             "name": "JFrog Artifactory",
             "source": "https://jfrog.com/",
             "guidelines": "https://jfrog.com/brand-guidelines/"
+        },
+        {
+            "path": "./assets/joplin.svg",
+            "name": "Joplin",
+            "source": "https://github.com/laurent22/joplin/blob/dev/Assets/JoplinIcon.svg",
+            "guidelines": ""
         },
         {
             "path": "./assets/json.svg",
@@ -2047,6 +2065,18 @@
             "guidelines": "https://www.scaleway.com/en/design-resources/"
         },
         {
+            "path": "./assets/scrutiny-black.svg",
+            "name": "Scrutiny (black)",
+            "source": "https://github.com/AnalogJ/scrutiny/blob/master/webapp/frontend/src/assets/images/logo/scrutiny-logo-dark.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/scrutiny-white.svg",
+            "name": "Scrutiny (white)",
+            "source": "https://github.com/AnalogJ/scrutiny/blob/master/webapp/frontend/src/assets/images/logo/scrutiny-logo-white.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/seafile.svg",
             "name": "Seafile",
             "source": "https://de.wikipedia.org/wiki/Seafile",
@@ -2057,6 +2087,12 @@
             "name": "Searx",
             "source": "https://github.com/searx/searx/blob/master/searx/static/themes/simple/img/searx_logo.svg",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/serverfault.svg",
+            "name": "Server Fault",
+            "source": "https://serverfault.com/",
+            "guidelines": "https://stackoverflow.com/legal/trademark-guidance"
         },
         {
             "path": "./assets/signal.svg",
@@ -2153,6 +2189,12 @@
             "name": "Supermicro",
             "source": "https://www.supermicro.com/en/supermicro-logos",
             "guidelines": "https://www.supermicro.com/en/supermicro-logos"
+        },
+        {
+            "path": "./assets/superuser.svg",
+            "name": "Super User",
+            "source": "https://superuser.com/",
+            "guidelines": "https://stackoverflow.com/legal/trademark-guidance"
         },
         {
             "path": "./assets/syncthing.svg",
