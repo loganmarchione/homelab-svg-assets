@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg383" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" sodipodi:docname="vaultwarden-icon.svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 48 48"
+	 style="enable-background:new 0 0 48 48;" xml:space="preserve">
+<style type="text/css">
+	.st0{stroke:#000000;stroke-width:2;stroke-miterlimit:9.7524;}
+	.st1{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:9.7524;}
+	.st2{stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:9.7524;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="namedview385" inkscape:current-layer="svg383" inkscape:cx="128" inkscape:cy="128" inkscape:deskcolor="#d1d1d1" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:showpageshadow="2" inkscape:window-height="1056" inkscape:window-maximized="1" inkscape:window-width="1874" inkscape:window-x="46" inkscape:window-y="24" inkscape:zoom="3.3359375" pagecolor="#ffffff" showgrid="false">
+	</sodipodi:namedview>
+<g id="logo" transform="matrix(2.4381018,0,0,2.4381018,128,128)">
+	<g id="gear">
+		<path id="path289" class="st0" d="M-48.3-48.8l4.8,13.4h1.7l4.8-13.4h-1.8l-3,8.6c-0.2,0.6-0.4,1.1-0.5,1.6
+			c-0.1,0.5-0.3,0.9-0.3,1.4c-0.1-0.4-0.2-0.9-0.3-1.4c-0.1-0.5-0.3-1-0.5-1.6l-3-8.6H-48.3z"/>
+		<circle id="circle291" class="st1" cx="-42.7" cy="-42.7" r="7.8"/>
+		<g id="cogs" transform="scale(-1,1)">
+			<polygon id="cog" class="st2" points="51.9,-42.7 51,-43.2 51,-42.1 			"/>
+			<g id="use294" transform="rotate(11.25)">
+				<polygon id="cog_00000153706677455122724810000005427408654892943546_" class="st2" points="51.7,-40.9 50.9,-41.6 50.7,-40.5 
+									"/>
+			</g>
+			<g id="use296" transform="rotate(22.5)">
+				<polygon id="cog_00000057865027477052203010000002306877520994236849_" class="st2" points="51.2,-39.1 50.6,-40 50.1,-39 				
+					"/>
+			</g>
+			<g id="use298" transform="rotate(33.75)">
+				<polygon id="cog_00000122705226240555646590000006858730631018869931_" class="st2" points="50.3,-37.5 49.9,-38.5 49.3,-37.6 
+									"/>
+			</g>
+			<g id="use300" transform="rotate(45)">
+				<polygon id="cog_00000140705307367457686620000010184582563497938100_" class="st2" points="49.2,-36.1 48.9,-37.2 48.2,-36.4 
+									"/>
+			</g>
+			<g id="use302" transform="rotate(56.25)">
+				<polygon id="cog_00000153677808284901478660000002897079916248058282_" class="st2" points="47.8,-35 47.7,-36 46.8,-35.4 				
+					"/>
+			</g>
+			<g id="use304" transform="rotate(67.5)">
+				<polygon id="cog_00000165916179825372299520000000011832183082880648_" class="st2" points="46.2,-34.1 46.3,-35.2 45.3,-34.8 
+									"/>
+			</g>
+			<g id="use306" transform="rotate(78.75)">
+				<polygon id="cog_00000055673166002183690720000010273711525220891801_" class="st2" points="44.5,-33.6 44.8,-34.6 43.7,-34.4 
+									"/>
+			</g>
+			<g id="use308" transform="rotate(90)">
+				<polygon id="cog_00000075872973624936096980000003459023946432889474_" class="st2" points="42.7,-33.4 43.2,-34.3 42.1,-34.3 
+									"/>
+			</g>
+			<g id="use310" transform="rotate(101.25)">
+				<polygon id="cog_00000000939825311887107000000007250177317695419547_" class="st2" points="40.9,-33.6 41.6,-34.4 40.5,-34.6 
+									"/>
+			</g>
+			<g id="use312" transform="rotate(112.5)">
+				<polygon id="cog_00000003070352414558600680000001814289080359819962_" class="st2" points="39.1,-34.1 40,-34.8 39,-35.2 				
+					"/>
+			</g>
+			<g id="use314" transform="rotate(123.75)">
+				<polygon id="cog_00000067233411395658105470000010388401981553116593_" class="st2" points="37.5,-35 38.5,-35.4 37.6,-36 				
+					"/>
+			</g>
+			<g id="use316" transform="rotate(135)">
+				<polygon id="cog_00000057865416676981092990000009767333464632858504_" class="st2" points="36.1,-36.1 37.2,-36.4 36.4,-37.2 
+									"/>
+			</g>
+			<g id="use318" transform="rotate(146.25)">
+				<polygon id="cog_00000154410570389559757750000010297213824923399302_" class="st2" points="35,-37.5 36,-37.6 35.4,-38.5 				
+					"/>
+			</g>
+			<g id="use320" transform="rotate(157.5)">
+				<polygon id="cog_00000086661045418461226650000015108630382274795398_" class="st2" points="34.1,-39.1 35.2,-39 34.8,-40 				
+					"/>
+			</g>
+			<g id="use322" transform="rotate(168.75)">
+				<polygon id="cog_00000008867658489568740880000003732248040908066738_" class="st2" points="33.6,-40.9 34.6,-40.5 34.4,-41.6 
+									"/>
+			</g>
+			<g id="use324" transform="scale(-1)">
+				<polygon id="cog_00000174595435105290392390000001171108793675504823_" class="st2" points="33.4,-42.7 34.3,-42.1 34.3,-43.2 
+									"/>
+			</g>
+			<g id="use326" transform="rotate(191.25)">
+				<polygon id="cog_00000008834240065078475320000001701061212720055476_" class="st2" points="33.6,-44.5 34.4,-43.7 34.6,-44.8 
+									"/>
+			</g>
+			<g id="use328" transform="rotate(202.5)">
+				<polygon id="cog_00000083798181440348261020000011082516567083579026_" class="st2" points="34.1,-46.2 34.8,-45.3 35.2,-46.3 
+									"/>
+			</g>
+			<g id="use330" transform="rotate(213.75)">
+				<polygon id="cog_00000143588831004279172270000010536199010690607241_" class="st2" points="35,-47.8 35.4,-46.8 36,-47.7 				
+					"/>
+			</g>
+			<g id="use332" transform="rotate(225)">
+				<polygon id="cog_00000105393658994250754910000011176869785863930287_" class="st2" points="36.1,-49.2 36.4,-48.2 37.2,-48.9 
+									"/>
+			</g>
+			<g id="use334" transform="rotate(236.25)">
+				<polygon id="cog_00000107552515125586897230000005434318066490060467_" class="st2" points="37.5,-50.3 37.6,-49.3 38.5,-49.9 
+									"/>
+			</g>
+			<g id="use336" transform="rotate(247.5)">
+				<polygon id="cog_00000150784528851577868780000005464547902294558342_" class="st2" points="39.1,-51.2 39,-50.1 40,-50.6 				
+					"/>
+			</g>
+			<g id="use338" transform="rotate(258.75)">
+				<polygon id="cog_00000165951962822712271880000001681403879793985411_" class="st2" points="40.9,-51.7 40.5,-50.7 41.6,-50.9 
+									"/>
+			</g>
+			<g id="use340" transform="rotate(-90)">
+				<polygon id="cog_00000134211413914288757550000006161320257941016210_" class="st2" points="42.7,-51.9 42.1,-51 43.2,-51 				
+					"/>
+			</g>
+			<g id="use342" transform="rotate(-78.75)">
+				<polygon id="cog_00000081637436000995384530000004440633607871946429_" class="st2" points="44.5,-51.7 43.7,-50.9 44.8,-50.7 
+									"/>
+			</g>
+			<g id="use344" transform="rotate(-67.5)">
+				<polygon id="cog_00000096747614366976132070000004916511276596536458_" class="st2" points="46.2,-51.2 45.3,-50.6 46.3,-50.1 
+									"/>
+			</g>
+			<g id="use346" transform="rotate(-56.25)">
+				<polygon id="cog_00000059286001866972465910000005261082524076224647_" class="st2" points="47.8,-50.3 46.8,-49.9 47.7,-49.3 
+									"/>
+			</g>
+			<g id="use348" transform="rotate(-45)">
+				<polygon id="cog_00000152958707469439081060000012424427475760218800_" class="st2" points="49.2,-49.2 48.2,-48.9 48.9,-48.2 
+									"/>
+			</g>
+			<g id="use350" transform="rotate(-33.75)">
+				<polygon id="cog_00000023251589726454784550000004911178147745134245_" class="st2" points="50.3,-47.8 49.3,-47.7 49.9,-46.8 
+									"/>
+			</g>
+			<g id="use352" transform="rotate(-22.5)">
+				<polygon id="cog_00000045610783144027693970000008583888829962895027_" class="st2" points="51.2,-46.2 50.1,-46.3 50.6,-45.3 
+									"/>
+			</g>
+			<g id="use354" transform="rotate(-11.25)">
+				<polygon id="cog_00000181784091834233433550000014466182683579062664_" class="st2" points="51.7,-44.5 50.7,-44.8 50.9,-43.7 
+									"/>
+			</g>
+		</g>
+		<g id="mounts" transform="scale(-1,1)">
+			<polygon id="mount" class="st2" points="42.7,-49 43.9,-50.3 41.4,-50.3 			"/>
+			<g id="use358" transform="rotate(72)">
+				<polygon id="mount_00000037668486985416369610000015380608161717323703_" class="st2" points="48.7,-44.6 50.3,-43.8 
+					49.5,-46.2 				"/>
+			</g>
+			<g id="use360" transform="rotate(144)">
+				<polygon id="mount_00000170263895072666250540000005989591810410127272_" class="st2" points="46.4,-37.5 46.1,-35.8 
+					48.1,-37.3 				"/>
+			</g>
+			<g id="use362" transform="rotate(216)">
+				<polygon id="mount_00000109718058910454239060000009618345821744107654_" class="st2" points="38.9,-37.5 37.2,-37.3 
+					39.2,-35.8 				"/>
+			</g>
+			<g id="use364" transform="rotate(-72)">
+				<polygon id="mount_00000137120338887635855310000006807142716095878810_" class="st2" points="36.6,-44.6 35.8,-46.2 35,-43.8 
+									"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
