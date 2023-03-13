@@ -991,6 +991,12 @@
             "guidelines": "https://design.home-assistant.io/#brand/logo"
         },
         {
+            "path": "./assets/homebox.svg",
+            "name": "Home Box",
+            "source": "https://github.com/hay-kot/homebox/blob/main/frontend/components/App/Logo.vue",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/homebrew.svg",
             "name": "Homebrew",
             "source": "https://github.com/Homebrew/brew.sh/blob/master/assets/img/homebrew.svg",
