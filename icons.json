@@ -992,8 +992,8 @@
         },
         {
             "path": "./assets/homebox.svg",
-            "name": "Home Box",
-            "source": "https://github.com/hay-kot/homebox/blob/main/frontend/components/App/Logo.vue",
+            "name": "Homebox",
+            "source": "https://hay-kot.github.io/homebox/",
             "guidelines": ""
         },
         {
