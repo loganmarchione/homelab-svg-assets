@@ -34,7 +34,7 @@
   - Postfix - Can't find a SVG of this
   - [SemVer](https://github.com/semver/semver.org/issues/399)
   - Tdarr - Can't find a SVG of this
-  - [Telegraf](https://github.com/influxdata/telegraf/issues/12327)
+  - ~~[Telegraf](https://github.com/influxdata/telegraf/issues/12327)~~
   - ~~[Watchtower](https://github.com/containrrr/watchtower/issues/1510)~~
   - ~~[XCP-ng](https://github.com/xcp-ng/xcp/issues/583)~~
   - ZeroTier - Can't find a SVG of this
