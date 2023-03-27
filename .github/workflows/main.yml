@@ -41,7 +41,7 @@ jobs:
 
     - name: Bandit
       run: |
-        bandit -r
+        bandit -r .
 
   png_search:
     name: PNG Search
