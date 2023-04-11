@@ -1879,6 +1879,12 @@
             "guidelines": "https://www.php.net/download-logos.php"
         },
         {
+            "path": "./assets/phpmyadmin.svg",
+            "name": "phpMyAdmin",
+            "source": "https://github.com/phpmyadmin/data/blob/master/brand/phpMyAdmin-Logo-Symbol.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/pihole.svg",
             "name": "Pi-hole",
             "source": "https://github.com/pi-hole/graphics/blob/master/Vortex/Vortex.svg",
