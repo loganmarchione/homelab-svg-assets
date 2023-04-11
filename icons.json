@@ -2329,6 +2329,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/tplink.svg",
+            "name": "TP-Link",
+            "source": "https://www.tp-link.com/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/traefik-gopher.svg",
             "name": "Traefik (gopher)",
             "source": "https://github.com/traefik/traefik/blob/master/webui/src/assets/traefik.avatar.svg",
