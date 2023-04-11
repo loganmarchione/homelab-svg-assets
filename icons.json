@@ -1705,6 +1705,18 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/openai-black.svg",
+            "name": "OpenAI (black)",
+            "source": "https://openai.com/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/openai-white.svg",
+            "name": "OpenAI (white)",
+            "source": "https://openai.com/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/openapiinitiative.svg",
             "name": "OpenAPI Initiative",
             "source": "https://github.com/OAI/OpenAPI-Style-Guide/blob/main/graphics/vector/OpenAPI_Logo_Pantone.svg",
@@ -2512,6 +2524,12 @@
             "path": "./assets/xfce.svg",
             "name": "XFCE",
             "source": "https://www.xfce.org/download",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/yaml.svg",
+            "name": "YAML",
+            "source": "https://yaml.org/",
             "guidelines": ""
         },
         {
