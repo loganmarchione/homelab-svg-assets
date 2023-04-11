@@ -17,18 +17,13 @@
 
 # Icons
 - Icons to add
-  - https://github.com/EmulatorJS/EmulatorJS
-  - iRedMail
-  - MQTT
-  - phpMyAdmin
-  - SOGo
-  - TP-Link
 
 - Icons that I can't find
   - Adminer - Can't find a SVG of this (this software hasn't had an update since [2021-05-23](https://github.com/vrana/adminer/commit/88647b93e467210f270340e758af6771e2c5638a))
   - [Baikal](https://github.com/sabre-io/Baikal/issues/1143)
   - ~~[Bazarr](https://github.com/morpheus65535/bazarr/issues/2020)~~
   - Caddy - Can't find a SVG of this (icons [here](https://github.com/caddyserver/website/tree/master/src/resources/images) have PNG data embedded in them)
+  - [EmulatorJS](https://github.com/EmulatorJS/EmulatorJS/issues/506)
   - Ghost - Can't find a SVG of this
   - Glances - Can't find a SVG of this
   - ~~[Gotify](https://github.com/gotify/website/issues/67)~~
@@ -37,6 +32,7 @@
   - [Jackett](https://github.com/Jackett/Jackett/issues/13789)
   - ~~[Ombi](https://github.com/Ombi-app/Ombi/issues/4834)~~
   - Postfix - Can't find a SVG of this
+  - iRedMail - Can't find a SVG of this
   - [SemVer](https://github.com/semver/semver.org/issues/399)
   - Tdarr - Can't find a SVG of this
   - ~~[Telegraf](https://github.com/influxdata/telegraf/issues/12327)~~
