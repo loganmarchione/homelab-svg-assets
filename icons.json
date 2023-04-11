@@ -1573,6 +1573,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/mqtt.svg",
+            "name": "MQTT",
+            "source": "https://mqtt.org/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/mullvad.svg",
             "name": "Mullvad",
             "source": "https://mullvad.net/en/press/",
