@@ -2149,6 +2149,12 @@
             "guidelines": "https://www.snap.com/en-US/brand-guidelines"
         },
         {
+            "path": "./assets/sogo.svg",
+            "name": "SOGo",
+            "source": "https://www.sogo.nu/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/sonarr.svg",
             "name": "Sonarr",
             "source": "https://github.com/Sonarr/Sonarr/blob/develop/Logo/Sonarr.svg",
