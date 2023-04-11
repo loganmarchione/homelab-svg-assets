@@ -559,6 +559,12 @@
             "guidelines": "https://www.dokuwiki.org/logo"
         },
         {
+            "path": "./assets/dovecot.svg",
+            "name": "Dovecot",
+            "source": "https://en.wikipedia.org/wiki/Dovecot_(software)",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/dragonflybsd.svg",
             "name": "DragonFlyBSD",
             "source": "https://www.dragonflybsd.org/images/",
