@@ -17,8 +17,10 @@
 
 # Icons
 - Icons to add
+  - Dovecot
   - https://github.com/EmulatorJS/EmulatorJS
   - iRedMail
+  - MQTT
   - phpMyAdmin
   - SOGo
   - TOML
