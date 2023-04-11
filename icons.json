@@ -2299,6 +2299,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/toml.svg",
+            "name": "TOML",
+            "source": "https://github.com/toml-lang/toml/blob/main/logos/toml.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/traefik-gopher.svg",
             "name": "Traefik (gopher)",
             "source": "https://github.com/traefik/traefik/blob/master/webui/src/assets/traefik.avatar.svg",
