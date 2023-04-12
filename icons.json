@@ -2443,6 +2443,12 @@
             "guidelines": "https://www.hashicorp.com/brand"
         },
         {
+            "path": "./assets/vaultwarden.svg",
+            "name": "Vaultwarden",
+            "source": "https://github.com/dani-garcia/vaultwarden/blob/main/resources/vaultwarden-icon.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/vim.svg",
             "name": "Vim",
             "source": "https://en.wikipedia.org/wiki/Vim_(text_editor)",
