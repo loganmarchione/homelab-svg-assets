@@ -715,6 +715,12 @@
             "guidelines": "https://www.fastmail.com/media-assets/"
         },
         {
+            "path": "./assets/ferdium.svg",
+            "name": "Ferdium",
+            "source": "https://github.com/ferdium/ferdium-app/blob/develop/branding/ferdium-resources.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/filebrowser.svg",
             "name": "File Browser",
             "source": "https://github.com/filebrowser/filebrowser/blob/master/frontend/public/img/logo.svg",
