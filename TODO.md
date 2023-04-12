@@ -17,7 +17,6 @@
 
 # Icons
 - Icons to add
-  - Changedetection.io
   - https://www.observium.org/
 
 - Icons that I can't find
@@ -25,6 +24,7 @@
   - [Baikal](https://github.com/sabre-io/Baikal/issues/1143)
   - ~~[Bazarr](https://github.com/morpheus65535/bazarr/issues/2020)~~
   - Caddy - Can't find a SVG of this (icons [here](https://github.com/caddyserver/website/tree/master/src/resources/images) have PNG data embedded in them)
+  - [Changedetection.io](https://github.com/dgtlmoon/changedetection.io/issues/1527)
   - [EmulatorJS](https://github.com/EmulatorJS/EmulatorJS/issues/506)
   - Ghost - Can't find a SVG of this
   - Glances - Can't find a SVG of this
