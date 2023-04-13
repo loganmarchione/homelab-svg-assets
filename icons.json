@@ -199,6 +199,12 @@
             "guidelines": "https://www.arm.com/company/policies/trademarks/guidelines-corporate-logo"
         },
         {
+            "path": "./assets/asus-router.svg",
+            "name": "ASUS Router",
+            "source": "https://play.google.com/store/apps/details?id=com.asus.aihome",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/atlassian.svg",
             "name": "Atlassian",
             "source": "https://atlassian.design/resources/logo-library",
