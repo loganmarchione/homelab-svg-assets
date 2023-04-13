@@ -1537,6 +1537,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/monica.svg",
+            "name": "Monica",
+            "source": "https://github.com/monicahq/monica/blob/main/public/img/monica.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/mongodb-forest-green.svg",
             "name": "MongoDB (forest green)",
             "source": "https://www.mongodb.com/brand-resources",
