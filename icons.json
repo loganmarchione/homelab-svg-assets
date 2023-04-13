@@ -2395,6 +2395,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/tubesync.svg",
+            "name": "TubeSync",
+            "source": "https://github.com/meeb/tubesync/blob/main/tubesync/common/templates/tubesync-coloured.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/twitch.svg",
             "name": "Twitch",
             "source": "https://brand.twitch.tv/",
