@@ -2317,6 +2317,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/tandoor.svg",
+            "name": "Tandoor",
+            "source": "https://github.com/TandoorRecipes/recipes/blob/develop/docs/logo_color.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/tasmota.svg",
             "name": "Tasmota",
             "source": "https://github.com/arendst/Tasmota/blob/master/tools/logo/TASMOTA_Symbol_Vector.svg",
