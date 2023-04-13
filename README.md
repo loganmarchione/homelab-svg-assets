@@ -159,6 +159,7 @@ It would be remiss of me if I did not mention other great icons sets
 - [Bootstrap Icons](https://icons.getbootstrap.com/) - Mostly generic icons, but some brand icons
 - [Font Awesome](https://fontawesome.com/icons) - Mix of generic and brand icons
 - [Devicon](https://devicon.dev/) - Icons representing programming languages, designing & development tools
+- [Dashboard Icons](https://github.com/walkxcode/dashboard-icons/tree/main) - Mix of SVG and PNG dashboard icons
 
 # TODO
 
