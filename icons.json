@@ -277,6 +277,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/autobrr.svg",
+            "name": "Autobrr",
+            "source": "https://github.com/autobrr/autobrr/issues/834",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/azuracast.svg",
             "name": "AzuraCast",
             "source": "https://docs.azuracast.com/en/press-kit",
