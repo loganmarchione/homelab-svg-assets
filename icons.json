@@ -278,7 +278,7 @@
         },
         {
             "path": "./assets/autobrr.svg",
-            "name": "Autobrr",
+            "name": "autobrr",
             "source": "https://github.com/autobrr/autobrr/issues/834",
             "guidelines": ""
         },
@@ -995,6 +995,12 @@
             "name": "HashiCorp (white)",
             "source": "https://www.hashicorp.com/brand",
             "guidelines": "https://www.hashicorp.com/brand"
+        },
+        {
+            "path": "./assets/headscale.svg",
+            "name": "headscale",
+            "source": "https://github.com/juanfont/headscale/blob/main/docs/logo/headscale3-dots.svg",
+            "guidelines": ""
         },
         {
             "path": "./assets/helm.svg",
