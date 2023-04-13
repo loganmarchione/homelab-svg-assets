@@ -17,11 +17,13 @@
 
 # Icons
 - Icons to add
-  - https://www.observium.org/
+  - Linkwarden
 
 - Icons that I can't find
   - Adminer - Can't find a SVG of this (this software hasn't had an update since [2021-05-23](https://github.com/vrana/adminer/commit/88647b93e467210f270340e758af6771e2c5638a))
+  - [Airsonic-Advanced](https://github.com/airsonic-advanced/airsonic-advanced/issues/979)
   - [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox/issues/1137)
+  - ~~[Autobrr](https://github.com/autobrr/autobrr/issues/834)~~
   - [Baikal](https://github.com/sabre-io/Baikal/issues/1143)
   - ~~[Bazarr](https://github.com/morpheus65535/bazarr/issues/2020)~~
   - Caddy - Can't find a SVG of this (icons [here](https://github.com/caddyserver/website/tree/master/src/resources/images) have PNG data embedded in them)
@@ -33,6 +35,8 @@
   - ~~[Handbrake](https://github.com/HandBrake/HandBrake/issues/4749)~~
     - No original SVG exists
   - [Jackett](https://github.com/Jackett/Jackett/issues/13789)
+  - LazyLibrarian - Can't find a SVG of this
+  - Observium - Can't find a SVG of this
   - ~~[Ombi](https://github.com/Ombi-app/Ombi/issues/4834)~~
   - Postfix - Can't find a SVG of this
   - iRedMail - Can't find a SVG of this
@@ -41,7 +45,7 @@
   - ~~[Telegraf](https://github.com/influxdata/telegraf/issues/12327)~~
   - ~~[Watchtower](https://github.com/containrrr/watchtower/issues/1510)~~
   - ~~[XCP-ng](https://github.com/xcp-ng/xcp/issues/583)~~
-  - ZeroTier - Can't find a SVG of this
+  - [ZeroTier](https://github.com/zerotier/docs/issues/50)
   - Zigbee2MQTT - This SVG is a mess
 
 - Icons that don't touch the edges (possibly need to be replaced?)
