@@ -2131,6 +2131,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/searxng.svg",
+            "name": "SearXNG",
+            "source": "https://github.com/searxng/searxng/blob/master/src/brand/searxng-wordmark.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/serverfault.svg",
             "name": "Server Fault",
             "source": "https://serverfault.com/",
