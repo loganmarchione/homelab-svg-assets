@@ -409,6 +409,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/changedetection.svg",
+            "name": "changedetection",
+            "source": "https://github.com/dgtlmoon/changedetection.io/blob/master/changedetectionio/static/images/generic-icon.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/checkmk.svg",
             "name": "checkmk",
             "source": "https://checkmk.com/company/brand-assets",
