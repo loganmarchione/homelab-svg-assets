@@ -199,6 +199,12 @@
             "guidelines": "https://www.arm.com/company/policies/trademarks/guidelines-corporate-logo"
         },
         {
+            "path": "./assets/asus-router.svg",
+            "name": "ASUS Router",
+            "source": "https://play.google.com/store/apps/details?id=com.asus.aihome",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/atlassian.svg",
             "name": "Atlassian",
             "source": "https://atlassian.design/resources/logo-library",
@@ -268,6 +274,12 @@
             "path": "./assets/authentik.svg",
             "name": "Authentik",
             "source": "https://github.com/goauthentik/authentik/blob/main/website/static/img/icon_top_brand_colour.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/autobrr.svg",
+            "name": "autobrr",
+            "source": "https://github.com/autobrr/autobrr/issues/834",
             "guidelines": ""
         },
         {
@@ -394,6 +406,12 @@
             "path": "./assets/certmanager.svg",
             "name": "cert-manager",
             "source": "https://github.com/cert-manager/cert-manager/blob/master/logo/logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/changedetection.svg",
+            "name": "changedetection",
+            "source": "https://github.com/dgtlmoon/changedetection.io/blob/master/changedetectionio/static/images/generic-icon.svg",
             "guidelines": ""
         },
         {
@@ -559,6 +577,12 @@
             "guidelines": "https://www.dokuwiki.org/logo"
         },
         {
+            "path": "./assets/dovecot.svg",
+            "name": "Dovecot",
+            "source": "https://en.wikipedia.org/wiki/Dovecot_(software)",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/dragonflybsd.svg",
             "name": "DragonFlyBSD",
             "source": "https://www.dragonflybsd.org/images/",
@@ -701,6 +725,12 @@
             "name": "Fastmail",
             "source": "https://www.fastmail.com/media-assets/",
             "guidelines": "https://www.fastmail.com/media-assets/"
+        },
+        {
+            "path": "./assets/ferdium.svg",
+            "name": "Ferdium",
+            "source": "https://github.com/ferdium/ferdium-app/blob/develop/branding/ferdium-resources.svg",
+            "guidelines": ""
         },
         {
             "path": "./assets/filebrowser.svg",
@@ -973,6 +1003,12 @@
             "guidelines": "https://www.hashicorp.com/brand"
         },
         {
+            "path": "./assets/headscale.svg",
+            "name": "headscale",
+            "source": "https://github.com/juanfont/headscale/blob/main/docs/logo/headscale3-dots.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/helm.svg",
             "name": "Helm",
             "source": "https://helm.sh/",
@@ -989,6 +1025,12 @@
             "name": "Home Assistant (small)",
             "source": "https://github.com/home-assistant/assets/blob/master/logo/logo-small.svg",
             "guidelines": "https://design.home-assistant.io/#brand/logo"
+        },
+        {
+            "path": "./assets/homebox.svg",
+            "name": "Homebox",
+            "source": "https://hay-kot.github.io/homebox/",
+            "guidelines": ""
         },
         {
             "path": "./assets/homebrew.svg",
@@ -1507,6 +1549,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/monica.svg",
+            "name": "Monica",
+            "source": "https://github.com/monicahq/monica/blob/main/public/img/monica.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/mongodb-forest-green.svg",
             "name": "MongoDB (forest green)",
             "source": "https://www.mongodb.com/brand-resources",
@@ -1558,6 +1606,12 @@
             "path": "./assets/mozillathunderbird.svg",
             "name": "Mozilla Thunderbird",
             "source": "https://github.com/thundernest/thunderbird-website/blob/master/media/svg/logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/mqtt.svg",
+            "name": "MQTT",
+            "source": "https://mqtt.org/",
             "guidelines": ""
         },
         {
@@ -1696,6 +1750,18 @@
             "path": "./assets/onedev.svg",
             "name": "OneDev",
             "source": "https://code.onedev.io/onedev/server/~files/main/server-core/src/main/java/io/onedev/server/web/asset/icon/logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/openai-black.svg",
+            "name": "OpenAI (black)",
+            "source": "https://openai.com/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/openai-white.svg",
+            "name": "OpenAI (white)",
+            "source": "https://openai.com/",
             "guidelines": ""
         },
         {
@@ -1847,6 +1913,12 @@
             "name": "PHP",
             "source": "https://www.php.net/download-logos.php",
             "guidelines": "https://www.php.net/download-logos.php"
+        },
+        {
+            "path": "./assets/phpmyadmin.svg",
+            "name": "phpMyAdmin",
+            "source": "https://github.com/phpmyadmin/data/blob/master/brand/phpMyAdmin-Logo-Symbol.svg",
+            "guidelines": ""
         },
         {
             "path": "./assets/pihole.svg",
@@ -2089,6 +2161,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/searxng.svg",
+            "name": "SearXNG",
+            "source": "https://github.com/searxng/searxng/blob/master/src/brand/searxng-wordmark.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/serverfault.svg",
             "name": "Server Fault",
             "source": "https://serverfault.com/",
@@ -2123,6 +2201,12 @@
             "name": "Snapchat",
             "source": "https://en.wikipedia.org/wiki/Snapchat",
             "guidelines": "https://www.snap.com/en-US/brand-guidelines"
+        },
+        {
+            "path": "./assets/sogo.svg",
+            "name": "SOGo",
+            "source": "https://www.sogo.nu/",
+            "guidelines": ""
         },
         {
             "path": "./assets/sonarr.svg",
@@ -2239,6 +2323,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/tandoor.svg",
+            "name": "Tandoor",
+            "source": "https://github.com/TandoorRecipes/recipes/blob/develop/docs/logo_color.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/tasmota.svg",
             "name": "Tasmota",
             "source": "https://github.com/arendst/Tasmota/blob/master/tools/logo/TASMOTA_Symbol_Vector.svg",
@@ -2281,6 +2371,18 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/toml.svg",
+            "name": "TOML",
+            "source": "https://github.com/toml-lang/toml/blob/main/logos/toml.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/tplink.svg",
+            "name": "TP-Link",
+            "source": "https://www.tp-link.com/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/traefik-gopher.svg",
             "name": "Traefik (gopher)",
             "source": "https://github.com/traefik/traefik/blob/master/webui/src/assets/traefik.avatar.svg",
@@ -2320,6 +2422,12 @@
             "path": "./assets/truenas-scale.svg",
             "name": "TrueNAS Scale",
             "source": "https://github.com/truenas/webui/blob/master/src/assets/customicons/truenas_scale_logomark_rgb.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/tubesync.svg",
+            "name": "TubeSync",
+            "source": "https://github.com/meeb/tubesync/blob/main/tubesync/common/templates/tubesync-coloured.svg",
             "guidelines": ""
         },
         {
@@ -2375,6 +2483,12 @@
             "name": "Vault",
             "source": "https://www.hashicorp.com/brand",
             "guidelines": "https://www.hashicorp.com/brand"
+        },
+        {
+            "path": "./assets/vaultwarden.svg",
+            "name": "Vaultwarden",
+            "source": "https://github.com/dani-garcia/vaultwarden/blob/main/resources/vaultwarden-icon.svg",
+            "guidelines": ""
         },
         {
             "path": "./assets/vim.svg",
@@ -2506,6 +2620,12 @@
             "path": "./assets/xfce.svg",
             "name": "XFCE",
             "source": "https://www.xfce.org/download",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/yaml.svg",
+            "name": "YAML",
+            "source": "https://yaml.org/",
             "guidelines": ""
         },
         {
