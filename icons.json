@@ -2493,13 +2493,13 @@
         {
             "path": "./assets/vim.svg",
             "name": "Vim",
-            "source": "https://vikunja.io/",
+            "source": "https://en.wikipedia.org/wiki/Vim_(text_editor)",
             "guidelines": ""
         },
         {
             "path": "./assets/vikunja.svg",
             "name": "Vikunja",
-            "source": "https://en.wikipedia.org/wiki/Vim_(text_editor)",
+            "source": "https://vikunja.io/",
             "guidelines": ""
         },
         {
