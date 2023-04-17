@@ -2497,15 +2497,21 @@
             "guidelines": ""
         },
         {
-            "path": "./assets/vlc.svg",
-            "name": "VLC",
-            "source": "https://en.wikipedia.org/wiki/VLC_media_player",
+            "path": "./assets/vikunja.svg",
+            "name": "Vikunja",
+            "source": "https://vikunja.io/",
             "guidelines": ""
         },
         {
             "path": "./assets/visualstudiocode.svg",
             "name": "Visual Studio Code",
             "source": "https://code.visualstudio.com/brand",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/vlc.svg",
+            "name": "VLC",
+            "source": "https://en.wikipedia.org/wiki/VLC_media_player",
             "guidelines": ""
         },
         {
