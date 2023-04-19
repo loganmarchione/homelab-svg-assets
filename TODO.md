@@ -21,28 +21,41 @@
   - Borg
   - Brocade
   - Cacti
+  - cPanel
+  - DuckDNS
   - DuckDuckGo
+  - Gitbook
   - Heroku
   - Hetzner
   - IPFS
   - Istio
   - Jaeger
+  - Jellyfin Vue
   - Jisti
   - Joomla
   - Kofi
   - Linkwarden
+  - LSIO
   - Matomo
   - Meta
   - Monero
   - OpenHAB
+  - OpenVAS
+  - PiKVM
+  - PrivateInternetAccess
   - ProtonMail
   - PuTTY
   - QNAP
+  - Servarr
   - Shelly
   - Spotify
+  - TinyPilot
+  - Tor
   - Veeam
   - Vercel
+  - Virtualmin
   - Vultr
+  - Webmin
   - Yacht
 
 - Icons that I can't find
