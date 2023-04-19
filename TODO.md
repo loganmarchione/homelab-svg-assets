@@ -17,7 +17,33 @@
 
 # Icons
 - Icons to add
+  - APC
+  - Borg
+  - Brocade
+  - Cacti
+  - DuckDuckGo
+  - Heroku
+  - Hetzner
+  - IPFS
+  - Istio
+  - Jaeger
+  - Jisti
+  - Joomla
+  - Kofi
   - Linkwarden
+  - Matomo
+  - Meta
+  - Monero
+  - OpenHAB
+  - ProtonMail
+  - PuTTY
+  - QNAP
+  - Shelly
+  - Spotify
+  - Veeam
+  - Vercel
+  - Vultr
+  - Yacht
 
 - Icons that I can't find
   - Adminer - Can't find a SVG of this (this software hasn't had an update since [2021-05-23](https://github.com/vrana/adminer/commit/88647b93e467210f270340e758af6771e2c5638a))
