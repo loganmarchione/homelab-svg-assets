@@ -2221,6 +2221,12 @@
             "guidelines": "https://stackoverflow.com/legal/trademark-guidance"
         },
         {
+            "path": "./assets/shelly.svg",
+            "name": "Shelly",
+            "source": "https://info.shelly.cloud/media-assets/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/signal.svg",
             "name": "Signal",
             "source": "https://github.com/signalapp/Signal-Desktop/blob/main/images/signal-logo.svg",
@@ -2423,6 +2429,18 @@
             "name": "TOML",
             "source": "https://github.com/toml-lang/toml/blob/main/logos/toml.svg",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/torbrowser.svg",
+            "name": "Tor Browser",
+            "source": "https://styleguide.torproject.org/brand-assets/",
+            "guidelines": "https://styleguide.torproject.org/brand-assets/"
+        },
+        {
+            "path": "./assets/torproject.svg",
+            "name": "Tor Project",
+            "source": "https://styleguide.torproject.org/brand-assets/",
+            "guidelines": "https://styleguide.torproject.org/brand-assets/"
         },
         {
             "path": "./assets/tplink.svg",
