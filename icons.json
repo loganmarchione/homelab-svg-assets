@@ -151,6 +151,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/apc.svg",
+            "name": "APC",
+            "source": "https://www.apc.com/us/en/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/appimage.svg",
             "name": "AppImage",
             "source": "https://github.com/AppImage/appimage.github.io/blob/master/img/logo3.svg",
@@ -1138,6 +1144,12 @@
             "path": "./assets/invidious.svg",
             "name": "Invidious",
             "source": "https://github.com/iv-org/invidious/blob/master/assets/invidious-colored-vector.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/ipfs.svg",
+            "name": "InterPlanetary File System (IPFS)",
+            "source": "https://github.com/ipfs/ipfs-website/blob/main/assets/icons/ipfs-logo.svg",
             "guidelines": ""
         },
         {
