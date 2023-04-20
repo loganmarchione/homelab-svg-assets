@@ -2539,6 +2539,18 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/vultr-blue.svg",
+            "name": "Vultr (blue)",
+            "source": "https://www.vultr.com/company/brand-assets/",
+            "guidelines": "https://www.vultr.com/company/brand-assets/"
+        },
+        {
+            "path": "./assets/vultr-white.svg",
+            "name": "Vultr (white)",
+            "source": "https://www.vultr.com/company/brand-assets/",
+            "guidelines": "https://www.vultr.com/company/brand-assets/"
+        },
+        {
             "path": "./assets/vyos.svg",
             "name": "VyOS",
             "source": "https://vyos.io/",
