@@ -2119,6 +2119,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/qnap.svg",
+            "name": "QNAP",
+            "source": "https://marketing.qnap.com/logo/",
+            "guidelines": "https://marketing.qnap.com/logo/"
+        },
+        {
             "path": "./assets/radarr.svg",
             "name": "Radarr",
             "source": "https://github.com/Radarr/Radarr/blob/develop/Logo/Radarr.svg",
