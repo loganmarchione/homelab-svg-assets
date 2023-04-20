@@ -2509,6 +2509,18 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/vercel-black.svg",
+            "name": "Vercel (black)",
+            "source": "https://vercel.com/design/brands",
+            "guidelines": "https://vercel.com/design/brands#usage"
+        },
+        {
+            "path": "./assets/vercel-white.svg",
+            "name": "Vercel (white)",
+            "source": "https://vercel.com/design/brands",
+            "guidelines": "https://vercel.com/design/brands#usage"
+        },
+        {
             "path": "./assets/vim.svg",
             "name": "Vim",
             "source": "https://en.wikipedia.org/wiki/Vim_(text_editor)",
