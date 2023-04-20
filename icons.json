@@ -385,6 +385,12 @@
             "guidelines": "https://isocpp.org/home/terms-of-use"
         },
         {
+            "path": "./assets/cacti.svg",
+            "name": "Cacti",
+            "source": "https://www.cacti.net/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/calibre.svg",
             "name": "Calibre",
             "source": "https://github.com/kovidgoyal/calibre/blob/master/imgsrc/calibre.svg",
@@ -2584,6 +2590,12 @@
             "path": "./assets/vaultwarden.svg",
             "name": "Vaultwarden",
             "source": "https://github.com/dani-garcia/vaultwarden/blob/main/resources/vaultwarden-icon.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/veeam.svg",
+            "name": "Veeam",
+            "source": "https://www.veeam.com/newsroom/veeam-graphics.html",
             "guidelines": ""
         },
         {
