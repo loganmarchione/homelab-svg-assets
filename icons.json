@@ -1033,6 +1033,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/hetzner.svg",
+            "name": "Hetzner",
+            "source": "https://www.hetzner.com/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/homeassistant.svg",
             "name": "Home Assistant",
             "source": "https://github.com/home-assistant/assets/blob/master/logo/logo.svg",
@@ -1384,6 +1390,12 @@
             "path": "./assets/linuxmint.svg",
             "name": "Linux Mint",
             "source": "https://github.com/linuxmint/brand-logo/blob/master/leaf.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/linuxserverio.svg",
+            "name": "LinuxServer.io",
+            "source": "https://www.linuxserver.io/",
             "guidelines": ""
         },
         {
@@ -2033,6 +2045,12 @@
             "name": "Prometheus",
             "source": "https://github.com/prometheus/prometheus/blob/main/documentation/images/prometheus-logo.svg",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/proton.svg",
+            "name": "Proton",
+            "source": "https://proton.me/media/kit",
+            "guidelines": "https://proton.me/media/kit"
         },
         {
             "path": "./assets/prowlarr.svg",
