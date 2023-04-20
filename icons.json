@@ -607,6 +607,12 @@
             "guidelines": "https://www.drupal.org/about/media-kit/logo-wordmark-guidelines"
         },
         {
+            "path": "./assets/duckduckgo.svg",
+            "name": "DuckDuckGo (Dax)",
+            "source": "https://duckduckgo.com/press",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/eclipsemosquitto.svg",
             "name": "Eclipse Mosquitto",
             "source": "https://github.com/eclipse/mosquitto/blob/master/logo/mosquitto-logo-only.svg",
@@ -1549,6 +1555,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/monero.svg",
+            "name": "Monero",
+            "source": "https://www.getmonero.org/press-kit/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/monica.svg",
             "name": "Monica",
             "source": "https://github.com/monicahq/monica/blob/main/public/img/monica.svg",
@@ -1775,6 +1787,12 @@
             "name": "OpenBSD",
             "source": "https://en.wikipedia.org/wiki/OpenBSD",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/openhab.svg",
+            "name": "openHAB",
+            "source": "https://www.openhab.org/artwork.html",
+            "guidelines": "https://www.openhab.org/about/trademark.html"
         },
         {
             "path": "./assets/openjdk.svg",
