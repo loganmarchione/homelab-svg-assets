@@ -493,6 +493,12 @@
             "guidelines": "https://www.hashicorp.com/brand"
         },
         {
+            "path": "./assets/cpanel.svg",
+            "name": "cPanel",
+            "source": "https://cpanel.net/company/cpanel-brand-guide/",
+            "guidelines": "https://cpanel.net/company/cpanel-brand-guide/"
+        },
+        {
             "path": "./assets/crowdsec.svg",
             "name": "CrowdSec",
             "source": "https://www.crowdsec.net/",
@@ -2693,6 +2699,12 @@
             "name": "WhatsApp",
             "source": "https://about.meta.com/brand/resources/whatsapp/whatsapp-brand/",
             "guidelines": "https://about.meta.com/brand/resources/whatsapp/whatsapp-brand/"
+        },
+        {
+            "path": "./assets/whisparr.svg",
+            "name": "Whisparr",
+            "source": "https://github.com/Whisparr/Whisparr/blob/develop/Logo/Whisparr.svg",
+            "guidelines": ""
         },
         {
             "path": "./assets/wikipedia.svg",
