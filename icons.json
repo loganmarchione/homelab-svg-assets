@@ -1969,6 +1969,12 @@
             "guidelines": "https://pi-hole.net/trademark-rules-and-brand-guidelines/"
         },
         {
+            "path": "./assets/pikvm.svg",
+            "name": "PiKVM",
+            "source": "https://pikvm.org/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/plausible.svg",
             "name": "Plausible",
             "source": "https://github.com/plausible/docs/blob/master/static/img/logo.svg",
@@ -2417,6 +2423,12 @@
             "name": "TikTok",
             "source": "https://en.wikipedia.org/wiki/TikTok",
             "guidelines": "https://tiktokbrandbook.com/"
+        },
+        {
+            "path": "./assets/tinypilot.svg",
+            "name": "TinyPilot",
+            "source": "https://tinypilotkvm.com/",
+            "guidelines": ""
         },
         {
             "path": "./assets/tinytinyrss.svg",
