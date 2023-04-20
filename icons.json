@@ -2005,6 +2005,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/privateinternetaccess.svg",
+            "name": "Private Internet Access (PIA)",
+            "source": "https://www.privateinternetaccess.com/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/prometheus.svg",
             "name": "Prometheus",
             "source": "https://github.com/prometheus/prometheus/blob/main/documentation/images/prometheus-logo.svg",
