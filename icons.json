@@ -1149,7 +1149,7 @@
         {
             "path": "./assets/instagram.svg",
             "name": "Instagram",
-            "source": "https://about.meta.com/brand/resources/instagram/instagram-brand/",
+            "source": "https://en.wikipedia.org/wiki/Instagram",
             "guidelines": "https://about.meta.com/brand/resources/instagram/instagram-brand/"
         },
         {
@@ -2117,12 +2117,6 @@
             "name": "QEMU",
             "source": "https://gitlab.com/qemu-project/qemu/-/blob/master/pc-bios/qemu_logo.svg",
             "guidelines": ""
-        },
-        {
-            "path": "./assets/qnap.svg",
-            "name": "QNAP",
-            "source": "https://marketing.qnap.com/logo/",
-            "guidelines": "https://marketing.qnap.com/logo/"
         },
         {
             "path": "./assets/radarr.svg",
