@@ -17,44 +17,19 @@
 
 # Icons
 - Icons to add
-  - APC
-  - Borg
   - Brocade
-  - Cacti
-  - cPanel
-  - DuckDNS
-  - DuckDuckGo
   - Gitbook
   - Heroku
-  - Hetzner
-  - IPFS
   - Istio
-  - Jaeger
   - Jellyfin Vue
   - Jisti
   - Joomla
   - Kofi
   - Linkwarden
-  - LSIO
-  - Matomo
-  - Meta
-  - Monero
-  - OpenHAB
   - OpenVAS
-  - PiKVM
-  - PrivateInternetAccess
-  - ProtonMail
   - PuTTY
-  - QNAP
-  - Servarr
-  - Shelly
   - Spotify
-  - TinyPilot
-  - Tor
-  - Veeam
-  - Vercel
   - Virtualmin
-  - Vultr
   - Webmin
   - Yacht
 
@@ -75,6 +50,7 @@
     - No original SVG exists
   - [Jackett](https://github.com/Jackett/Jackett/issues/13789)
   - LazyLibrarian - Can't find a SVG of this
+  - Matomo - Can't find a SVG of this (icons [here](https://matomo.org/trademark/) have PNG data embedded in them)
   - Observium - Can't find a SVG of this
   - ~~[Ombi](https://github.com/Ombi-app/Ombi/issues/4834)~~
   - Postfix - Can't find a SVG of this
