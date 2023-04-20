@@ -607,6 +607,12 @@
             "guidelines": "https://www.drupal.org/about/media-kit/logo-wordmark-guidelines"
         },
         {
+            "path": "./assets/duckdns.svg",
+            "name": "DuckDNS",
+            "source": "https://www.duckdns.org/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/duckduckgo.svg",
             "name": "DuckDuckGo (Dax)",
             "source": "https://duckduckgo.com/press",
@@ -1138,6 +1144,12 @@
             "path": "./assets/ixsystems.svg",
             "name": "iXsystems",
             "source": "https://github.com/truenas/webui/blob/master/src/assets/images/ix-original.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/jaeger.svg",
+            "name": "Jaeger",
+            "source": "https://cncf-branding.netlify.app/projects/jaeger/",
             "guidelines": ""
         },
         {
