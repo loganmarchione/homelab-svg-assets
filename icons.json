@@ -349,6 +349,12 @@
             "guidelines": "https://getbootstrap.com/docs/5.2/about/brand/"
         },
         {
+            "path": "./assets/borg.svg",
+            "name": "Borg",
+            "source": "https://github.com/borgbackup/borg/blob/master/docs/_static/logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/boundary.svg",
             "name": "Boundary",
             "source": "https://www.hashicorp.com/brand",
