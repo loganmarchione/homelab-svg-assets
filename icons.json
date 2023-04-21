@@ -151,6 +151,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/apc.svg",
+            "name": "APC",
+            "source": "https://www.apc.com/us/en/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/appimage.svg",
             "name": "AppImage",
             "source": "https://github.com/AppImage/appimage.github.io/blob/master/img/logo3.svg",
@@ -343,6 +349,12 @@
             "guidelines": "https://getbootstrap.com/docs/5.2/about/brand/"
         },
         {
+            "path": "./assets/borg.svg",
+            "name": "Borg",
+            "source": "https://github.com/borgbackup/borg/blob/master/docs/_static/logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/boundary.svg",
             "name": "Boundary",
             "source": "https://www.hashicorp.com/brand",
@@ -377,6 +389,12 @@
             "name": "C++",
             "source": "https://github.com/isocpp/logos/blob/master/cpp_logo.svg",
             "guidelines": "https://isocpp.org/home/terms-of-use"
+        },
+        {
+            "path": "./assets/cacti.svg",
+            "name": "Cacti",
+            "source": "https://www.cacti.net/",
+            "guidelines": ""
         },
         {
             "path": "./assets/calibre.svg",
@@ -479,6 +497,12 @@
             "name": "Consul",
             "source": "https://www.hashicorp.com/brand",
             "guidelines": "https://www.hashicorp.com/brand"
+        },
+        {
+            "path": "./assets/cpanel.svg",
+            "name": "cPanel",
+            "source": "https://cpanel.net/company/cpanel-brand-guide/",
+            "guidelines": "https://cpanel.net/company/cpanel-brand-guide/"
         },
         {
             "path": "./assets/crowdsec.svg",
@@ -605,6 +629,18 @@
             "name": "Drupal (Druplicon)",
             "source": "https://www.drupal.org/about/media-kit/logos",
             "guidelines": "https://www.drupal.org/about/media-kit/logo-wordmark-guidelines"
+        },
+        {
+            "path": "./assets/duckdns.svg",
+            "name": "DuckDNS",
+            "source": "https://www.duckdns.org/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/duckduckgo.svg",
+            "name": "DuckDuckGo (Dax)",
+            "source": "https://duckduckgo.com/press",
+            "guidelines": ""
         },
         {
             "path": "./assets/eclipsemosquitto.svg",
@@ -847,6 +883,12 @@
             "guidelines": "https://git-scm.com/downloads/logos"
         },
         {
+            "path": "./assets/gitbook.svg",
+            "name": "GitBook",
+            "source": "https://www.gitbook.com/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/gitea.svg",
             "name": "Gitea",
             "source": "https://github.com/go-gitea/gitea/blob/main/assets/logo.svg",
@@ -973,6 +1015,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/greenboneopenvas.svg",
+            "name": "GreenBone OpenVAS",
+            "source": "https://greenbone.github.io/docs/latest/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/grocy.svg",
             "name": "Grocy",
             "source": "https://github.com/grocy/grocy/blob/master/public/img/grocy_logo.svg",
@@ -1012,6 +1060,12 @@
             "path": "./assets/helm.svg",
             "name": "Helm",
             "source": "https://helm.sh/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/hetzner.svg",
+            "name": "Hetzner",
+            "source": "https://www.hetzner.com/",
             "guidelines": ""
         },
         {
@@ -1129,9 +1183,33 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/ipfs.svg",
+            "name": "InterPlanetary File System (IPFS)",
+            "source": "https://github.com/ipfs/ipfs-website/blob/main/assets/icons/ipfs-logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/istio.svg",
+            "name": "Istio",
+            "source": "https://istio.io/v1.12/about/media-resources/",
+            "guidelines": "https://istio.io/v1.12/about/media-resources/"
+        },
+        {
             "path": "./assets/ixsystems.svg",
             "name": "iXsystems",
             "source": "https://github.com/truenas/webui/blob/master/src/assets/images/ix-original.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/jackett.svg",
+            "name": "Jackett",
+            "source": "https://github.com/Jackett/Jackett/pull/9832",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/jaeger.svg",
+            "name": "Jaeger",
+            "source": "https://cncf-branding.netlify.app/projects/jaeger/",
             "guidelines": ""
         },
         {
@@ -1357,6 +1435,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/linuxserverio.svg",
+            "name": "LinuxServer.io",
+            "source": "https://www.linuxserver.io/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/longhorn.svg",
             "name": "Longhorn",
             "source": "https://www.rancher.com/brand-guidelines",
@@ -1546,6 +1630,12 @@
             "path": "./assets/minio.svg",
             "name": "MinIO",
             "source": "https://min.io/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/monero.svg",
+            "name": "Monero",
+            "source": "https://www.getmonero.org/press-kit/",
             "guidelines": ""
         },
         {
@@ -1777,6 +1867,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/openhab.svg",
+            "name": "openHAB",
+            "source": "https://www.openhab.org/artwork.html",
+            "guidelines": "https://www.openhab.org/about/trademark.html"
+        },
+        {
             "path": "./assets/openjdk.svg",
             "name": "OpenJDK (Duke)",
             "source": "https://wiki.openjdk.org/display/duke/Gallery",
@@ -1897,6 +1993,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/perl.svg",
+            "name": "Perl",
+            "source": "https://github.com/tpf/marketing-materials/blob/master/images/onion-logo/tpf-logo-onion.svg",
+            "guidelines": "https://www.perlfoundation.org/trademarks.html"
+        },
+        {
             "path": "./assets/pfsense-black.svg",
             "name": "pfSense (black)",
             "source": "https://en.wikipedia.org/wiki/PfSense",
@@ -1925,6 +2027,12 @@
             "name": "Pi-hole",
             "source": "https://github.com/pi-hole/graphics/blob/master/Vortex/Vortex.svg",
             "guidelines": "https://pi-hole.net/trademark-rules-and-brand-guidelines/"
+        },
+        {
+            "path": "./assets/pikvm.svg",
+            "name": "PiKVM",
+            "source": "https://pikvm.org/",
+            "guidelines": ""
         },
         {
             "path": "./assets/plausible.svg",
@@ -1975,10 +2083,22 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/privateinternetaccess.svg",
+            "name": "Private Internet Access (PIA)",
+            "source": "https://www.privateinternetaccess.com/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/prometheus.svg",
             "name": "Prometheus",
             "source": "https://github.com/prometheus/prometheus/blob/main/documentation/images/prometheus-logo.svg",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/proton.svg",
+            "name": "Proton",
+            "source": "https://proton.me/media/kit",
+            "guidelines": "https://proton.me/media/kit"
         },
         {
             "path": "./assets/prowlarr.svg",
@@ -2005,6 +2125,12 @@
             "guidelines": "https://support.pushover.net/i63-pushover-logos-and-usage"
         },
         {
+            "path": "./assets/putty.svg",
+            "name": "PuTTY",
+            "source": "https://en.wikipedia.org/wiki/PuTTY",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/python.svg",
             "name": "Python",
             "source": "https://www.python.org/community/logos/",
@@ -2027,6 +2153,12 @@
             "name": "QEMU",
             "source": "https://gitlab.com/qemu-project/qemu/-/blob/master/pc-bios/qemu_logo.svg",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/qnap.svg",
+            "name": "QNAP",
+            "source": "https://marketing.qnap.com/logo/",
+            "guidelines": "https://marketing.qnap.com/logo/"
         },
         {
             "path": "./assets/radarr.svg",
@@ -2173,6 +2305,12 @@
             "guidelines": "https://stackoverflow.com/legal/trademark-guidance"
         },
         {
+            "path": "./assets/shelly.svg",
+            "name": "Shelly",
+            "source": "https://info.shelly.cloud/media-assets/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/signal.svg",
             "name": "Signal",
             "source": "https://github.com/signalapp/Signal-Desktop/blob/main/images/signal-logo.svg",
@@ -2225,6 +2363,12 @@
             "name": "Splunk",
             "source": "https://www.splunk.com/",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/spotify.svg",
+            "name": "Spotify",
+            "source": "https://developer.spotify.com/documentation/design",
+            "guidelines": "https://developer.spotify.com/documentation/design"
         },
         {
             "path": "./assets/sqlite.svg",
@@ -2365,6 +2509,12 @@
             "guidelines": "https://tiktokbrandbook.com/"
         },
         {
+            "path": "./assets/tinypilot.svg",
+            "name": "TinyPilot",
+            "source": "https://tinypilotkvm.com/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/tinytinyrss.svg",
             "name": "TinyTinyRSS (TT-RSS)",
             "source": "https://gitlab.com/prism-break/prism-break/-/blob/master/source/assets/logos/tt-rss.svg",
@@ -2375,6 +2525,18 @@
             "name": "TOML",
             "source": "https://github.com/toml-lang/toml/blob/main/logos/toml.svg",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/torbrowser.svg",
+            "name": "Tor Browser",
+            "source": "https://styleguide.torproject.org/brand-assets/",
+            "guidelines": "https://styleguide.torproject.org/brand-assets/"
+        },
+        {
+            "path": "./assets/torproject.svg",
+            "name": "Tor Project",
+            "source": "https://styleguide.torproject.org/brand-assets/",
+            "guidelines": "https://styleguide.torproject.org/brand-assets/"
         },
         {
             "path": "./assets/tplink.svg",
@@ -2491,6 +2653,24 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/veeam.svg",
+            "name": "Veeam",
+            "source": "https://www.veeam.com/newsroom/veeam-graphics.html",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/vercel-black.svg",
+            "name": "Vercel (black)",
+            "source": "https://vercel.com/design/brands",
+            "guidelines": "https://vercel.com/design/brands#usage"
+        },
+        {
+            "path": "./assets/vercel-white.svg",
+            "name": "Vercel (white)",
+            "source": "https://vercel.com/design/brands",
+            "guidelines": "https://vercel.com/design/brands#usage"
+        },
+        {
             "path": "./assets/vim.svg",
             "name": "Vim",
             "source": "https://en.wikipedia.org/wiki/Vim_(text_editor)",
@@ -2519,6 +2699,18 @@
             "name": "VMWare",
             "source": "https://en.wikipedia.org/wiki/VMware",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/vultr-blue.svg",
+            "name": "Vultr (blue)",
+            "source": "https://www.vultr.com/company/brand-assets/",
+            "guidelines": "https://www.vultr.com/company/brand-assets/"
+        },
+        {
+            "path": "./assets/vultr-white.svg",
+            "name": "Vultr (white)",
+            "source": "https://www.vultr.com/company/brand-assets/",
+            "guidelines": "https://www.vultr.com/company/brand-assets/"
         },
         {
             "path": "./assets/vyos.svg",
@@ -2561,6 +2753,12 @@
             "name": "WhatsApp",
             "source": "https://about.meta.com/brand/resources/whatsapp/whatsapp-brand/",
             "guidelines": "https://about.meta.com/brand/resources/whatsapp/whatsapp-brand/"
+        },
+        {
+            "path": "./assets/whisparr.svg",
+            "name": "Whisparr",
+            "source": "https://github.com/Whisparr/Whisparr/blob/develop/Logo/Whisparr.svg",
+            "guidelines": ""
         },
         {
             "path": "./assets/wikipedia.svg",
@@ -2626,6 +2824,12 @@
             "path": "./assets/xfce.svg",
             "name": "XFCE",
             "source": "https://www.xfce.org/download",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/yacht.svg",
+            "name": "Yacht",
+            "source": "https://github.com/SelfhostedPro/Yacht/blob/master/frontend/src/assets/logo-light.svg",
             "guidelines": ""
         },
         {
