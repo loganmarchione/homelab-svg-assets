@@ -1009,6 +1009,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/greenboneopenvas.svg",
+            "name": "GreenBone OpenVAS",
+            "source": "https://greenbone.github.io/docs/latest/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/grocy.svg",
             "name": "Grocy",
             "source": "https://github.com/grocy/grocy/blob/master/public/img/grocy_logo.svg",
@@ -1175,6 +1181,12 @@
             "name": "InterPlanetary File System (IPFS)",
             "source": "https://github.com/ipfs/ipfs-website/blob/main/assets/icons/ipfs-logo.svg",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/istio.svg",
+            "name": "Istio",
+            "source": "https://istio.io/v1.12/about/media-resources/",
+            "guidelines": "https://istio.io/v1.12/about/media-resources/"
         },
         {
             "path": "./assets/ixsystems.svg",
@@ -2782,6 +2794,12 @@
             "path": "./assets/xfce.svg",
             "name": "XFCE",
             "source": "https://www.xfce.org/download",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/yacht.svg",
+            "name": "Yacht",
+            "source": "https://github.com/SelfhostedPro/Yacht/blob/master/frontend/src/assets/logo-light.svg",
             "guidelines": ""
         },
         {
