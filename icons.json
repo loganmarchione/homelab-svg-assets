@@ -883,6 +883,12 @@
             "guidelines": "https://git-scm.com/downloads/logos"
         },
         {
+            "path": "./assets/gitbook.svg",
+            "name": "GitBook",
+            "source": "https://www.gitbook.com/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/gitea.svg",
             "name": "Gitea",
             "source": "https://github.com/go-gitea/gitea/blob/main/assets/logo.svg",
@@ -1192,6 +1198,12 @@
             "path": "./assets/ixsystems.svg",
             "name": "iXsystems",
             "source": "https://github.com/truenas/webui/blob/master/src/assets/images/ix-original.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/jackett.svg",
+            "name": "Jackett",
+            "source": "https://github.com/Jackett/Jackett/pull/9832",
             "guidelines": ""
         },
         {
@@ -1981,6 +1993,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/perl.svg",
+            "name": "Perl",
+            "source": "https://github.com/tpf/marketing-materials/blob/master/images/onion-logo/tpf-logo-onion.svg",
+            "guidelines": "https://www.perlfoundation.org/trademarks.html"
+        },
+        {
             "path": "./assets/pfsense-black.svg",
             "name": "pfSense (black)",
             "source": "https://en.wikipedia.org/wiki/PfSense",
@@ -2105,6 +2123,12 @@
             "name": "Pushover",
             "source": "https://support.pushover.net/i63-pushover-logos-and-usage",
             "guidelines": "https://support.pushover.net/i63-pushover-logos-and-usage"
+        },
+        {
+            "path": "./assets/putty.svg",
+            "name": "PuTTY",
+            "source": "https://en.wikipedia.org/wiki/PuTTY",
+            "guidelines": ""
         },
         {
             "path": "./assets/python.svg",
@@ -2339,6 +2363,12 @@
             "name": "Splunk",
             "source": "https://www.splunk.com/",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/spotify.svg",
+            "name": "Spotify",
+            "source": "https://developer.spotify.com/documentation/design",
+            "guidelines": "https://developer.spotify.com/documentation/design"
         },
         {
             "path": "./assets/sqlite.svg",
