@@ -17,6 +17,7 @@
 
 # Icons
 - Icons to add
+  - [Flatnotes](https://github.com/Dullage/flatnotes/blob/master/flatnotes/src/assets/logo-part-icon.svg)
   - Jisti
   - Joomla
   - Linkwarden
