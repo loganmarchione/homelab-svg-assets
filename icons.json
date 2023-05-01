@@ -1867,6 +1867,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/opencollective.svg",
+            "name": "Open Collective",
+            "source": "https://opencollective.com/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/openhab.svg",
             "name": "openHAB",
             "source": "https://www.openhab.org/artwork.html",
