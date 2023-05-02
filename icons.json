@@ -685,6 +685,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/electronicfrontierfoundation.svg",
+            "name": "Electronic Frontier Foundation (EFF)",
+            "source": "https://www.eff.org/press/logos",
+            "guidelines": "https://www.eff.org/pages/trademark-and-brand-usage-policy"
+        },
+        {
             "path": "./assets/element.svg",
             "name": "Element",
             "source": "https://element.io/",
@@ -845,6 +851,12 @@
             "name": "FreeNAS",
             "source": "https://github.com/truenas/webui/blob/master/src/assets/images/ix-original.svg",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/freesoftwarefoundation.svg",
+            "name": "Free Software Foundation (FSF)",
+            "source": "https://www.gnu.org/graphics/fsf-logo.en.html",
+            "guidelines": "https://www.gnu.org/graphics/fsf-logo.en.html"
         },
         {
             "path": "./assets/freshrss.svg",
@@ -1771,6 +1783,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/nlnetfoundation.svg",
+            "name": "NLnet Foundation",
+            "source": "https://nlnet.nl/logo/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/nodejs.svg",
             "name": "Node.js",
             "source": "https://en.wikipedia.org/wiki/Node.js",
@@ -2345,6 +2363,12 @@
             "name": "Snapchat",
             "source": "https://en.wikipedia.org/wiki/Snapchat",
             "guidelines": "https://www.snap.com/en-US/brand-guidelines"
+        },
+        {
+            "path": "./assets/softwareinthepublicinterest.svg",
+            "name": "Software in the Public Interest (SPI)",
+            "source": "https://www.spi-inc.org/",
+            "guidelines": ""
         },
         {
             "path": "./assets/sogo.svg",

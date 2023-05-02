@@ -59,6 +59,7 @@
   - Audacity
   - CyberChef
   - LXC
+  - SPI
   - WikiJS
 
 - Icons that require explicit permission (which I don't have yet)
