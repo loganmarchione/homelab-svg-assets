@@ -54,8 +54,7 @@ jobs:
 
     - name: Search for encoded PNG files
       run: |
-        if grep -irlq png assets/*.svg; then
+        if grep -irlq "png|jpg|jpeg" assets/*.svg; then
           echo 'ERROR: Found PNG information in the assets directory!'
-          grep -irl 'png|jpg|jpeg' assets/*.svg
           exit 1
         fi

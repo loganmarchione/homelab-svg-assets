@@ -17,6 +17,9 @@
 
 # Icons
 - Icons to add
+  - [Flatnotes](https://github.com/Dullage/flatnotes/blob/master/flatnotes/src/assets/logo-part-icon.svg)
+  - Jisti
+  - Joomla
   - Linkwarden
 
 - Icons that I can't find
@@ -29,13 +32,16 @@
   - Caddy - Can't find a SVG of this (icons [here](https://github.com/caddyserver/website/tree/master/src/resources/images) have PNG data embedded in them)
   - ~~[Changedetection.io](https://github.com/dgtlmoon/changedetection.io/issues/1527)~~
   - [EmulatorJS](https://github.com/EmulatorJS/EmulatorJS/issues/506)
+  - Fedora - Email sent on 2022-12-22
   - Ghost - Can't find a SVG of this
   - Glances - Can't find a SVG of this
   - ~~[Gotify](https://github.com/gotify/website/issues/67)~~
-  - ~~[Handbrake](https://github.com/HandBrake/HandBrake/issues/4749)~~
-    - No original SVG exists
-  - [Jackett](https://github.com/Jackett/Jackett/issues/13789)
+  - ~~[Handbrake](https://github.com/HandBrake/HandBrake/issues/4749)~~ - No original SVG exists
+  - Heroku - Their [brand](https://brand.heroku.com/) page doesn't work
+  - ~~[Jackett](https://github.com/Jackett/Jackett/issues/13789)~~
+  - Jellyfin Vue - Can't find a SVG of this
   - LazyLibrarian - Can't find a SVG of this
+  - Matomo - Can't find a SVG of this (icons [here](https://matomo.org/trademark/) have PNG data embedded in them)
   - Observium - Can't find a SVG of this
   - ~~[Ombi](https://github.com/Ombi-app/Ombi/issues/4834)~~
   - Postfix - Can't find a SVG of this
@@ -43,6 +49,7 @@
   - [SemVer](https://github.com/semver/semver.org/issues/399)
   - Tdarr - Can't find a SVG of this
   - ~~[Telegraf](https://github.com/influxdata/telegraf/issues/12327)~~
+  - Virtualmin and Webmin - Email sent on 2023-04-21
   - ~~[Watchtower](https://github.com/containrrr/watchtower/issues/1510)~~
   - ~~[XCP-ng](https://github.com/xcp-ng/xcp/issues/583)~~
   - [ZeroTier](https://github.com/zerotier/docs/issues/50)
@@ -52,17 +59,13 @@
   - Audacity
   - CyberChef
   - LXC
+  - SPI
   - WikiJS
 
 - Icons that require explicit permission (which I don't have yet)
   - Anaconda
   - Cisco
-  - Fedora - Email sent on 2022-12-22
   - Oracle (this includes Java)
-  - [Perl](https://github.com/tpf/marketing-materials/blob/master/images/onion-logo/tpf-logo-onion.svg) - I think I need to [email](https://www.perlfoundation.org/trademarks.html)
 
 - Icons that I think I need to add a trademark symbol to
   - Elastic
-
-- Icons that came from non-official sources (possibly need to be replaced?)
-  - TinyTinyRSS - Can't find a SVG of this
