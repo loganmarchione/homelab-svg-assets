@@ -2203,14 +2203,14 @@
             "guidelines": "https://www.rancher.com/brand-guidelines"
         },
         {
-            "path": "./assets/rapid7.svg",
-            "name": "Rapid7",
+            "path": "./assets/rapid7-dark.svg",
+            "name": "Rapid7 (dark)",
             "source": "https://brand.rapid7.com/",
             "guidelines": "https://brand.rapid7.com/"
         },
         {
-            "path": "./assets/rapid7-wide.svg",
-            "name": "Rapid7 (wide)",
+            "path": "./assets/rapid7-light.svg",
+            "name": "Rapid7 (light)",
             "source": "https://brand.rapid7.com/",
             "guidelines": "https://brand.rapid7.com/"
         },
