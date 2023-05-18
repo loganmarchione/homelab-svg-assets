@@ -2455,6 +2455,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/supabase.svg",
+            "name": "Supabase",
+            "source": "https://supabase.com/brand-assets",
+            "guidelines": "https://supabase.com/brand-assets"
+        },
+        {
             "path": "./assets/supermicro.svg",
             "name": "Supermicro",
             "source": "https://www.supermicro.com/en/supermicro-logos",
