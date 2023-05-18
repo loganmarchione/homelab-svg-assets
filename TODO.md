@@ -17,25 +17,20 @@
 
 # Icons
 - Icons to add
-  - Flathub update 
-  - [Flatnotes](https://github.com/Dullage/flatnotes/blob/master/flatnotes/src/assets/logo-part-icon.svg)
   - Jisti
   - Joomla
-  - [Liberapay](https://en.liberapay.com/about/logos)
   - Linkwarden
-  - Supabase
-  - Fix Rapid7
 
 - Icons that I can't find
   - Adminer - Can't find a SVG of this (this software hasn't had an update since [2021-05-23](https://github.com/vrana/adminer/commit/88647b93e467210f270340e758af6771e2c5638a))
   - [Airsonic-Advanced](https://github.com/airsonic-advanced/airsonic-advanced/issues/979)
-  - [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox/issues/1137)
+  - ~~[ArchiveBox](https://github.com/ArchiveBox/ArchiveBox/issues/1137)~~ - No original SVG exists
   - ~~[Autobrr](https://github.com/autobrr/autobrr/issues/834)~~
   - [Baikal](https://github.com/sabre-io/Baikal/issues/1143)
   - ~~[Bazarr](https://github.com/morpheus65535/bazarr/issues/2020)~~
   - Caddy - Can't find a SVG of this (icons [here](https://github.com/caddyserver/website/tree/master/src/resources/images) have PNG data embedded in them)
   - ~~[Changedetection.io](https://github.com/dgtlmoon/changedetection.io/issues/1527)~~
-  - [EmulatorJS](https://github.com/EmulatorJS/EmulatorJS/issues/506)
+  - ~~[EmulatorJS](https://github.com/EmulatorJS/EmulatorJS/issues/506)~~ - This is a poor tracing
   - Fedora - Email sent on 2022-12-22
   - Ghost - Can't find a SVG of this
   - Glances - Can't find a SVG of this
