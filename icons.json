@@ -799,6 +799,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/flatnotes.svg",
+            "name": "flatnotes",
+            "source": "https://github.com/dullage/flatnotes/blob/develop/docs/logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/flatpak-black.svg",
             "name": "Flatpak (black)",
             "source": "https://flatpak.org/press/",
