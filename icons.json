@@ -1387,6 +1387,18 @@
             "guidelines": "https://letsencrypt.org/trademarks/"
         },
         {
+            "path": "./assets/liberapay-black.svg",
+            "name": "Liberapay (black)",
+            "source": "https://en.liberapay.com/about/logos",
+            "guidelines": "https://en.liberapay.com/about/logos"
+        },
+        {
+            "path": "./assets/liberapay-white.svg",
+            "name": "Liberapay (white)",
+            "source": "https://en.liberapay.com/about/logos",
+            "guidelines": "https://en.liberapay.com/about/logos"
+        },
+        {
             "path": "./assets/librenms-black.svg",
             "name": "LibreNMS (black)",
             "source": "https://github.com/librenms/librenms.github.io/blob/master/images/LibreNMS-Logo-Black.svg",
