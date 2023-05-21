@@ -799,6 +799,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/flatnotes.svg",
+            "name": "flatnotes",
+            "source": "https://github.com/dullage/flatnotes/blob/develop/docs/logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/flatpak-black.svg",
             "name": "Flatpak (black)",
             "source": "https://flatpak.org/press/",
@@ -1385,6 +1391,18 @@
             "name": "Let’s Encrypt",
             "source": "https://letsencrypt.org/trademarks/",
             "guidelines": "https://letsencrypt.org/trademarks/"
+        },
+        {
+            "path": "./assets/liberapay-black.svg",
+            "name": "Liberapay (black)",
+            "source": "https://en.liberapay.com/about/logos",
+            "guidelines": "https://en.liberapay.com/about/logos"
+        },
+        {
+            "path": "./assets/liberapay-white.svg",
+            "name": "Liberapay (white)",
+            "source": "https://en.liberapay.com/about/logos",
+            "guidelines": "https://en.liberapay.com/about/logos"
         },
         {
             "path": "./assets/librenms-black.svg",
@@ -2203,14 +2221,14 @@
             "guidelines": "https://www.rancher.com/brand-guidelines"
         },
         {
-            "path": "./assets/rapid7.svg",
-            "name": "Rapid7",
+            "path": "./assets/rapid7-dark.svg",
+            "name": "Rapid7 (dark)",
             "source": "https://brand.rapid7.com/",
             "guidelines": "https://brand.rapid7.com/"
         },
         {
-            "path": "./assets/rapid7-wide.svg",
-            "name": "Rapid7 (wide)",
+            "path": "./assets/rapid7-light.svg",
+            "name": "Rapid7 (light)",
             "source": "https://brand.rapid7.com/",
             "guidelines": "https://brand.rapid7.com/"
         },
@@ -2443,6 +2461,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/supabase.svg",
+            "name": "Supabase",
+            "source": "https://supabase.com/brand-assets",
+            "guidelines": "https://supabase.com/brand-assets"
+        },
+        {
             "path": "./assets/supermicro.svg",
             "name": "Supermicro",
             "source": "https://www.supermicro.com/en/supermicro-logos",
@@ -2649,7 +2673,7 @@
         {
             "path": "./assets/ubiquiti.svg",
             "name": "Ubiquiti",
-            "source": "https://en.wikipedia.org/wiki/Ubiquiti",
+            "source": "https://store.ui.com/",
             "guidelines": ""
         },
         {
