@@ -2305,6 +2305,12 @@
             "guidelines": "https://foundation.rust-lang.org/policies/logo-policy-and-media-guide/"
         },
         {
+            "path": "./assets/sabnzbd.svg",
+            "name": "SABnzbd",
+            "source": "https://github.com/sabnzbd/sabnzbd/blob/develop/icons/logo-arrow.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/safari.svg",
             "name": "Safari",
             "source": "https://en.wikipedia.org/wiki/Safari_(web_browser)",
@@ -2561,6 +2567,18 @@
             "name": "Terraform",
             "source": "https://www.hashicorp.com/brand",
             "guidelines": "https://www.hashicorp.com/brand"
+        },
+        {
+            "path": "./assets/thelounge-dark.svg",
+            "name": "The Lounge (dark)",
+            "source": "https://github.com/thelounge/thelounge/blob/master/client/img/logo-transparent-bg.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/thelounge-light.svg",
+            "name": "The Lounge (light)",
+            "source": "https://github.com/thelounge/thelounge/blob/master/client/img/logo-transparent-bg.svg",
+            "guidelines": ""
         },
         {
             "path": "./assets/tiktok.svg",
