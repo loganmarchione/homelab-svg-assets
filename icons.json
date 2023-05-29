@@ -397,6 +397,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/caddy.svg",
+            "name": "Caddy",
+            "source": "https://github.com/caddyserver/website/blob/master/src/resources/images/caddy-logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/calibre.svg",
             "name": "Calibre",
             "source": "https://github.com/kovidgoyal/calibre/blob/master/imgsrc/calibre.svg",
