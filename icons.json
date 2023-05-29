@@ -1339,6 +1339,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/kavita.svg",
+            "name": "Kavita",
+            "source": "https://github.com/Kareadita/Kavita/blob/develop/Logo/kavita.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/kde.svg",
             "name": "KDE",
             "source": "https://kde.org/stuff/clipart/",
@@ -2056,6 +2062,12 @@
             "path": "./assets/pfsense-blue.svg",
             "name": "pfSense (blue)",
             "source": "https://en.wikipedia.org/wiki/PfSense",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/photoprism.svg",
+            "name": "PhotoPrism",
+            "source": "https://github.com/photoprism/photoprism/blob/develop/assets/static/img/logo.svg",
             "guidelines": ""
         },
         {
