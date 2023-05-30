@@ -17,9 +17,7 @@
 
 # Icons
 - Icons to add
-  - Jisti
   - Joomla
-  - Linkwarden
 
 - Icons that I can't find
   - Adminer - Can't find a SVG of this (this software hasn't had an update since [2021-05-23](https://github.com/vrana/adminer/commit/88647b93e467210f270340e758af6771e2c5638a))
@@ -39,7 +37,6 @@
   - ~~[Handbrake](https://github.com/HandBrake/HandBrake/issues/4749)~~ - No original SVG exists
   - Heroku - Their [brand](https://brand.heroku.com/) page doesn't work
   - ~~[Jackett](https://github.com/Jackett/Jackett/issues/13789)~~
-  - Jellyfin Vue - Can't find a SVG of this
   - LazyLibrarian - Can't find a SVG of this
   - Matomo - Can't find a SVG of this (icons [here](https://matomo.org/trademark/) have PNG data embedded in them)
   - [Mylar3](https://github.com/mylar3/mylar3/issues/1358)
@@ -52,6 +49,7 @@
   - ~~[Telegraf](https://github.com/influxdata/telegraf/issues/12327)~~
   - Virtualmin and Webmin - Email sent on 2023-04-21
   - ~~[Watchtower](https://github.com/containrrr/watchtower/issues/1510)~~
+  - [Wizarr](https://github.com/Wizarrrr/wizarr/issues/139)
   - ~~[XCP-ng](https://github.com/xcp-ng/xcp/issues/583)~~
   - [ZeroTier](https://github.com/zerotier/docs/issues/50)
   - Zigbee2MQTT - This SVG is a mess
@@ -64,9 +62,10 @@
   - WikiJS
 
 - Icons that require explicit permission (which I don't have yet)
-  - Anaconda
-  - Cisco
-  - Oracle (this includes Java)
+  - [Anaconda](https://legal.anaconda.com/policies/en/?name=additional-policies-terms#anaconda-trademark-brand-guidelines)
+  - [BigBlueBotton](https://bigbluebutton.org/trademark/)
+  - [Cisco](https://www.cisco.com/c/en/us/about/brand-center/logo-usage-guidelines.html)
+  - [Oracle](https://www.oracle.com/legal/logos.html) (this includes Java)
 
 - Icons that I think I need to add a trademark symbol to
   - Elastic
