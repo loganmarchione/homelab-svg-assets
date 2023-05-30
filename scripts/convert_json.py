@@ -32,9 +32,9 @@ for item in data["icons"]:
     f_img = f"![]({path})"
     # If source begin with "https", then make a link, otherwise use a string
     if re.match(r'^https', source):
-      f_source = f"[Source]({source})"
+        f_source = f"[Source]({source})"
     else:
-      f_source = f"{source}"
+        f_source = f"{source}"
     # If guidelines are missing, do not add a Markdown link
     if not guidelines:
         f_guidelines = ""
