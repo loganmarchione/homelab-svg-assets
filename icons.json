@@ -374,14 +374,14 @@
         },
         {
             "path": "./assets/c.svg",
-            "name": "C (custom)",
-            "source": "",
+            "name": "C",
+            "source": "Custom",
             "guidelines": ""
         },
         {
             "path": "./assets/csharp.svg",
-            "name": "C# (custom)",
-            "source": "",
+            "name": "C#",
+            "source": "Custom",
             "guidelines": ""
         },
         {
@@ -2543,6 +2543,12 @@
             "name": "Synology (white)",
             "source": "https://design.synology.com/elements/logo",
             "guidelines": "https://design.synology.com/elements/logo"
+        },
+        {
+            "path": "./assets/synology-diskstationmanager.svg",
+            "name": "Synology DiskStation Manager",
+            "source": "Custom",
+            "guidelines": ""
         },
         {
             "path": "./assets/system76.svg",
