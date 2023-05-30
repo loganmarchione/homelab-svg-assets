@@ -2167,6 +2167,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/privatebin.svg",
+            "name": "PrivateBin",
+            "source": "https://github.com/PrivateBin/PrivateBin/blob/master/img/logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/privateinternetaccess.svg",
             "name": "Private Internet Access (PIA)",
             "source": "https://www.privateinternetaccess.com/",
@@ -2320,6 +2326,12 @@
             "path": "./assets/rockylinux.svg",
             "name": "Rocky Linux",
             "source": "https://github.com/rocky-linux/rocky-logos/blob/main/icons/hicolor/scalable/apps/fedora-logo-icon.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/romm.svg",
+            "name": "RomM",
+            "source": "https://github.com/zurdi15/romm/blob/master/romm.svg",
             "guidelines": ""
         },
         {
