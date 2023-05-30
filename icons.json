@@ -1237,6 +1237,12 @@
             "guidelines": "https://istio.io/v1.12/about/media-resources/"
         },
         {
+            "path": "./assets/ittools.svg",
+            "name": "IT-Tools",
+            "source": "https://github.com/CorentinTh/it-tools/blob/main/public/safari-pinned-tab.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/ixsystems.svg",
             "name": "iXsystems",
             "source": "https://github.com/truenas/webui/blob/master/src/assets/images/ix-original.svg",
@@ -1301,6 +1307,12 @@
             "name": "JFrog Artifactory",
             "source": "https://jfrog.com/",
             "guidelines": "https://jfrog.com/brand-guidelines/"
+        },
+        {
+            "path": "./assets/jitsi.svg",
+            "name": "Jitsi",
+            "source": "https://github.com/jitsi/handbook/blob/master/static/img/logo.svg",
+            "guidelines": ""
         },
         {
             "path": "./assets/joplin.svg",
@@ -2770,6 +2782,12 @@
             "path": "./assets/ubiquiti.svg",
             "name": "Ubiquiti",
             "source": "https://store.ui.com/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/umami.svg",
+            "name": "Umami",
+            "source": "https://github.com/umami-software/umami/blob/master/assets/logo.svg",
             "guidelines": ""
         },
         {
