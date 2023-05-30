@@ -1081,6 +1081,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/hedgedoc.svg",
+            "name": "HedgeDoc",
+            "source": "https://github.com/hedgedoc/hedgedoc-logo/blob/main/LOGOTYPE/SVG/HedgeDoc-Logo%201.svg",
+            "guidelines": "https://github.com/hedgedoc/hedgedoc-logo/blob/main/USAGE_GUIDELINES.md"
+        },
+        {
             "path": "./assets/helm.svg",
             "name": "Helm",
             "source": "https://helm.sh/",
@@ -1822,6 +1828,12 @@
             "path": "./assets/nginxproxymanager.svg",
             "name": "Nginx Proxy Manager",
             "source": "https://github.com/NginxProxyManager/nginx-proxy-manager/blob/develop/docs/.vuepress/public/logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/nitter.svg",
+            "name": "Nitter",
+            "source": "https://github.com/zedeus/nitter/blob/master/public/safari-pinned-tab.svg",
             "guidelines": ""
         },
         {
