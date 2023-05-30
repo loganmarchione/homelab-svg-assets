@@ -1093,6 +1093,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/homarr.svg",
+            "name": "Homarr",
+            "source": "https://github.com/ajnart/homarr/blob/dev/public/imgs/logo/logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/homeassistant.svg",
             "name": "Home Assistant",
             "source": "https://github.com/home-assistant/assets/blob/master/logo/logo.svg",
