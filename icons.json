@@ -1117,6 +1117,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/homer.svg",
+            "name": "Homer",
+            "source": "https://github.com/bastienwirtz/homer/blob/main/public/assets/icons/logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/hp-black.svg",
             "name": "HP (black)",
             "source": "https://brandcentral.hp.com/us/en/elements/hp-logo.html",
