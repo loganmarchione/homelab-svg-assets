@@ -28,8 +28,9 @@
   - ~~[Autobrr](https://github.com/autobrr/autobrr/issues/834)~~
   - [Baikal](https://github.com/sabre-io/Baikal/issues/1143)
   - ~~[Bazarr](https://github.com/morpheus65535/bazarr/issues/2020)~~
-  - Caddy - Can't find a SVG of this (icons [here](https://github.com/caddyserver/website/tree/master/src/resources/images) have PNG data embedded in them)
+  - ~~Caddy - Can't find a SVG of this (icons [here](https://github.com/caddyserver/website/tree/master/src/resources/images) have PNG data embedded in them)~~
   - ~~[Changedetection.io](https://github.com/dgtlmoon/changedetection.io/issues/1527)~~
+  - [Dashy](https://github.com/Lissy93/dashy/issues/1202)
   - ~~[EmulatorJS](https://github.com/EmulatorJS/EmulatorJS/issues/506)~~ - This is a poor tracing
   - Fedora - Email sent on 2022-12-22
   - Ghost - Can't find a SVG of this
@@ -41,6 +42,7 @@
   - Jellyfin Vue - Can't find a SVG of this
   - LazyLibrarian - Can't find a SVG of this
   - Matomo - Can't find a SVG of this (icons [here](https://matomo.org/trademark/) have PNG data embedded in them)
+  - [Mylar3](https://github.com/mylar3/mylar3/issues/1358)
   - Observium - Can't find a SVG of this
   - ~~[Ombi](https://github.com/Ombi-app/Ombi/issues/4834)~~
   - Postfix - Can't find a SVG of this
