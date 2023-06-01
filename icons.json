@@ -2365,6 +2365,12 @@
             "guidelines": "https://foundation.rust-lang.org/policies/logo-policy-and-media-guide/"
         },
         {
+            "path": "./assets/rust-crab.svg",
+            "name": "Rust (Ferris)",
+            "source": "https://rustacean.net/",
+            "guidelines": "https://rustacean.net/"
+        },
+        {
             "path": "./assets/sabnzbd.svg",
             "name": "SABnzbd",
             "source": "https://github.com/sabnzbd/sabnzbd/blob/develop/icons/logo-arrow.svg",
