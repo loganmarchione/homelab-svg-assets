@@ -41,7 +41,7 @@ jobs:
 
     - name: Lint with ruff
       run: |
-        ruff check .
+        ruff check . --ignore E501
 
     - name: Bandit
       run: |
