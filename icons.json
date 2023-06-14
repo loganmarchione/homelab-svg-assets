@@ -1423,6 +1423,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/lemmy.svg",
+            "name": "Lemmy",
+            "source": "https://github.com/LemmyNet/lemmy-ui/blob/main/src/assets/icons/favicon.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/lenovo.svg",
             "name": "Lenovo",
             "source": "https://en.wikipedia.org/wiki/Lenovo",
