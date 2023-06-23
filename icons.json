@@ -2089,6 +2089,12 @@
             "guidelines": "https://www.hashicorp.com/brand"
         },
         {
+            "path": "./assets/pairdrop.svg",
+            "name": "PairDrop (fork of SnapDrop)",
+            "source": "https://pairdrop.net/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/paperlessng.svg",
             "name": "Paperless-ng",
             "source": "https://github.com/jonaswinkler/paperless-ng/blob/master/src-ui/src/assets/logo.svg",
