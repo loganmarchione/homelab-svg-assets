@@ -7,6 +7,12 @@
             "guidelines": "https://github.com/dotnet/brand"
         },
         {
+            "path": "./assets/activitypub.svg",
+            "name": "ActivityPub",
+            "source": "https://activitypub.rocks/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/adafruit.svg",
             "name": "Adafruit",
             "source": "https://www.adafruit.com/",
