@@ -1381,6 +1381,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/kbin.svg",
+            "name": "Kbin",
+            "source": "https://codeberg.org/Kbin/kbin-core/src/branch/develop/public/kbin_logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/kde.svg",
             "name": "KDE",
             "source": "https://kde.org/stuff/clipart/",
