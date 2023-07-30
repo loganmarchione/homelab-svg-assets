@@ -1,5 +1,6 @@
 import base64
 import json
+import re
 from prettytable import PrettyTable
 from prettytable import MARKDOWN
 
@@ -29,7 +30,11 @@ for item in data["icons"]:
 
     # Markdown-formatted links
     f_img = f"![]({path})"
-    f_source = f"[Source]({source})"
+    # If source begin with "https", then make a link, otherwise use a string
+    if re.match(r'^https', source):
+        f_source = f"[Source]({source})"
+    else:
+        f_source = f"{source}"
     # If guidelines are missing, do not add a Markdown link
     if not guidelines:
         f_guidelines = ""
