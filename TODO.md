@@ -18,6 +18,10 @@
 # Icons
 - Icons to add
   - Joomla
+  - [Libera.chat](https://libera.chat/)
+  - [Palo Alto Networks](https://www.paloaltonetworks.com/company/brand)
+  - [RISC-V](https://riscv.org/about/risc-v-branding-guidelines/)
+  - [X](https://about.twitter.com/en/who-we-are/brand-toolkit)
 
 - Icons that I can't find
   - Adminer - Can't find a SVG of this (this software hasn't had an update since [2021-05-23](https://github.com/vrana/adminer/commit/88647b93e467210f270340e758af6771e2c5638a))
