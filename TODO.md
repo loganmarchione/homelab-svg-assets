@@ -20,7 +20,10 @@
   - Joomla
   - [Libera.chat](https://libera.chat/)
   - [Palo Alto Networks](https://www.paloaltonetworks.com/company/brand)
+  - [Plane](https://github.com/makeplane/plane/blob/develop/apps/app/public/plane-logos/black-horizontal-with-blue-logo.svg)
   - [RISC-V](https://riscv.org/about/risc-v-branding-guidelines/)
+  - [Taiga](https://github.com/kaleidos-ventures/taiga-front/blob/main/app/svg/logo-color.svg)
+  - [Wekan](https://github.com/wekan/wekan/blob/master/public/svg-etc/wekan-logo-512.svg)
   - [X](https://about.twitter.com/en/who-we-are/brand-toolkit)
 
 - Icons that I can't find
