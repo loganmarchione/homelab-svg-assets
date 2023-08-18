@@ -17,13 +17,18 @@
 
 # Icons
 - Icons to add
+  - [Dozzle](https://github.com/amir20/dozzle/blob/master/assets/favicon.svg)
+  - [Huginn](https://github.com/huginn/huginn/blob/master/media/huginn-icon.svg)
   - Joomla
+  - [LazyLibrarian](https://lazylibrarian.gitlab.io/)
   - [Libera.chat](https://libera.chat/)
+  - [Munin](https://github.com/munin-monitoring/munin/blob/master/web/static/img/logo-h.svg)
   - [Palo Alto Networks](https://www.paloaltonetworks.com/company/brand)
   - [Plane](https://github.com/makeplane/plane/blob/develop/apps/app/public/plane-logos/black-horizontal-with-blue-logo.svg)
   - [RISC-V](https://riscv.org/about/risc-v-branding-guidelines/)
   - [Taiga](https://github.com/kaleidos-ventures/taiga-front/blob/main/app/svg/logo-color.svg)
   - [Wekan](https://github.com/wekan/wekan/blob/master/public/svg-etc/wekan-logo-512.svg)
+  - [Wireshark](https://gitlab.com/wireshark/wireshark/-/blob/master/resources/wslogo.svg)
   - [X](https://about.twitter.com/en/who-we-are/brand-toolkit)
 
 - Icons that I can't find
