@@ -17,9 +17,7 @@
 
 # Icons
 - Icons to add
-  - Jisti
   - Joomla
-  - Linkwarden
 
 - Icons that I can't find
   - Adminer - Can't find a SVG of this (this software hasn't had an update since [2021-05-23](https://github.com/vrana/adminer/commit/88647b93e467210f270340e758af6771e2c5638a))
@@ -28,8 +26,9 @@
   - ~~[Autobrr](https://github.com/autobrr/autobrr/issues/834)~~
   - [Baikal](https://github.com/sabre-io/Baikal/issues/1143)
   - ~~[Bazarr](https://github.com/morpheus65535/bazarr/issues/2020)~~
-  - Caddy - Can't find a SVG of this (icons [here](https://github.com/caddyserver/website/tree/master/src/resources/images) have PNG data embedded in them)
+  - ~~Caddy - Can't find a SVG of this (icons [here](https://github.com/caddyserver/website/tree/master/src/resources/images) have PNG data embedded in them)~~
   - ~~[Changedetection.io](https://github.com/dgtlmoon/changedetection.io/issues/1527)~~
+  - [Dashy](https://github.com/Lissy93/dashy/issues/1202)
   - ~~[EmulatorJS](https://github.com/EmulatorJS/EmulatorJS/issues/506)~~ - This is a poor tracing
   - Fedora - Email sent on 2022-12-22
   - Ghost - Can't find a SVG of this
@@ -38,9 +37,9 @@
   - ~~[Handbrake](https://github.com/HandBrake/HandBrake/issues/4749)~~ - No original SVG exists
   - Heroku - Their [brand](https://brand.heroku.com/) page doesn't work
   - ~~[Jackett](https://github.com/Jackett/Jackett/issues/13789)~~
-  - Jellyfin Vue - Can't find a SVG of this
   - LazyLibrarian - Can't find a SVG of this
   - Matomo - Can't find a SVG of this (icons [here](https://matomo.org/trademark/) have PNG data embedded in them)
+  - [Mylar3](https://github.com/mylar3/mylar3/issues/1358)
   - Observium - Can't find a SVG of this
   - ~~[Ombi](https://github.com/Ombi-app/Ombi/issues/4834)~~
   - Postfix - Can't find a SVG of this
@@ -50,6 +49,7 @@
   - ~~[Telegraf](https://github.com/influxdata/telegraf/issues/12327)~~
   - Virtualmin and Webmin - Email sent on 2023-04-21
   - ~~[Watchtower](https://github.com/containrrr/watchtower/issues/1510)~~
+  - [Wizarr](https://github.com/Wizarrrr/wizarr/issues/139)
   - ~~[XCP-ng](https://github.com/xcp-ng/xcp/issues/583)~~
   - [ZeroTier](https://github.com/zerotier/docs/issues/50)
   - Zigbee2MQTT - This SVG is a mess
@@ -62,9 +62,10 @@
   - WikiJS
 
 - Icons that require explicit permission (which I don't have yet)
-  - Anaconda
-  - Cisco
-  - Oracle (this includes Java)
+  - [Anaconda](https://legal.anaconda.com/policies/en/?name=additional-policies-terms#anaconda-trademark-brand-guidelines)
+  - [BigBlueBotton](https://bigbluebutton.org/trademark/)
+  - [Cisco](https://www.cisco.com/c/en/us/about/brand-center/logo-usage-guidelines.html)
+  - [Oracle](https://www.oracle.com/legal/logos.html) (this includes Java)
 
 - Icons that I think I need to add a trademark symbol to
   - Elastic

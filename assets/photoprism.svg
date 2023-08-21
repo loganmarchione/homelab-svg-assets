@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Laag_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:url(#SVGID_1_);}
-	.st1{fill:none;stroke:#1D1D1B;stroke-miterlimit:10;}
-</style>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="12.763" y1="2.003" x2="45.997" y2="35.237" gradientTransform="matrix(1 0 0 -1 -5.38 42.62)">
-	<stop  offset="0" style="stop-color:#FFFFFF"/>
-	<stop  offset="0" style="stop-color:#B8EDFF"/>
-	<stop  offset="1" style="stop-color:#D4B8FF"/>
-</linearGradient>
-<circle class="st0" cx="24" cy="24" r="23.5"/>
-<path class="st1" d="M40.2,31.7l-0.7,4.3 M7.8,31.9l2.6,2.5 M27.5,9.9L10.4,34.4c0,0,0,0,0,0c0,0,0,0,0,0l29.1,1.7c0,0,0,0,0,0
-	c0,0,0,0,0,0L27.5,9.9C27.5,9.9,27.5,9.9,27.5,9.9L27.5,9.9z M24,7.5L7.8,31.9c0,0,0,0,0,0c0,0,0,0,0,0l32.4-0.1c0,0,0,0,0,0
-	c0,0,0,0,0,0L24,7.5C24,7.5,24,7.5,24,7.5C24,7.5,24,7.5,24,7.5L24,7.5z M24,7.5l3.5,2.4"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" data-name="Ebene 1" viewBox="0 0 48 48"><defs><linearGradient id="logo_svg__a" x1="45.04" x2="231.72" y1="231.72" y2="45.04" gradientTransform="translate(-5.38 -5.38)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"/><stop offset="0" stop-color="#b8edff"/><stop offset="1" stop-color="#d4b8ff"/></linearGradient></defs><g transform="translate(-.182 -.182) scale(.18182)"><circle cx="133" cy="133" r="132" fill="url(#logo_svg__a)" style="fill:url(#logo_svg__a)"/><path d="m224.19 176.51-4 24.19M41.91 177.5l14.81 14m95.76-137.65L56.62 191.31a.09.09 0 0 0 .07.15l163.41 9.37a.09.09 0 0 0 .09-.13L152.62 53.87a.1.1 0 0 0-.14-.02zm-19.74-13.29L41.8 177.31a.13.13 0 0 0 .11.19l182.18-.8a.12.12 0 0 0 .1-.19L132.95 40.56a.12.12 0 0 0-.21 0zm.11-.16 19.77 13.32" data-name="Logo Pfad" style="fill:none;stroke:#1d1d1b;stroke-miterlimit:10;stroke-width:6px;shape-rendering:geometricPrecision"/></g></svg>

@@ -7,6 +7,12 @@
             "guidelines": "https://github.com/dotnet/brand"
         },
         {
+            "path": "./assets/activitypub.svg",
+            "name": "ActivityPub",
+            "source": "https://activitypub.rocks/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/adafruit.svg",
             "name": "Adafruit",
             "source": "https://www.adafruit.com/",
@@ -374,14 +380,14 @@
         },
         {
             "path": "./assets/c.svg",
-            "name": "C (custom)",
-            "source": "",
+            "name": "C",
+            "source": "Custom",
             "guidelines": ""
         },
         {
             "path": "./assets/csharp.svg",
-            "name": "C# (custom)",
-            "source": "",
+            "name": "C#",
+            "source": "Custom",
             "guidelines": ""
         },
         {
@@ -394,6 +400,12 @@
             "path": "./assets/cacti.svg",
             "name": "Cacti",
             "source": "https://www.cacti.net/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/caddy.svg",
+            "name": "Caddy",
+            "source": "https://github.com/caddyserver/website/blob/master/src/resources/images/caddy-logo.svg",
             "guidelines": ""
         },
         {
@@ -1075,6 +1087,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/hedgedoc.svg",
+            "name": "HedgeDoc",
+            "source": "https://github.com/hedgedoc/hedgedoc-logo/blob/main/LOGOTYPE/SVG/HedgeDoc-Logo%201.svg",
+            "guidelines": "https://github.com/hedgedoc/hedgedoc-logo/blob/main/USAGE_GUIDELINES.md"
+        },
+        {
             "path": "./assets/helm.svg",
             "name": "Helm",
             "source": "https://helm.sh/",
@@ -1084,6 +1102,12 @@
             "path": "./assets/hetzner.svg",
             "name": "Hetzner",
             "source": "https://www.hetzner.com/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/homarr.svg",
+            "name": "Homarr",
+            "source": "https://github.com/ajnart/homarr/blob/dev/public/imgs/logo/logo.svg",
             "guidelines": ""
         },
         {
@@ -1108,6 +1132,12 @@
             "path": "./assets/homebrew.svg",
             "name": "Homebrew",
             "source": "https://github.com/Homebrew/brew.sh/blob/master/assets/img/homebrew.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/homer.svg",
+            "name": "Homer",
+            "source": "https://github.com/bastienwirtz/homer/blob/main/public/assets/icons/logo.svg",
             "guidelines": ""
         },
         {
@@ -1213,6 +1243,12 @@
             "guidelines": "https://istio.io/v1.12/about/media-resources/"
         },
         {
+            "path": "./assets/ittools.svg",
+            "name": "IT-Tools",
+            "source": "https://github.com/CorentinTh/it-tools/blob/main/public/safari-pinned-tab.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/ixsystems.svg",
             "name": "iXsystems",
             "source": "https://github.com/truenas/webui/blob/master/src/assets/images/ix-original.svg",
@@ -1279,6 +1315,12 @@
             "guidelines": "https://jfrog.com/brand-guidelines/"
         },
         {
+            "path": "./assets/jitsi.svg",
+            "name": "Jitsi",
+            "source": "https://github.com/jitsi/handbook/blob/master/static/img/logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/joplin.svg",
             "name": "Joplin",
             "source": "https://github.com/laurent22/joplin/blob/dev/Assets/JoplinIcon.svg",
@@ -1333,6 +1375,18 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/kavita.svg",
+            "name": "Kavita",
+            "source": "https://github.com/Kareadita/Kavita/blob/develop/Logo/kavita.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/kbin.svg",
+            "name": "Kbin",
+            "source": "https://codeberg.org/Kbin/kbin-core/src/branch/develop/public/kbin_logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/kde.svg",
             "name": "KDE",
             "source": "https://kde.org/stuff/clipart/",
@@ -1378,6 +1432,12 @@
             "path": "./assets/latex-wide.svg",
             "name": "Latex (wide)",
             "source": "https://www.latex-project.org/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/lemmy.svg",
+            "name": "Lemmy",
+            "source": "https://github.com/LemmyNet/lemmy-ui/blob/main/src/assets/icons/favicon.svg",
             "guidelines": ""
         },
         {
@@ -1801,6 +1861,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/nitter.svg",
+            "name": "Nitter",
+            "source": "https://github.com/zedeus/nitter/blob/master/public/safari-pinned-tab.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/nlnetfoundation.svg",
             "name": "NLnet Foundation",
             "source": "https://nlnet.nl/logo/",
@@ -2023,6 +2089,12 @@
             "guidelines": "https://www.hashicorp.com/brand"
         },
         {
+            "path": "./assets/pairdrop.svg",
+            "name": "PairDrop (fork of SnapDrop)",
+            "source": "https://pairdrop.net/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/paperlessng.svg",
             "name": "Paperless-ng",
             "source": "https://github.com/jonaswinkler/paperless-ng/blob/master/src-ui/src/assets/logo.svg",
@@ -2050,6 +2122,12 @@
             "path": "./assets/pfsense-blue.svg",
             "name": "pfSense (blue)",
             "source": "https://en.wikipedia.org/wiki/PfSense",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/photoprism.svg",
+            "name": "PhotoPrism",
+            "source": "https://github.com/photoprism/photoprism/blob/develop/assets/static/img/logo.svg",
             "guidelines": ""
         },
         {
@@ -2122,6 +2200,12 @@
             "path": "./assets/pritunl.svg",
             "name": "Pritunl",
             "source": "https://github.com/pritunl/pritunl/blob/master/www/img/logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/privatebin.svg",
+            "name": "PrivateBin",
+            "source": "https://github.com/PrivateBin/PrivateBin/blob/master/img/logo.svg",
             "guidelines": ""
         },
         {
@@ -2281,6 +2365,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/romm.svg",
+            "name": "RomM",
+            "source": "https://github.com/zurdi15/romm/blob/master/romm.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/roundcube.svg",
             "name": "Roundcube",
             "source": "https://roundcube.net/",
@@ -2297,6 +2387,18 @@
             "name": "Rust",
             "source": "https://foundation.rust-lang.org/policies/logo-policy-and-media-guide/",
             "guidelines": "https://foundation.rust-lang.org/policies/logo-policy-and-media-guide/"
+        },
+        {
+            "path": "./assets/rust-crab.svg",
+            "name": "Rust (Ferris)",
+            "source": "https://rustacean.net/",
+            "guidelines": "https://rustacean.net/"
+        },
+        {
+            "path": "./assets/sabnzbd.svg",
+            "name": "SABnzbd",
+            "source": "https://github.com/sabnzbd/sabnzbd/blob/develop/icons/logo-arrow.svg",
+            "guidelines": ""
         },
         {
             "path": "./assets/safari.svg",
@@ -2437,6 +2539,18 @@
             "guidelines": "https://stackoverflow.com/legal/trademark-guidance"
         },
         {
+            "path": "./assets/staticwebserver-white.svg",
+            "name": "Static Web Server (white)",
+            "source": "https://github.com/static-web-server/static-web-server/blob/master/docs/content/assets/sws_white.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/staticwebserver-black.svg",
+            "name": "Static Web Server (black)",
+            "source": "https://github.com/static-web-server/static-web-server/blob/master/docs/content/assets/sws.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/steam.svg",
             "name": "Steam",
             "source": "https://partner.steamgames.com/doc/marketing/branding",
@@ -2503,6 +2617,12 @@
             "guidelines": "https://design.synology.com/elements/logo"
         },
         {
+            "path": "./assets/synology-diskstationmanager.svg",
+            "name": "Synology DiskStation Manager",
+            "source": "Custom",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/system76.svg",
             "name": "System76",
             "source": "https://github.com/system76/brand/blob/master/System76%20branding/system76-logo_secondary.svg",
@@ -2555,6 +2675,24 @@
             "name": "Terraform",
             "source": "https://www.hashicorp.com/brand",
             "guidelines": "https://www.hashicorp.com/brand"
+        },
+        {
+            "path": "./assets/teslamate.svg",
+            "name": "TeslaMate",
+            "source": "https://github.com/adriankumpf/teslamate/blob/master/website/static/img/logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/thelounge-dark.svg",
+            "name": "The Lounge (dark)",
+            "source": "https://github.com/thelounge/thelounge/blob/master/client/img/logo-transparent-bg.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/thelounge-light.svg",
+            "name": "The Lounge (light)",
+            "source": "https://github.com/thelounge/thelounge/blob/master/client/img/logo-transparent-bg-inverted.svg",
+            "guidelines": ""
         },
         {
             "path": "./assets/tiktok.svg",
@@ -2674,6 +2812,12 @@
             "path": "./assets/ubiquiti.svg",
             "name": "Ubiquiti",
             "source": "https://store.ui.com/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/umami.svg",
+            "name": "Umami",
+            "source": "https://github.com/umami-software/umami/blob/master/assets/logo.svg",
             "guidelines": ""
         },
         {
