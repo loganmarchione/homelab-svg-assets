@@ -25,6 +25,7 @@
   - [Munin](https://github.com/munin-monitoring/munin/blob/master/web/static/img/logo-h.svg)
   - [Palo Alto Networks](https://www.paloaltonetworks.com/company/brand)
   - [Plane](https://github.com/makeplane/plane/blob/develop/apps/app/public/plane-logos/black-horizontal-with-blue-logo.svg)
+  - [PowerShell](https://github.com/PowerShell/PowerShell/blob/master/assets/powershell_128.svg)
   - [RISC-V](https://riscv.org/about/risc-v-branding-guidelines/)
   - [Taiga](https://github.com/kaleidos-ventures/taiga-front/blob/main/app/svg/logo-color.svg)
   - [Wekan](https://github.com/wekan/wekan/blob/master/public/svg-etc/wekan-logo-512.svg)
