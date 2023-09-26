@@ -22,6 +22,7 @@
   - [Heroku](https://devcenter.heroku.com/articles/heroku-brand-guidelines)'
   - [HiFiBerry](https://www.hifiberry.com/)
   - [Huginn](https://github.com/huginn/huginn/blob/master/media/huginn-icon.svg)
+  - [Jellystat](https://github.com/CyferShepard/Jellystat/tree/main/src/pages/images)
   - Joomla
   - [LazyLibrarian](https://lazylibrarian.gitlab.io/)
   - [Libera.chat](https://libera.chat/)
