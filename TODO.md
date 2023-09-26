@@ -17,7 +17,9 @@
 
 # Icons
 - Icons to add
+  - [AdminerEvo](https://github.com/adminerevo/adminerevo/blob/main/docs/assets/logo.svg)
   - [Dozzle](https://github.com/amir20/dozzle/blob/master/assets/favicon.svg)
+  - [Heroku](https://devcenter.heroku.com/articles/heroku-brand-guidelines)
   - [Huginn](https://github.com/huginn/huginn/blob/master/media/huginn-icon.svg)
   - Joomla
   - [LazyLibrarian](https://lazylibrarian.gitlab.io/)
@@ -48,9 +50,7 @@
   - Glances - Can't find a SVG of this
   - ~~[Gotify](https://github.com/gotify/website/issues/67)~~
   - ~~[Handbrake](https://github.com/HandBrake/HandBrake/issues/4749)~~ - No original SVG exists
-  - Heroku - Their [brand](https://brand.heroku.com/) page doesn't work
   - ~~[Jackett](https://github.com/Jackett/Jackett/issues/13789)~~
-  - LazyLibrarian - Can't find a SVG of this
   - Matomo - Can't find a SVG of this (icons [here](https://matomo.org/trademark/) have PNG data embedded in them)
   - [Mylar3](https://github.com/mylar3/mylar3/issues/1358)
   - Observium - Can't find a SVG of this
