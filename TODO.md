@@ -26,6 +26,7 @@
   - [LazyLibrarian](https://lazylibrarian.gitlab.io/)
   - [Libera.chat](https://libera.chat/)
   - [Munin](https://github.com/munin-monitoring/munin/blob/master/web/static/img/logo-h.svg)
+  - [NixOS](https://github.com/NixOS/nixos-artwork/tree/master/logo)
   - [Palo Alto Networks](https://www.paloaltonetworks.com/company/brand)
   - [Plane](https://github.com/makeplane/plane/blob/develop/apps/app/public/plane-logos/black-horizontal-with-blue-logo.svg)
   - [PowerShell](https://github.com/PowerShell/PowerShell/blob/master/assets/powershell_128.svg)
