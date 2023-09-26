@@ -19,7 +19,8 @@
 - Icons to add
   - [AdminerEvo](https://github.com/adminerevo/adminerevo/blob/main/docs/assets/logo.svg)
   - [Dozzle](https://github.com/amir20/dozzle/blob/master/assets/favicon.svg)
-  - [Heroku](https://devcenter.heroku.com/articles/heroku-brand-guidelines)
+  - [Heroku](https://devcenter.heroku.com/articles/heroku-brand-guidelines)'
+  - [HiFiBerry](https://www.hifiberry.com/)
   - [Huginn](https://github.com/huginn/huginn/blob/master/media/huginn-icon.svg)
   - Joomla
   - [LazyLibrarian](https://lazylibrarian.gitlab.io/)
