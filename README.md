@@ -160,6 +160,7 @@ It would be remiss of me if I did not mention other great icons sets
 - [Font Awesome](https://fontawesome.com/icons) - Mix of generic and brand icons
 - [Devicon](https://devicon.dev/) - Icons representing programming languages, designing & development tools
 - [Dashboard Icons](https://github.com/walkxcode/dashboard-icons/tree/main) - Mix of SVG and PNG dashboard icons
+- [Aegis Icons](https://github.com/aegis-icons/aegis-icons)
 
 # TODO
 
