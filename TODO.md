@@ -17,25 +17,7 @@
 
 # Icons
 - Icons to add
-  - [AdminerEvo](https://github.com/adminerevo/adminerevo/blob/main/docs/assets/logo.svg)
-  - [Dozzle](https://github.com/amir20/dozzle/blob/master/assets/favicon.svg)
-  - [Heroku](https://devcenter.heroku.com/articles/heroku-brand-guidelines)'
-  - [HiFiBerry](https://www.hifiberry.com/)
-  - [Huginn](https://github.com/huginn/huginn/blob/master/media/huginn-icon.svg)
-  - [Jellystat](https://github.com/CyferShepard/Jellystat/tree/main/src/pages/images)
   - Joomla
-  - [LazyLibrarian](https://lazylibrarian.gitlab.io/)
-  - [Libera.chat](https://libera.chat/)
-  - [Munin](https://github.com/munin-monitoring/munin/blob/master/web/static/img/logo-h.svg)
-  - [NixOS](https://github.com/NixOS/nixos-artwork/tree/master/logo)
-  - [Palo Alto Networks](https://www.paloaltonetworks.com/company/brand)
-  - [Plane](https://github.com/makeplane/plane/blob/develop/apps/app/public/plane-logos/black-horizontal-with-blue-logo.svg)
-  - [PowerShell](https://github.com/PowerShell/PowerShell/blob/master/assets/powershell_128.svg)
-  - [RISC-V](https://riscv.org/about/risc-v-branding-guidelines/)
-  - [Taiga](https://github.com/kaleidos-ventures/taiga-front/blob/main/app/svg/logo-color.svg)
-  - [Wekan](https://github.com/wekan/wekan/blob/master/public/svg-etc/wekan-logo-512.svg)
-  - [Wireshark](https://gitlab.com/wireshark/wireshark/-/blob/master/resources/wslogo.svg)
-  - [X](https://about.twitter.com/en/who-we-are/brand-toolkit)
 
 - Icons that I can't find
   - Adminer - Can't find a SVG of this (this software hasn't had an update since [2021-05-23](https://github.com/vrana/adminer/commit/88647b93e467210f270340e758af6771e2c5638a))
@@ -54,6 +36,8 @@
   - ~~[Gotify](https://github.com/gotify/website/issues/67)~~
   - ~~[Handbrake](https://github.com/HandBrake/HandBrake/issues/4749)~~ - No original SVG exists
   - ~~[Jackett](https://github.com/Jackett/Jackett/issues/13789)~~
+  - Jellystat - Can't find a SVG of this (icons [here](https://github.com/CyferShepard/Jellystat/tree/main/src/pages/images) have PNG data embedded in them)
+  - LazyLibrarian - Can't find a SVG of this (icons [here](https://lazylibrarian.gitlab.io/) have PNG data embedded in them)
   - Matomo - Can't find a SVG of this (icons [here](https://matomo.org/trademark/) have PNG data embedded in them)
   - [Mylar3](https://github.com/mylar3/mylar3/issues/1358)
   - Observium - Can't find a SVG of this
