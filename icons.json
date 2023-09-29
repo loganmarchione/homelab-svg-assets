@@ -25,6 +25,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/adminerevo.svg",
+            "name": "AdminerEvo",
+            "source": "https://github.com/adminerevo/adminerevo/blob/main/docs/assets/logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/almalinux.svg",
             "name": "AlmaLinux OS",
             "source": "https://almalinux.org/",
@@ -619,6 +625,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/dozzle.svg",
+            "name": "Dozzle",
+            "source": "https://github.com/amir20/dozzle/blob/master/assets/favicon.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/dragonflybsd.svg",
             "name": "DragonFlyBSD",
             "source": "https://www.dragonflybsd.org/images/",
@@ -1099,6 +1111,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/heroku.svg",
+            "name": "Heroku",
+            "source": "https://devcenter.heroku.com/articles/heroku-brand-guidelines",
+            "guidelines": "https://devcenter.heroku.com/articles/heroku-brand-guidelines"
+        },
+        {
             "path": "./assets/hetzner.svg",
             "name": "Hetzner",
             "source": "https://www.hetzner.com/",
@@ -1157,6 +1175,12 @@
             "name": "HTML5",
             "source": "https://www.w3.org/html/logo/",
             "guidelines": "https://www.w3.org/html/logo/"
+        },
+        {
+            "path": "./assets/huginn.svg",
+            "name": "Huginn",
+            "source": "https://github.com/huginn/huginn/blob/master/media/huginn-icon.svg",
+            "guidelines": ""
         },
         {
             "path": "./assets/hugo.svg",
@@ -1453,6 +1477,12 @@
             "guidelines": "https://letsencrypt.org/trademarks/"
         },
         {
+            "path": "./assets/liberadotchat.svg",
+            "name": "Libera.chat",
+            "source": "https://libera.chat/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/liberapay-black.svg",
             "name": "Liberapay (black)",
             "source": "https://en.liberapay.com/about/logos",
@@ -1689,7 +1719,7 @@
         {
             "path": "./assets/microsoftpowershell.svg",
             "name": "Microsoft PowerShell",
-            "source": "https://gist.github.com/Xainey/d5bde7d01dcbac51ac951810e94313aa",
+            "source": "https://github.com/PowerShell/PowerShell/blob/master/assets/powershell_128.svg",
             "guidelines": "https://learn.microsoft.com/en-us/powershell/scripting/community/digital-art"
         },
         {
@@ -1801,6 +1831,12 @@
             "guidelines": "https://mullvad.net/en/press/"
         },
         {
+            "path": "./assets/munin.svg",
+            "name": "Munin",
+            "source": "https://github.com/munin-monitoring/munin/blob/master/web/static/img/logo-h.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/mysql.svg",
             "name": "MySQL (Sakila)",
             "source": "https://www.mysql.com/about/legal/logos.html",
@@ -1865,6 +1901,12 @@
             "name": "Nitter",
             "source": "https://github.com/zedeus/nitter/blob/master/public/safari-pinned-tab.svg",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/nixos.svg",
+            "name": "NixOS",
+            "source": "https://github.com/NixOS/nixos-artwork/blob/master/logo/nix-snowflake.svg",
+            "guidelines": "https://github.com/NixOS/nixos-artwork"
         },
         {
             "path": "./assets/nlnetfoundation.svg",
@@ -2095,6 +2137,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/paloaltonetworks.svg",
+            "name": "Palo Alto Networks",
+            "source": "https://www.paloaltonetworks.com/company/brand",
+            "guidelines": "https://www.paloaltonetworks.com/company/brand"
+        },
+        {
             "path": "./assets/paperlessng.svg",
             "name": "Paperless-ng",
             "source": "https://github.com/jonaswinkler/paperless-ng/blob/master/src-ui/src/assets/logo.svg",
@@ -2152,6 +2200,12 @@
             "path": "./assets/pikvm.svg",
             "name": "PiKVM",
             "source": "https://pikvm.org/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/plane.svg",
+            "name": "Plane",
+            "source": "https://github.com/makeplane/plane/blob/develop/web/public/plane-logos/black-horizontal-with-blue-logo.svg",
             "guidelines": ""
         },
         {
@@ -2359,6 +2413,12 @@
             "guidelines": "https://redis.com/brand-guidelines/"
         },
         {
+            "path": "./assets/riscv.svg",
+            "name": "RISC-V",
+            "source": "https://riscv.org/about/risc-v-branding-guidelines/",
+            "guidelines": "https://riscv.org/about/risc-v-branding-guidelines/"
+        },
+        {
             "path": "./assets/rockylinux.svg",
             "name": "Rocky Linux",
             "source": "https://github.com/rocky-linux/rocky-logos/blob/main/icons/hicolor/scalable/apps/fedora-logo-icon.svg",
@@ -2539,6 +2599,12 @@
             "guidelines": "https://stackoverflow.com/legal/trademark-guidance"
         },
         {
+            "path": "./assets/stash.svg",
+            "name": "Stash",
+            "source": "https://github.com/stashapp/Stash-Docs/blob/main/assets/logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/staticwebserver-white.svg",
             "name": "Static Web Server (white)",
             "source": "https://github.com/static-web-server/static-web-server/blob/master/docs/content/assets/sws_white.svg",
@@ -2566,6 +2632,12 @@
             "path": "./assets/steamdb.svg",
             "name": "SteamDB",
             "source": "https://steamdb.info/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/stirlingpdf.svg",
+            "name": "Stirling PDF",
+            "source": "https://github.com/Frooodle/Stirling-PDF/blob/main/docs/stirling-transparent.svg",
             "guidelines": ""
         },
         {
@@ -2633,6 +2705,12 @@
             "name": "systemd",
             "source": "https://brand.systemd.io/",
             "guidelines": "https://brand.systemd.io/"
+        },
+        {
+            "path": "./assets/taiga.svg",
+            "name": "Taiga",
+            "source": "https://github.com/kaleidos-ventures/taiga-front/blob/main/app/svg/logo-color.svg",
+            "guidelines": ""
         },
         {
             "path": "./assets/tailscale.svg",
@@ -2947,6 +3025,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/wekan.svg",
+            "name": "Wekan",
+            "source": "https://github.com/wekan/wekan/blob/main/public/svg-etc/wekan-logo-512.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/whatsapp.svg",
             "name": "WhatsApp",
             "source": "https://about.meta.com/brand/resources/whatsapp/whatsapp-brand/",
@@ -3011,6 +3095,18 @@
             "name": "WordPress",
             "source": "https://wordpress.org/about/logos/",
             "guidelines": "https://wordpress.org/about/logos/"
+        },
+        {
+            "path": "./assets/x-black.svg",
+            "name": "X (black)",
+            "source": "https://about.twitter.com/en/who-we-are/brand-toolkit",
+            "guidelines": "https://about.twitter.com/en/who-we-are/brand-toolkit"
+        },
+        {
+            "path": "./assets/x-white.svg",
+            "name": "X (white)",
+            "source": "https://about.twitter.com/en/who-we-are/brand-toolkit",
+            "guidelines": "https://about.twitter.com/en/who-we-are/brand-toolkit"
         },
         {
             "path": "./assets/xcpng.svg",
