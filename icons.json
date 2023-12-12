@@ -2509,14 +2509,14 @@
             "guidelines": ""
         },
         {
-            "path": "./assets/semver-black.svg",
-            "name": "SemVer (black)",
+            "path": "./assets/semver-dark.svg",
+            "name": "SemVer (dark)",
             "source": "https://github.com/semver/semver.org/blob/gh-pages/assets/1000x600(light).svg",
             "guidelines": ""
         },
         {
-            "path": "./assets/semver-white.svg",
-            "name": "SemVer (white)",
+            "path": "./assets/semver-light.svg",
+            "name": "SemVer (light)",
             "source": "https://github.com/semver/semver.org/blob/gh-pages/assets/1000x600(dark).svg",
             "guidelines": ""
         },
