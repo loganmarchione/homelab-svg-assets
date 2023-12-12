@@ -1051,6 +1051,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/grapheneos.svg",
+            "name": "GrapheneOS",
+            "source": "https://github.com/GrapheneOS/branding-extra/blob/main/simple.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/grav.svg",
             "name": "Grav",
             "source": "https://getgrav.org/media",
@@ -2231,6 +2237,12 @@
             "name": "Plex (white)",
             "source": "https://brand.plex.tv",
             "guidelines": "https://brand.plex.tv"
+        },
+        {
+            "path": "./assets/podcastindex.svg",
+            "name": "Podcast Index",
+            "source": "https://podcastindex.org/",
+            "guidelines": ""
         },
         {
             "path": "./assets/podman.svg",
