@@ -193,6 +193,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/arc.svg",
+            "name": "Arc",
+            "source": "https://arc.net/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/archlinux.svg",
             "name": "Arch Linux",
             "source": "https://archlinux.org/art/",
@@ -2563,10 +2569,16 @@
             "guidelines": ""
         },
         {
-            "path": "./assets/sourcehut.svg",
-            "name": "sourcehut",
-            "source": "https://sourcehut.org/",
-            "guidelines": ""
+            "path": "./assets/sourcehut-black.svg",
+            "name": "sourcehut (black)",
+            "source": "https://sourcehut.org/logo/",
+            "guidelines": "https://sourcehut.org/logo/"
+        },
+        {
+            "path": "./assets/sourcehut-white.svg",
+            "name": "sourcehut (white)",
+            "source": "https://sourcehut.org/logo/",
+            "guidelines": "https://sourcehut.org/logo/"
         },
         {
             "path": "./assets/splunk.svg",
