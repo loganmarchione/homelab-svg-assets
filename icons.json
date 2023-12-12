@@ -1821,7 +1821,7 @@
         {
             "path": "./assets/mozillathunderbird.svg",
             "name": "Mozilla Thunderbird",
-            "source": "https://github.com/thundernest/thunderbird-website/blob/master/media/svg/logo.svg",
+            "source": "https://design.thunderbird.net/resources/logo",
             "guidelines": ""
         },
         {
