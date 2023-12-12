@@ -871,6 +871,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/framework.svg",
+            "name": "Framework",
+            "source": "https://frame.work/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/freebsd.svg",
             "name": "FreeBSD",
             "source": "https://freebsdfoundation.org/get-involved/brand-assets/",
