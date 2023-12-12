@@ -3091,6 +3091,12 @@
             "guidelines": "https://www.wireguard.com/trademark-policy/"
         },
         {
+            "path": "./assets/wizarr.svg",
+            "name": "Wizarr",
+            "source": "https://github.com/wizarrrr/wizarr/blob/master/apps/wizarr-frontend/src/assets/img/wizarr-logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/woodpeckerci.svg",
             "name": "Woodpecker CI",
             "source": "https://github.com/woodpecker-ci/woodpecker/blob/master/docs/static/img/logo.svg",
