@@ -2509,6 +2509,18 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/semver-black.svg",
+            "name": "SemVer (black)",
+            "source": "https://github.com/semver/semver.org/blob/gh-pages/assets/1000x600(light).svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/semver-white.svg",
+            "name": "SemVer (white)",
+            "source": "https://github.com/semver/semver.org/blob/gh-pages/assets/1000x600(dark).svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/serverfault.svg",
             "name": "Server Fault",
             "source": "https://serverfault.com/",
@@ -2957,6 +2969,18 @@
             "name": "Vercel (white)",
             "source": "https://vercel.com/design/brands",
             "guidelines": "https://vercel.com/design/brands#usage"
+        },
+        {
+            "path": "./assets/victoriametrics-black.svg",
+            "name": "VictoriaMetrics (black)",
+            "source": "https://docs.victoriametrics.com/#victoriametrics-logo",
+            "guidelines": "https://docs.victoriametrics.com/#victoriametrics-logo"
+        },
+        {
+            "path": "./assets/victoriametrics-white.svg",
+            "name": "VictoriaMetrics (white)",
+            "source": "https://docs.victoriametrics.com/#victoriametrics-logo",
+            "guidelines": "https://docs.victoriametrics.com/#victoriametrics-logo"
         },
         {
             "path": "./assets/vim.svg",
