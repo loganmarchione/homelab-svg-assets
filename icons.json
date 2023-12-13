@@ -1879,8 +1879,14 @@
             "guidelines": ""
         },
         {
-            "path": "./assets/netlify.svg",
-            "name": "Netlify",
+            "path": "./assets/netlify-dark.svg",
+            "name": "Netlify (dark)",
+            "source": "https://www.netlify.com/press",
+            "guidelines": "https://www.netlify.com/press"
+        },
+        {
+            "path": "./assets/netlify-light.svg",
+            "name": "Netlify (light)",
             "source": "https://www.netlify.com/press",
             "guidelines": "https://www.netlify.com/press"
         },
