@@ -17,9 +17,7 @@
 
 # Icons
 - Icons to add
-  - Framework (the laptop brand)
   - Joomla
-  - OpenTofu
 
 - Icons that I can't find
   - Adminer - Can't find a SVG of this (this software hasn't had an update since [2021-05-23](https://github.com/vrana/adminer/commit/88647b93e467210f270340e758af6771e2c5638a))
@@ -46,17 +44,18 @@
   - ~~[Ombi](https://github.com/Ombi-app/Ombi/issues/4834)~~
   - Postfix - Can't find a SVG of this
   - iRedMail - Can't find a SVG of this
-  - [SemVer](https://github.com/semver/semver.org/issues/399)
+  - ~~[SemVer](https://github.com/semver/semver.org/issues/399)~~
   - Tdarr - Can't find a SVG of this
   - ~~[Telegraf](https://github.com/influxdata/telegraf/issues/12327)~~
   - Virtualmin and Webmin - Email sent on 2023-04-21
   - ~~[Watchtower](https://github.com/containrrr/watchtower/issues/1510)~~
-  - [Wizarr](https://github.com/Wizarrrr/wizarr/issues/139)
+  - ~~[Wizarr](https://github.com/Wizarrrr/wizarr/issues/139)~~
   - ~~[XCP-ng](https://github.com/xcp-ng/xcp/issues/583)~~
   - [ZeroTier](https://github.com/zerotier/docs/issues/50)
   - Zigbee2MQTT - This SVG is a mess
 
 - Icons that don't touch the edges (possibly need to be replaced?)
+  - Arc
   - Audacity
   - CyberChef
   - LXC
