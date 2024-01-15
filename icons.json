@@ -631,6 +631,12 @@
             "guidelines": "https://www.docker.com/legal/trademark-guidelines/"
         },
         {
+            "path": "./assets/dockge.svg",
+            "name": "Dockge",
+            "source": "https://github.com/louislam/dockge/blob/master/frontend/public/icon.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/dokuwiki.svg",
             "name": "DokuWiki",
             "source": "https://www.dokuwiki.org/logo",
