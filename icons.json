@@ -1957,6 +1957,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/nlnetlabs.svg",
+            "name": "NLnet Labs",
+            "source": "https://www.nlnetlabs.nl/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/nodejs.svg",
             "name": "Node.js",
             "source": "https://en.wikipedia.org/wiki/Node.js",
@@ -2950,6 +2956,12 @@
             "path": "./assets/umami.svg",
             "name": "Umami",
             "source": "https://github.com/umami-software/umami/blob/master/assets/logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/unbound.svg",
+            "name": "Unbound",
+            "source": "https://www.nlnetlabs.nl/projects/unbound/about/",
             "guidelines": ""
         },
         {
