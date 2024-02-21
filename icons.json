@@ -541,6 +541,12 @@
             "guidelines": "https://cpanel.net/company/cpanel-brand-guide/"
         },
         {
+            "path": "./assets/craftycontroller.svg",
+            "name": "Crafty Controller",
+            "source": "https://gitlab.com/crafty-controller/crafty-4/-/blob/master/app/frontend/static/assets/images/crafty-logo-square.svg?ref_type=heads",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/crowdsec.svg",
             "name": "CrowdSec",
             "source": "https://www.crowdsec.net/",
