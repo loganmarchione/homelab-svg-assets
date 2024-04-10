@@ -42,6 +42,7 @@
   - [Mylar3](https://github.com/mylar3/mylar3/issues/1358)
   - Observium - Can't find a SVG of this
   - ~~[Ombi](https://github.com/Ombi-app/Ombi/issues/4834)~~
+  - ~~[Planka](https://github.com/plankanban/planka/issues/605)~~
   - Postfix - Can't find a SVG of this
   - iRedMail - Can't find a SVG of this
   - ~~[SemVer](https://github.com/semver/semver.org/issues/399)~~

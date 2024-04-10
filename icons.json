@@ -541,6 +541,12 @@
             "guidelines": "https://cpanel.net/company/cpanel-brand-guide/"
         },
         {
+            "path": "./assets/craftycontroller.svg",
+            "name": "Crafty Controller",
+            "source": "https://gitlab.com/crafty-controller/crafty-4/-/blob/master/app/frontend/static/assets/images/crafty-logo-square.svg?ref_type=heads",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/crowdsec.svg",
             "name": "CrowdSec",
             "source": "https://www.crowdsec.net/",
@@ -2263,6 +2269,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/planka.svg",
+            "name": "Planka",
+            "source": "https://github.com/loganmarchione/homelab-svg-assets/pull/24",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/plausible.svg",
             "name": "Plausible",
             "source": "https://github.com/plausible/docs/blob/master/static/img/logo.svg",
@@ -3269,6 +3281,12 @@
             "name": "Zigbee",
             "source": "https://zigbeealliance.org/wp-content/uploads/2019/11/Zigbee-Alliance-Trademark-and-Logo-Policy.pdf",
             "guidelines": "https://zigbeealliance.org/wp-content/uploads/2019/11/Zigbee-Alliance-Trademark-and-Logo-Policy.pdf"
+        },
+        {
+            "path": "./assets/zoneminder.svg",
+            "name": "ZoneMinder",
+            "source": "https://github.com/ZoneMinder/zoneminder.github.io/blob/master/images/SVGs/Logo.svg",
+            "guidelines": ""
         }
     ]
 }
