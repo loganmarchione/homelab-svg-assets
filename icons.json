@@ -2611,6 +2611,12 @@
             "guidelines": "https://slack.com/media-kit"
         },
         {
+            "path": "./assets/slskd.svg",
+            "name": "slskd",
+            "source": "https://github.com/slskd/slskd/blob/master/etc/icon.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/smallstep.svg",
             "name": "Smallstep",
             "source": "https://smallstep.com/docs",
