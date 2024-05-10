@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="129px"
+   height="129px"
+   viewBox="0 0 129 129"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="guilded.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.4564172"
+     inkscape:cx="64.513709"
+     inkscape:cy="64.513709"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Logomark-/-Guilded-Wordmark-Color" />
+  <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+  <title
+     id="title1">Logomark / Guilded-Wordmark-Color</title>
+  <desc
+     id="desc1">Created with Sketch.</desc>
+  <g
+     id="Logomark-/-Guilded-Wordmark-Color"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd">
+    <rect
+       id="Rectangle"
+       fill="#F5C400"
+       x="0"
+       y="0"
+       width="129"
+       height="129" />
+    <path
+       d="m 44.390177,47.26415 c 0,0 0.06,8.539473 4.44478,17.371358 4.50478,8.501435 10.71595,13.962227 15.83993,16.137511 5.29438,-2.47483 10.40876,-6.770717 13.19994,-11.399435 h -14.53433 c -3.76079,-3.116717 -6.71997,-8.287472 -7.39917,-14.26415 h 42.6382 c -2.10239,9.609282 -6.56397,18.348452 -10.81434,23.913848 C 81.865727,86.73992 73.866337,92.62928 64.706087,96 h -0.1344 C 49.278957,89.90683 41.051797,80.309433 35.623017,69.480565 32.140637,62.541056 28.499847,49.941057 28.499847,33 h 72.000003 c 0.0116,4.77094 -0.30913,9.537002 -0.960323,14.26415 z"
+       id="Path"
+       fill="#111820"
+       fill-rule="nonzero" />
+  </g>
+</svg>
