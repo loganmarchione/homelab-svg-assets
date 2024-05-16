@@ -889,6 +889,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/fortinet.svg",
+            "name": "Fortinet",
+            "source": "https://www.fortinet.com/corporate/about-us/newsroom/press-kit",
+            "guidelines": "https://www.fortinet.com/corporate/about-us/newsroom/press-kit"
+        },
+        {
             "path": "./assets/fossil.svg",
             "name": "Fossil",
             "source": "https://en.wikipedia.org/wiki/Fossil_(software)",
@@ -1109,6 +1115,12 @@
             "name": "Grocy",
             "source": "https://github.com/grocy/grocy/blob/master/public/img/grocy_logo.svg",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/guilded.svg",
+            "name": "Guilded",
+            "source": "https://www.guilded.gg/brand",
+            "guidelines": "https://www.guilded.gg/brand"
         },
         {
             "path": "./assets/harbor.svg",
