@@ -1,0 +1,21 @@
+name: Icon removal
+description: Request an icon be removed
+title: 'Removal: <name>'
+
+body:
+  - type: input
+    attributes:
+      label: Name
+      placeholder: 'Example: Oracle'
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Reason for Removal
+      description: |
+        - If the brand no longer exists, include a link supporting that claim.
+        - If the brand should be removed for another reason, explain why.
+      placeholder: 'Example: Oracle does not allow the use of their icons without explicit approval'
+    validations:
+      required: true
