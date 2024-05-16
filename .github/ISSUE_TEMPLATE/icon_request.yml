@@ -1,6 +1,6 @@
 name: Icon request
 description: Request a new icon
-title: 'Request: <brand-name>'
+title: 'Request: <name>'
 
 body:
   - type: markdown
