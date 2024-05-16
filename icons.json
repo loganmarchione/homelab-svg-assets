@@ -109,6 +109,12 @@
             "guidelines": "https://www.ansible.com/logos"
         },
         {
+            "path": "./assets/antennas.svg",
+            "name": "Antennas",
+            "source": "https://github.com/jfarseneau/antennas/blob/main/public/images/Antennas-Logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/apachecassandra.svg",
             "name": "Apache Cassandra",
             "source": "https://en.wikipedia.org/wiki/Apache_Cassandra",
