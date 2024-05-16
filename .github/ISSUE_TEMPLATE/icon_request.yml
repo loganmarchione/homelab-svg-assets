@@ -43,6 +43,5 @@ body:
       description: |
         Is there anything else to know about the icon? For example:
         - Are there multiple options for the logo and/or color?
-        - Is the icon released under a license?
         - Does the icon's mascot have an official name?
       placeholder: 'Example: The name of the GitHub logo is "Invertocat"...'
