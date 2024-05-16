@@ -23,7 +23,7 @@ body:
     attributes:
       label: Official SVG file for icon
       description: |
-        Media kits, brand guidelines, SVG files, etc. You can set this to "None" if you are unable to find any resources.
+        Media kits, brand guidelines, SVG files, etc. Please only submit SVG files, not PNG files (I'm not tracing them).
       placeholder: 'Example: https://github.com/logos'
     validations:
       required: true
