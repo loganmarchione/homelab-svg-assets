@@ -1231,6 +1231,12 @@
             "guidelines": "https://www.w3.org/html/logo/"
         },
         {
+            "path": "./assets/huggingface.svg",
+            "name": "Hugging Face",
+            "source": "https://huggingface.co/brand",
+            "guidelines": "https://huggingface.co/brand"
+        },
+        {
             "path": "./assets/huginn.svg",
             "name": "Huginn",
             "source": "https://github.com/huginn/huginn/blob/master/media/huginn-icon.svg",
