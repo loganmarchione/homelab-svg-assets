@@ -1,0 +1,38 @@
+name: Icon update
+description: Request an icon be updated
+title: 'Update: <name>'
+
+body:
+  - type: input
+    attributes:
+      label: Name
+      placeholder: 'Example: GitHub (Invertocat)'
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Website
+      description: |
+        Add a link to a relevant website.
+      placeholder: 'Example: https://github.com'
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Official SVG file for icon
+      description: |
+        Media kits, brand guidelines, SVG files, etc. You can set this to "None" if you are unable to find any resources.
+      placeholder: 'Example: https://github.com/logos'
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Additional Comments
+      description: |
+        Is there anything else to know about the icon? For example:
+        - Are there multiple options for the logo and/or color?
+        - Does the icon's mascot have an official name?
+      placeholder: 'Example: The name of the GitHub logo is "Invertocat"...'
