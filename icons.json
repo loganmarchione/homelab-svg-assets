@@ -3145,6 +3145,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/westerndigital.svg",
+            "name": "Western Digital",
+            "source": "https://www.westerndigital.com",
+            "guidelines": "https://www.westerndigital.com/legal/trademarks"
+        },
+        {
             "path": "./assets/whatsapp.svg",
             "name": "WhatsApp",
             "source": "https://about.meta.com/brand/resources/whatsapp/whatsapp-brand/",
