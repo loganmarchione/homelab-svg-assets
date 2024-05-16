@@ -2575,6 +2575,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/seagate.svg",
+            "name": "Seagate",
+            "source": "https://branding.seagate.com/",
+            "guidelines": "https://branding.seagate.com/"
+        },
+        {
             "path": "./assets/searx.svg",
             "name": "Searx",
             "source": "https://github.com/searx/searx/blob/master/searx/static/themes/simple/img/searx_logo.svg",
