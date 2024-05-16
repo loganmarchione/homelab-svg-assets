@@ -3,6 +3,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Licenses](#licenses)
+- [Adding new icons](#adding-new-icons)
 - [Updating of icons](#updating-of-icons)
 - [Removal of icons](#removal-of-icons)
 
