@@ -2983,6 +2983,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/tvheadend.svg",
+            "name": "Tvheadend",
+            "source": "https://worldvectorlogo.com/logo/tvheadend",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/twitch.svg",
             "name": "Twitch",
             "source": "https://brand.twitch.tv/",
