@@ -2137,6 +2137,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/opentogethertube.svg",
+            "name": "OpenTogetherTube",
+            "source": "https://github.com/dyc3/opentogethertube/blob/master/client/src/assets/logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/openvpn.svg",
             "name": "OpenVPN",
             "source": "https://openvpn.net/",
