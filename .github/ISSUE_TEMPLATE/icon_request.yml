@@ -1,0 +1,47 @@
+name: Icon request
+description: Request a new icon
+title: 'Request: <name>'
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Only homelab-related icons will be added (e.g., Burger King will not be added). In addition, the following icons will not be added:
+
+        - Government organizations 
+        - Flags and banners
+        - Universities or educational institutions
+
+  - type: input
+    attributes:
+      label: Name
+      placeholder: 'Example: GitHub (Invertocat)'
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Website
+      description: |
+        Add a link to a relevant website.
+      placeholder: 'Example: https://github.com'
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Official SVG file for icon
+      description: |
+        Media kits, brand guidelines, SVG files, etc. Please only submit SVG files, not PNG files (I'm not tracing them).
+      placeholder: 'Example: https://github.com/logos'
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Additional Comments
+      description: |
+        Is there anything else to know about the icon? For example:
+        - Are there multiple options for the logo and/or color?
+        - Does the icon's mascot have an official name?
+      placeholder: 'Example: The name of the GitHub logo is "Invertocat"...'

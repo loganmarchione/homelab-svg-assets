@@ -109,6 +109,12 @@
             "guidelines": "https://www.ansible.com/logos"
         },
         {
+            "path": "./assets/antennas.svg",
+            "name": "Antennas",
+            "source": "https://github.com/jfarseneau/antennas/blob/main/public/images/Antennas-Logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/apachecassandra.svg",
             "name": "Apache Cassandra",
             "source": "https://en.wikipedia.org/wiki/Apache_Cassandra",
@@ -889,6 +895,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/fortinet.svg",
+            "name": "Fortinet",
+            "source": "https://www.fortinet.com/corporate/about-us/newsroom/press-kit",
+            "guidelines": "https://www.fortinet.com/corporate/about-us/newsroom/press-kit"
+        },
+        {
             "path": "./assets/fossil.svg",
             "name": "Fossil",
             "source": "https://en.wikipedia.org/wiki/Fossil_(software)",
@@ -1111,6 +1123,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/guilded.svg",
+            "name": "Guilded",
+            "source": "https://www.guilded.gg/brand",
+            "guidelines": "https://www.guilded.gg/brand"
+        },
+        {
             "path": "./assets/harbor.svg",
             "name": "Harbor",
             "source": "https://cncf-branding.netlify.app/projects/harbor/",
@@ -1217,6 +1235,12 @@
             "name": "HTML5",
             "source": "https://www.w3.org/html/logo/",
             "guidelines": "https://www.w3.org/html/logo/"
+        },
+        {
+            "path": "./assets/huggingface.svg",
+            "name": "Hugging Face",
+            "source": "https://huggingface.co/brand",
+            "guidelines": "https://huggingface.co/brand"
         },
         {
             "path": "./assets/huginn.svg",
@@ -1359,7 +1383,7 @@
         {
             "path": "./assets/jellyseerr.svg",
             "name": "Jellyseerr",
-            "source": "https://github.com/Fallenbagel/jellyseerr/blob/develop/public/logo_full.svg",
+            "source": "https://github.com/Fallenbagel/jellyseerr/blob/develop/public/os_icon.svg",
             "guidelines": ""
         },
         {
@@ -2113,6 +2137,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/opentogethertube.svg",
+            "name": "OpenTogetherTube",
+            "source": "https://github.com/dyc3/opentogethertube/blob/master/client/src/assets/logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/openvpn.svg",
             "name": "OpenVPN",
             "source": "https://openvpn.net/",
@@ -2563,6 +2593,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/seagate.svg",
+            "name": "Seagate",
+            "source": "https://branding.seagate.com/",
+            "guidelines": "https://branding.seagate.com/"
+        },
+        {
             "path": "./assets/searx.svg",
             "name": "Searx",
             "source": "https://github.com/searx/searx/blob/master/searx/static/themes/simple/img/searx_logo.svg",
@@ -2609,6 +2645,12 @@
             "name": "Slack",
             "source": "https://slack.com/media-kit",
             "guidelines": "https://slack.com/media-kit"
+        },
+        {
+            "path": "./assets/slskd.svg",
+            "name": "slskd",
+            "source": "https://github.com/slskd/slskd/blob/master/etc/icon.svg",
+            "guidelines": ""
         },
         {
             "path": "./assets/smallstep.svg",
@@ -2947,6 +2989,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/tvheadend.svg",
+            "name": "Tvheadend",
+            "source": "https://worldvectorlogo.com/logo/tvheadend",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/twitch.svg",
             "name": "Twitch",
             "source": "https://brand.twitch.tv/",
@@ -3119,6 +3167,12 @@
             "name": "Wekan",
             "source": "https://github.com/wekan/wekan/blob/main/public/svg-etc/wekan-logo-512.svg",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/westerndigital.svg",
+            "name": "Western Digital",
+            "source": "https://www.westerndigital.com",
+            "guidelines": "https://www.westerndigital.com/legal/trademarks"
         },
         {
             "path": "./assets/whatsapp.svg",
