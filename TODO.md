@@ -18,6 +18,13 @@
 # Icons
 - Icons to add
   - Joomla
+  - Excalidraw https://github.com/excalidraw/excalidraw/blob/master/public/favicon.svg\
+  - FSharp https://foundation.fsharp.org/logo
+  - Gogs https://github.com/gogs/brand-kit/blob/main/icon/gogs-logo.svg
+  - Rocket.chat https://docs.rocket.chat/docs/logo
+  - Trilium https://github.com/zadam/trilium/blob/master/images/icon-color.svg
+  - Vulkan https://www.khronos.org/legal/trademarks
+  - WebGPU https://www.w3.org/2023/02/webgpu-logos.html
 
 - Icons that I can't find
   - Adminer - Can't find a SVG of this (this software hasn't had an update since [2021-05-23](https://github.com/vrana/adminer/commit/88647b93e467210f270340e758af6771e2c5638a))
