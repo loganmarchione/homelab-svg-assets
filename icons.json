@@ -2077,6 +2077,18 @@
             "guidelines": "https://octoprint.org/trademark-rules/"
         },
         {
+            "path": "./assets/ollama-black.svg",
+            "name": "Ollama (black)",
+            "source": "https://github.com/ollama/ollama/issues/2152#issuecomment-1905286922",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/ollama-white.svg",
+            "name": "Ollama (white)",
+            "source": "https://github.com/ollama/ollama/issues/2152#issuecomment-1905286922",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/ombi.svg",
             "name": "Ombi",
             "source": "https://github.com/Ombi-app/Ombi/blob/develop/assets/Ombi-icon.ai",
@@ -2105,6 +2117,12 @@
             "name": "OpenAPI Initiative",
             "source": "https://github.com/OAI/OpenAPI-Style-Guide/blob/main/graphics/vector/OpenAPI_Logo_Pantone.svg",
             "guidelines": "https://www.openapis.org/faq/style-guide"
+        },
+        {
+            "path": "./assets/openbao.svg",
+            "name": "OpenBao",
+            "source": "https://openbao.org/",
+            "guidelines": ""
         },
         {
             "path": "./assets/openbsd.svg",
