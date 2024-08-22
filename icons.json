@@ -3001,6 +3001,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/trillium.svg",
+            "name": "Trillium",
+            "source": "https://github.com/zadam/trilium/blob/master/images/icon-color.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/truenas.svg",
             "name": "TrueNAS",
             "source": "https://www.truenas.com/",
