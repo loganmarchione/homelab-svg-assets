@@ -3157,6 +3157,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/vulkan.svg",
+            "name": "Vulkan",
+            "source": "https://www.khronos.org/legal/trademarks",
+            "guidelines": "https://www.khronos.org/legal/trademarks"
+        },
+        {
             "path": "./assets/vultr-blue.svg",
             "name": "Vultr (blue)",
             "source": "https://www.vultr.com/company/brand-assets/",
