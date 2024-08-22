@@ -817,6 +817,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/fsharp.svg",
+            "name": "F#",
+            "source": "https://foundation.fsharp.org/logo",
+            "guidelines": "https://foundation.fsharp.org/logo"
+        },
+        {
             "path": "./assets/f5.svg",
             "name": "F5",
             "source": "https://www.f5.com/company/news/press-kit",
