@@ -1087,6 +1087,12 @@
             "guidelines": "https://go.dev/blog/go-brand"
         },
         {
+            "path": "./assets/gogs.svg",
+            "name": "Gogs",
+            "source": "https://github.com/gogs/brand-kit/blob/main/icon/gogs-logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/gotify.svg",
             "name": "Gotify",
             "source": "https://github.com/gotify/logo/blob/master/gotify-logo.svg",
