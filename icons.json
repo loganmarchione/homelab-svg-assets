@@ -1765,6 +1765,12 @@
             "guidelines": "https://www.mercurial-scm.org/hg-logo/"
         },
         {
+            "path": "./assets/meshtastic.svg",
+            "name": "Meshtastic",
+            "source": "https://github.com/meshtastic/design/blob/master/logo/logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/microsoft.svg",
             "name": "Microsoft",
             "source": "https://en.wikipedia.org/wiki/Microsoft",
