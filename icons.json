@@ -3211,6 +3211,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/webgpu.svg",
+            "name": "WebGPU",
+            "source": "https://www.w3.org/2023/02/webgpu-logos.html",
+            "guidelines": "https://www.w3.org/2023/02/webgpu-logos.html"
+        },
+        {
             "path": "./assets/wekan.svg",
             "name": "Wekan",
             "source": "https://github.com/wekan/wekan/blob/main/public/svg-etc/wekan-logo-512.svg",
