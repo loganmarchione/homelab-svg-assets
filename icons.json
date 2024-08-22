@@ -2156,7 +2156,7 @@
         },
         {
             "path": "./assets/opentofu.svg",
-            "name": "OpenTofu",
+            "name": "OpenTofu (Terraform alternative)",
             "source": "https://github.com/opentofu/brand-artifacts/blob/main/symbol-only/with-bg/SVG/on-light.svg",
             "guidelines": ""
         },
@@ -3077,6 +3077,12 @@
             "name": "Vagrant",
             "source": "https://www.hashicorp.com/brand",
             "guidelines": "https://www.hashicorp.com/brand"
+        },
+        {
+            "path": "./assets/valkey.svg",
+            "name": "Valkey (Redis alternative)",
+            "source": "https://github.com/valkey-io/valkey-io.github.io/blob/main/static/img/Valkey-logo.svg",
+            "guidelines": ""
         },
         {
             "path": "./assets/vault.svg",
