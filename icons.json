@@ -811,6 +811,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/excalidraw.svg",
+            "name": "Excalidraw",
+            "source": "https://github.com/excalidraw/excalidraw/blob/master/public/favicon.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/f5.svg",
             "name": "F5",
             "source": "https://www.f5.com/company/news/press-kit",
