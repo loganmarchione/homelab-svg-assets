@@ -2545,6 +2545,12 @@
             "guidelines": "https://riscv.org/about/risc-v-branding-guidelines/"
         },
         {
+            "path": "./assets/rocketchat.svg",
+            "name": "Rocket.Chat",
+            "source": "https://docs.rocket.chat/docs/media-kit",
+            "guidelines": "https://docs.rocket.chat/docs/logo"
+        },
+        {
             "path": "./assets/rockylinux.svg",
             "name": "Rocky Linux",
             "source": "https://github.com/rocky-linux/rocky-logos/blob/main/icons/hicolor/scalable/apps/fedora-logo-icon.svg",
