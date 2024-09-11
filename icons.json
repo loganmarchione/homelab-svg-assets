@@ -2557,6 +2557,12 @@
             "guidelines": "https://redis.com/brand-guidelines/"
         },
         {
+            "path": "./assets/reolink.svg",
+            "name": "Reolink",
+            "source": "https://seeklogo.com/vector-logo/447792/reolink",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/riscv.svg",
             "name": "RISC-V",
             "source": "https://riscv.org/about/risc-v-branding-guidelines/",
