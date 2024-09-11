@@ -811,6 +811,18 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/excalidraw.svg",
+            "name": "Excalidraw",
+            "source": "https://github.com/excalidraw/excalidraw/blob/master/public/favicon.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/fsharp.svg",
+            "name": "F#",
+            "source": "https://foundation.fsharp.org/logo",
+            "guidelines": "https://foundation.fsharp.org/logo"
+        },
+        {
             "path": "./assets/f5.svg",
             "name": "F5",
             "source": "https://www.f5.com/company/news/press-kit",
@@ -1073,6 +1085,12 @@
             "name": "Go (blue)",
             "source": "https://go.dev/blog/go-brand",
             "guidelines": "https://go.dev/blog/go-brand"
+        },
+        {
+            "path": "./assets/gogs.svg",
+            "name": "Gogs",
+            "source": "https://github.com/gogs/brand-kit/blob/main/icon/gogs-logo.svg",
+            "guidelines": ""
         },
         {
             "path": "./assets/gotify.svg",
@@ -1765,6 +1783,12 @@
             "guidelines": "https://www.mercurial-scm.org/hg-logo/"
         },
         {
+            "path": "./assets/meshtastic.svg",
+            "name": "Meshtastic",
+            "source": "https://github.com/meshtastic/design/blob/master/logo/logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/microsoft.svg",
             "name": "Microsoft",
             "source": "https://en.wikipedia.org/wiki/Microsoft",
@@ -2053,6 +2077,18 @@
             "guidelines": "https://octoprint.org/trademark-rules/"
         },
         {
+            "path": "./assets/ollama-black.svg",
+            "name": "Ollama (black)",
+            "source": "https://github.com/ollama/ollama/issues/2152#issuecomment-1905286922",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/ollama-white.svg",
+            "name": "Ollama (white)",
+            "source": "https://github.com/ollama/ollama/issues/2152#issuecomment-1905286922",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/ombi.svg",
             "name": "Ombi",
             "source": "https://github.com/Ombi-app/Ombi/blob/develop/assets/Ombi-icon.ai",
@@ -2081,6 +2117,12 @@
             "name": "OpenAPI Initiative",
             "source": "https://github.com/OAI/OpenAPI-Style-Guide/blob/main/graphics/vector/OpenAPI_Logo_Pantone.svg",
             "guidelines": "https://www.openapis.org/faq/style-guide"
+        },
+        {
+            "path": "./assets/openbao.svg",
+            "name": "OpenBao",
+            "source": "https://openbao.org/",
+            "guidelines": ""
         },
         {
             "path": "./assets/openbsd.svg",
@@ -2132,7 +2174,7 @@
         },
         {
             "path": "./assets/opentofu.svg",
-            "name": "OpenTofu",
+            "name": "OpenTofu (Terraform alternative)",
             "source": "https://github.com/opentofu/brand-artifacts/blob/main/symbol-only/with-bg/SVG/on-light.svg",
             "guidelines": ""
         },
@@ -2519,6 +2561,12 @@
             "name": "RISC-V",
             "source": "https://riscv.org/about/risc-v-branding-guidelines/",
             "guidelines": "https://riscv.org/about/risc-v-branding-guidelines/"
+        },
+        {
+            "path": "./assets/rocketchat.svg",
+            "name": "Rocket.Chat",
+            "source": "https://docs.rocket.chat/docs/media-kit",
+            "guidelines": "https://docs.rocket.chat/docs/logo"
         },
         {
             "path": "./assets/rockylinux.svg",
@@ -2971,6 +3019,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/trillium.svg",
+            "name": "Trillium",
+            "source": "https://github.com/zadam/trilium/blob/master/images/icon-color.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/truenas.svg",
             "name": "TrueNAS",
             "source": "https://www.truenas.com/",
@@ -3041,6 +3095,12 @@
             "name": "Vagrant",
             "source": "https://www.hashicorp.com/brand",
             "guidelines": "https://www.hashicorp.com/brand"
+        },
+        {
+            "path": "./assets/valkey.svg",
+            "name": "Valkey (Redis alternative)",
+            "source": "https://github.com/valkey-io/valkey-io.github.io/blob/main/static/img/Valkey-logo.svg",
+            "guidelines": ""
         },
         {
             "path": "./assets/vault.svg",
@@ -3115,6 +3175,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/vulkan.svg",
+            "name": "Vulkan",
+            "source": "https://www.khronos.org/legal/trademarks",
+            "guidelines": "https://www.khronos.org/legal/trademarks"
+        },
+        {
             "path": "./assets/vultr-blue.svg",
             "name": "Vultr (blue)",
             "source": "https://www.vultr.com/company/brand-assets/",
@@ -3161,6 +3227,12 @@
             "name": "Weaveworks",
             "source": "https://www.weave.works/",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/webgpu.svg",
+            "name": "WebGPU",
+            "source": "https://www.w3.org/2023/02/webgpu-logos.html",
+            "guidelines": "https://www.w3.org/2023/02/webgpu-logos.html"
         },
         {
             "path": "./assets/wekan.svg",

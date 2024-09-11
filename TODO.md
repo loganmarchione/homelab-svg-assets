@@ -56,7 +56,6 @@
   - Zigbee2MQTT - This SVG is a mess
 
 - Icons that don't touch the edges (possibly need to be replaced?)
-  - Arc
   - Audacity
   - CyberChef
   - LXC
