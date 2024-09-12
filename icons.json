@@ -649,6 +649,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/dockingstation.svg",
+            "name": "Docking Station",
+            "source": "https://github.com/LooLzzz/docking-station/blob/main/docking-station-app/src/app/icon.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/dokuwiki.svg",
             "name": "DokuWiki",
             "source": "https://www.dokuwiki.org/logo",
@@ -1981,6 +1987,12 @@
             "guidelines": "https://nextcloud.com/trademarks/"
         },
         {
+            "path": "./assets/nexterm.svg",
+            "name": "Nexterm",
+            "source": "https://github.com/gnmyt/Nexterm/blob/main/client/public/assets/img/favicon.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/nginx.svg",
             "name": "Nginx",
             "source": "https://www.nginx.com/",
@@ -2557,6 +2569,12 @@
             "guidelines": "https://redis.com/brand-guidelines/"
         },
         {
+            "path": "./assets/reolink.svg",
+            "name": "Reolink",
+            "source": "https://seeklogo.com/vector-logo/447792/reolink",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/riscv.svg",
             "name": "RISC-V",
             "source": "https://riscv.org/about/risc-v-branding-guidelines/",
@@ -2656,6 +2674,12 @@
             "path": "./assets/searxng.svg",
             "name": "SearXNG",
             "source": "https://github.com/searxng/searxng/blob/master/src/brand/searxng-wordmark.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/semaphore.svg",
+            "name": "Semaphore UI",
+            "source": "https://github.com/semaphoreui/semaphore/blob/develop/web/public/favicon.svg",
             "guidelines": ""
         },
         {
