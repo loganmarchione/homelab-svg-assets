@@ -1693,6 +1693,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/manyfold.svg",
+            "name": "Manyfold",
+            "source": "https://github.com/manyfold3d/manyfold/blob/main/app/assets/images/roundel.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/mariadb.svg",
             "name": "MariaDB",
             "source": "https://mariadb.com/about-us/logos/",
