@@ -343,6 +343,18 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/beszel-green.svg",
+            "name": "Beszel (green)",
+            "source": "https://github.com/henrygd/beszel/blob/main/beszel/site/public/static/favicon-green.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/beszel-red.svg",
+            "name": "Beszel (red)",
+            "source": "https://github.com/henrygd/beszel/blob/main/beszel/site/public/static/favicon-red.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/bitcoin.svg",
             "name": "Bitcoin",
             "source": "https://bitcoin.org",
@@ -1690,6 +1702,12 @@
             "path": "./assets/manjaro.svg",
             "name": "Manjaro",
             "source": "https://gitlab.manjaro.org/artwork/branding/logo/-/blob/master/logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/manyfold.svg",
+            "name": "Manyfold",
+            "source": "https://github.com/manyfold3d/manyfold/blob/main/app/assets/images/roundel.svg",
             "guidelines": ""
         },
         {
