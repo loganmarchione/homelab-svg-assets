@@ -1,1 +1,1 @@
-prettytable==3.11.0
+prettytable==3.12.0
