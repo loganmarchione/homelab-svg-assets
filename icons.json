@@ -1579,6 +1579,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/ledger.svg",
+            "name": "Ledger",
+            "source": "https://www.ledger.com/press",
+            "guidelines": "https://www.ledger.com/press"
+        },
+        {
             "path": "./assets/lemmy.svg",
             "name": "Lemmy",
             "source": "https://github.com/LemmyNet/lemmy-ui/blob/main/src/assets/icons/favicon.svg",
@@ -3077,6 +3083,18 @@
             "name": "TravisCI",
             "source": "https://blog.travis-ci.com/2014-11-20-brand-stand",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/trezor-black.svg",
+            "name": "Trezor (black)",
+            "source": "https://satoshilabs.visualbook.pro/en/trezor/logos/symbol",
+            "guidelines": "https://satoshilabs.visualbook.pro/en/trezor/logos/symbol"
+        },
+        {
+            "path": "./assets/trezor-white.svg",
+            "name": "Trezor (white)",
+            "source": "https://satoshilabs.visualbook.pro/en/trezor/logos/symbol",
+            "guidelines": "https://satoshilabs.visualbook.pro/en/trezor/logos/symbol"
         },
         {
             "path": "./assets/trillium.svg",
