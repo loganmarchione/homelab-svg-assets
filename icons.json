@@ -3421,6 +3421,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/xml.svg",
+            "name": "XML",
+            "source": "https://www.w3.org/Icons/XML/xml.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/yacht.svg",
             "name": "Yacht",
             "source": "https://github.com/SelfhostedPro/Yacht/blob/master/frontend/src/assets/logo-light.svg",
