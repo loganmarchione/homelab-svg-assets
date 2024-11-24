@@ -373,6 +373,12 @@
             "guidelines": "https://github.com/bitwarden/brand"
         },
         {
+            "path": "./assets/bluesky.svg",
+            "name": "Bluesky",
+            "source": "https://github.com/bluesky-social/social-app/blob/main/bskyembed/assets/logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/bluetooth.svg",
             "name": "Bluetooth",
             "source": "https://www.bluetooth.com/marketing-branding/",
