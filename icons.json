@@ -13,6 +13,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/actualbudget.svg",
+            "name": "ActualBudget",
+            "source": "https://github.com/actualbudget/actual/blob/master/packages/desktop-client/src/icons/logo/logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/adafruit.svg",
             "name": "Adafruit",
             "source": "https://www.adafruit.com/",
