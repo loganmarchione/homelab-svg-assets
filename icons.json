@@ -13,6 +13,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/actualbudget.svg",
+            "name": "ActualBudget",
+            "source": "https://github.com/actualbudget/actual/blob/master/packages/desktop-client/src/icons/logo/logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/adafruit.svg",
             "name": "Adafruit",
             "source": "https://www.adafruit.com/",
@@ -365,6 +371,12 @@
             "name": "Bitwarden",
             "source": "https://github.com/bitwarden/brand/blob/master/icons/icon.svg",
             "guidelines": "https://github.com/bitwarden/brand"
+        },
+        {
+            "path": "./assets/bluesky.svg",
+            "name": "Bluesky",
+            "source": "https://github.com/bluesky-social/social-app/blob/main/bskyembed/assets/logo.svg",
+            "guidelines": ""
         },
         {
             "path": "./assets/bluetooth.svg",
@@ -1033,6 +1045,12 @@
             "guidelines": "https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/trademark-guidelines/"
         },
         {
+            "path": "./assets/gluetun.svg",
+            "name": "Gluetun",
+            "source": "https://github.com/qdm12/gluetun/blob/master/doc/logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/gnome.svg",
             "name": "Gnome",
             "source": "https://foundation.gnome.org/logo-and-trademarks/",
@@ -1559,6 +1577,12 @@
             "name": "Latex (wide)",
             "source": "https://www.latex-project.org/",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/ledger.svg",
+            "name": "Ledger",
+            "source": "https://www.ledger.com/press",
+            "guidelines": "https://www.ledger.com/press"
         },
         {
             "path": "./assets/lemmy.svg",
@@ -2613,7 +2637,7 @@
         {
             "path": "./assets/romm.svg",
             "name": "RomM",
-            "source": "https://github.com/zurdi15/romm/blob/master/romm.svg",
+            "source": "https://github.com/rommapp/romm/blob/release/.github/resources/isotipo.svg",
             "guidelines": ""
         },
         {
@@ -3061,6 +3085,18 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/trezor-black.svg",
+            "name": "Trezor (black)",
+            "source": "https://satoshilabs.visualbook.pro/en/trezor/logos/symbol",
+            "guidelines": "https://satoshilabs.visualbook.pro/en/trezor/logos/symbol"
+        },
+        {
+            "path": "./assets/trezor-white.svg",
+            "name": "Trezor (white)",
+            "source": "https://satoshilabs.visualbook.pro/en/trezor/logos/symbol",
+            "guidelines": "https://satoshilabs.visualbook.pro/en/trezor/logos/symbol"
+        },
+        {
             "path": "./assets/trillium.svg",
             "name": "Trillium",
             "source": "https://github.com/zadam/trilium/blob/master/images/icon-color.svg",
@@ -3385,6 +3421,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/xml.svg",
+            "name": "XML",
+            "source": "https://www.w3.org/Icons/XML/xml.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/yacht.svg",
             "name": "Yacht",
             "source": "https://github.com/SelfhostedPro/Yacht/blob/master/frontend/src/assets/logo-light.svg",
@@ -3443,6 +3485,12 @@
             "name": "ZeroSSL",
             "source": "https://zerossl.com/",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/zerotier.svg",
+            "name": "ZeroTier",
+            "source": "https://www.zerotier.com/media-kit/",
+            "guidelines": "https://www.zerotier.com/media-kit/"
         },
         {
             "path": "./assets/zigbee.svg",

@@ -2,7 +2,7 @@ import base64
 import json
 import re
 from prettytable import PrettyTable
-from prettytable import MARKDOWN
+from prettytable import TableStyle
 
 # Read JSON file
 with open("icons.json", "r") as json_file:
@@ -10,7 +10,7 @@ with open("icons.json", "r") as json_file:
 
 # Setup the Markdown table
 x = PrettyTable()
-x.set_style(MARKDOWN)
+x.set_style(TableStyle.MARKDOWN)
 x.align = "l"
 x.field_names = ["Icon", "Name", "Icon Source", "Icon Guidelines"]
 

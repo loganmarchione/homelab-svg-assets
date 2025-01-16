@@ -18,6 +18,7 @@
 # Icons
 - Icons to add
   - Joomla
+  - ReactiveResume https://github.com/AmruthPillai/Reactive-Resume/tree/main/apps/client/public/logo
 
 - Icons that I can't find
   - Adminer - Can't find a SVG of this (this software hasn't had an update since [2021-05-23](https://github.com/vrana/adminer/commit/88647b93e467210f270340e758af6771e2c5638a))
@@ -52,15 +53,12 @@
   - ~~[Watchtower](https://github.com/containrrr/watchtower/issues/1510)~~
   - ~~[Wizarr](https://github.com/Wizarrrr/wizarr/issues/139)~~
   - ~~[XCP-ng](https://github.com/xcp-ng/xcp/issues/583)~~
-  - [ZeroTier](https://github.com/zerotier/docs/issues/50)
+  - ~~[ZeroTier](https://github.com/zerotier/docs/issues/50)~~
   - Zigbee2MQTT - This SVG is a mess
 
 - Icons that don't touch the edges (possibly need to be replaced?)
-  - Audacity
   - CyberChef
-  - LXC
   - SPI
-  - WikiJS
 
 - Icons that require explicit permission (which I don't have yet)
   - [Anaconda](https://legal.anaconda.com/policies/en/?name=additional-policies-terms#anaconda-trademark-brand-guidelines)
