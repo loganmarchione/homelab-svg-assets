@@ -3391,10 +3391,16 @@
             "guidelines": ""
         },
         {
-            "path": "./assets/wordpress.svg",
-            "name": "WordPress",
-            "source": "https://wordpress.org/about/logos/",
-            "guidelines": "https://wordpress.org/about/logos/"
+            "path": "./assets/wygiwyh.svg",
+            "name": "WYGIWYH (What You Get Is What You Have)",
+            "source": "https://github.com/eitchtee/WYGIWYH/blob/main/app/static/img/logo-icon.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/reolink.svg",
+            "name": "Reolink",
+            "source": "https://seeklogo.com/vector-logo/447792/reolink",
+            "guidelines": ""
         },
         {
             "path": "./assets/x-black.svg",
