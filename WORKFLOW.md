@@ -19,8 +19,8 @@ Most of this is taken from the [CONTRIBUTING.md](https://github.com/simple-icons
 1. Download [Inkscape](https://inkscape.org/). It's free for Windows, Mac, and Linux.
 1. Install [svgo](https://github.com/svg/svgo) (this is used to optimize SVGs)
 1. Install `scour` on Linux (not sure if this is needed on Windows or Mac)
-    - Arch = `sudo pacman -S scour`
-    - Ubuntu = `sudo apt-get install python3-scour`
+    - Arch = `sudo pacman -S scour python-tinycss2`
+    - Ubuntu = `sudo apt-get install python3-scour python-tinycss2`
 
 # 2. Setup Inkscape
 
