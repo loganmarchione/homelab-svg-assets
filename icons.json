@@ -1843,6 +1843,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/metube.svg",
+            "name": "MeTube",
+            "source": "https://github.com/alexta69/metube/blob/master/metube.ai",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/microsoft.svg",
             "name": "Microsoft",
             "source": "https://en.wikipedia.org/wiki/Microsoft",
