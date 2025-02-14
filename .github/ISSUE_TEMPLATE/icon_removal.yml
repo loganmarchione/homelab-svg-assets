@@ -5,7 +5,7 @@ title: 'Removal: <name>'
 body:
   - type: input
     attributes:
-      label: Name
+      label: Name of project/icon
       placeholder: 'Example: Oracle'
     validations:
       required: true

@@ -5,7 +5,7 @@ title: 'Update: <name>'
 body:
   - type: input
     attributes:
-      label: Name
+      label: Name of project/icon
       placeholder: 'Example: GitHub (Invertocat)'
     validations:
       required: true
