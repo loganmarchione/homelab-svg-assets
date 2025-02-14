@@ -2557,9 +2557,15 @@
             "guidelines": "https://marketing.qnap.com/logo/"
         },
         {
-            "path": "./assets/radarr.svg",
-            "name": "Radarr",
+            "path": "./assets/radarr-dark.svg",
+            "name": "Radarr (dark)",
             "source": "https://github.com/Radarr/Radarr/blob/develop/Logo/Radarr.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/radarr-light.svg",
+            "name": "Radarr (light)",
+            "source": "https://github.com/Radarr/Radarr/blob/develop/frontend/src/Content/Images/logo.svg",
             "guidelines": ""
         },
         {

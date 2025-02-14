@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#FFFFFF;}
-	.st1{fill:#FFC230;}
-</style>
-<g>
-	<g id="Group-Copy" transform="translate(70 21.00012)">
-		<path id="Shape" class="st0" d="M10.3,59.8l3.9,372.4c-31.4,3.9-54.9-11.8-54.9-43.1l-3.9-309.7c0-98,90.2-121.5,145.1-82.3
-			l278.3,160.7c39.2,27.4,47,78.4,27.4,113.7c-3.9-27.4-15.7-43.1-39.2-58.8L53.4,36.2C29.9,20.6,10.3,24.5,10.3,59.8z"/>
-		<path id="Shape_00000114049535938561773820000018271523940913105341_" class="st0" d="M-13.2,451.8c23.5,7.8,47,3.9,66.6-7.8
-			l321.5-188.2c19.6,27.4,15.7,54.9-7.8,70.6L96.5,483.2C57.3,502.8,6.4,483.2-13.2,451.8z"/>
-		<path id="Shape_00000165935924413286433040000003668002807793862576_" class="st1" d="M80.9,342L273,232.3L84.8,126.4L80.9,342z"
-			/>
-	</g>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48"><defs><clipPath id="radarr-light_svg__b"><use xlink:href="#radarr-light_svg__a" clip-rule="evenodd"/></clipPath><path id="radarr-light_svg__a" d="M0 0h1024v1024H0z"/></defs><g clip-path="url(#radarr-light_svg__b)" transform="scale(.04688)"><use xlink:href="#radarr-light_svg__a" fill="#24292e" fill-opacity="0"/><path fill="#fff" d="m175.3 174.12 7.522 719.97c-60.173 7.579-105.3-22.736-105.3-83.364L70 212.016c0-189.46 173-234.94 278.3-159.15l534.03 310.72c75.216 53.05 90.26 151.57 52.651 219.78-7.522-53.05-30.086-83.365-75.216-113.68l-601.73-341.04c-45.13-30.315-82.738-22.736-82.738 45.471z"/><path fill="#fff" d="M130.173 931.98c45.13 15.158 90.259 7.579 127.87-15.157l616.77-363.77c37.607 53.05 30.086 106.1-15.044 136.42l-518.99 303.14c-75.216 37.893-173 0-210.6-60.629z"/><path fill="#ffc230" d="m310.69 719.77 368.56-212.2-361.04-204.62z"/></g></svg>
