@@ -1237,6 +1237,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/hoarder.svg",
+            "name": "Hoarder",
+            "source": "https://github.com/hoarder-app/hoarder/blob/main/apps/landing/public/icons/logo-icon.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/homarr.svg",
             "name": "Homarr",
             "source": "https://github.com/ajnart/homarr/blob/dev/public/imgs/logo/logo.svg",
