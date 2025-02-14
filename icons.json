@@ -2401,6 +2401,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/pixelfed.svg",
+            "name": "PixelFed",
+            "source": "https://github.com/pixelfed/brand-assets/blob/master/logo/logo.svg",
+            "guidelines": "https://github.com/pixelfed/brand-assets"
+        },
+        {
             "path": "./assets/plane.svg",
             "name": "Plane",
             "source": "https://github.com/makeplane/plane/blob/develop/web/public/plane-logos/black-horizontal-with-blue-logo.svg",
