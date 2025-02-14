@@ -1,6 +1,6 @@
 name: Icon request
 description: Request a new icon
-title: 'Request: <name>'
+title: 'Request: <name of project/icon>'
 
 body:
   - type: markdown

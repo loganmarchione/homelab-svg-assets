@@ -1,6 +1,6 @@
 name: Icon removal
 description: Request an icon be removed
-title: 'Removal: <name>'
+title: 'Removal: <name of project/icon>'
 
 body:
   - type: input
