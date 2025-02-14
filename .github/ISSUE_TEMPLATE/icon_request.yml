@@ -21,7 +21,7 @@ body:
 
   - type: input
     attributes:
-      label: Website
+      label: Website of project/icon
       description: |
         Add a link to a relevant website.
       placeholder: 'Example: https://github.com'
