@@ -2413,6 +2413,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/pingvin-share.svg",
+            "name": "Pingvin Share",
+            "source": "https://github.com/stonith404/pingvin-share",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/pixelfed.svg",
             "name": "PixelFed",
             "source": "https://github.com/pixelfed/brand-assets/blob/master/logo/logo.svg",
