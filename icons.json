@@ -1903,6 +1903,18 @@
             "guidelines": "https://merch.mikrotik.com/pages/mikrotik-logo"
         },
         {
+            "path": "./assets/minecraft-classic.svg",
+            "name": "Minecraft (Classic)",
+            "source": "https://static.wikia.nocookie.net/logopedia/images/7/7a/Minecraft_2013_launcher.svg/revision/latest",
+            "guidelines": "https://www.minecraft.net/en-us/usage-guidelines"
+        },
+        {
+            "path": "./assets/minecraft-new.svg",
+            "name": "Minecraft (New)",
+            "source": "https://static.wikia.nocookie.net/logopedia/images/3/3c/Minecraft_icon_2021.svg/revision/latest",
+            "guidelines": "https://www.minecraft.net/en-us/usage-guidelines"
+        },
+        {
             "path": "./assets/miniflux.svg",
             "name": "Miniflux",
             "source": "https://github.com/miniflux/logo/blob/master/icon.svg",
