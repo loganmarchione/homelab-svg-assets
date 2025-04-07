@@ -565,6 +565,12 @@
             "guidelines": "https://www.hashicorp.com/brand"
         },
         {
+            "path": "./assets/counterstrike.svg",
+            "name": "Counter-Strike (CS:GO/CS2)",
+            "source": "https://eliteark.com/wp-content/uploads/2019/10/game-cs-go.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/cpanel.svg",
             "name": "cPanel",
             "source": "https://cpanel.net/company/cpanel-brand-guide/",
