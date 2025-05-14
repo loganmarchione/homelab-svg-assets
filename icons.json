@@ -31,6 +31,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/adminer.svg",
+            "name": "Adminer",
+            "source": "https://github.com/loganmarchione/homelab-svg-assets/issues/56#issuecomment-2878003842",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/adminerevo.svg",
             "name": "AdminerEvo",
             "source": "https://github.com/adminerevo/adminerevo/blob/main/docs/assets/logo.svg",
