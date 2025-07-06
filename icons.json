@@ -1009,6 +1009,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/garage.svg",
+            "name": "Garage",
+            "source": "https://git.deuxfleurs.fr/Deuxfleurs/garage/src/branch/main-v1/doc/logo/garage-notext.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/gatsby.svg",
             "name": "Gatsby",
             "source": "https://www.gatsbyjs.com/guidelines/logo",
