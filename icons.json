@@ -3187,6 +3187,18 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/tubearchivist-black.svg",
+            "name": "Tube Archivist (black)",
+            "source": "https://github.com/tubearchivist/tubearchivist/blob/master/assets/tube-archivist-logo-light.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/tubearchivist-white.svg",
+            "name": "Tube Archivist (white)",
+            "source": "https://github.com/tubearchivist/tubearchivist/blob/master/assets/tube-archivist-logo-dark.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/tubesync.svg",
             "name": "TubeSync",
             "source": "https://github.com/meeb/tubesync/blob/main/tubesync/common/templates/tubesync-coloured.svg",
