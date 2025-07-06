@@ -127,6 +127,24 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/anthropic-black.svg",
+            "name": "Anthropic (black)",
+            "source": "https://www.anthropic.com/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/anthropic-white.svg",
+            "name": "Anthropic (white)",
+            "source": "https://www.anthropic.com/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/anthropic-claude.svg",
+            "name": "Anthropic Claude",
+            "source": "https://claude.ai/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/apachecassandra.svg",
             "name": "Apache Cassandra",
             "source": "https://en.wikipedia.org/wiki/Apache_Cassandra",
