@@ -1141,6 +1141,12 @@
             "guidelines": "https://go.dev/blog/go-brand"
         },
         {
+            "path": "./assets/goaccess.svg",
+            "name": "GoAccess",
+            "source": "https://github.com/allinurl/goaccess/blob/master/resources/goaccess.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/gogs.svg",
             "name": "Gogs",
             "source": "https://github.com/gogs/brand-kit/blob/main/icon/gogs-logo.svg",
