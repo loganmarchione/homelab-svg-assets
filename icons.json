@@ -3349,6 +3349,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/virtualmin.svg",
+            "name": "Virtualmin",
+            "source": "https://www.virtualmin.com/press-kit/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/visualstudiocode.svg",
             "name": "Visual Studio Code",
             "source": "https://code.visualstudio.com/brand",
@@ -3425,6 +3431,12 @@
             "name": "WebGPU",
             "source": "https://www.w3.org/2023/02/webgpu-logos.html",
             "guidelines": "https://www.w3.org/2023/02/webgpu-logos.html"
+        },
+        {
+            "path": "./assets/webmin.svg",
+            "name": "Webmin",
+            "source": "https://webmin.com/",
+            "guidelines": ""
         },
         {
             "path": "./assets/wekan.svg",
