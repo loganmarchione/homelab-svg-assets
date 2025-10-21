@@ -3647,6 +3647,12 @@
             "name": "ZoneMinder",
             "source": "https://github.com/ZoneMinder/zoneminder.github.io/blob/master/images/SVGs/Logo.svg",
             "guidelines": ""
+        },
+        {
+            "path": "./assets/zoraxy.svg",
+            "name": "Zoraxy",
+            "source": "https://github.com/tobychui/zoraxy/blob/main/src/web/img/public/icon.svg",
+            "guidelines": ""
         }
     ]
 }
