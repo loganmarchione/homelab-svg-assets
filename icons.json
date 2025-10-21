@@ -2275,6 +2275,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/openccu.svg",
+            "name": "OpenCCU (formerly RaspberryMatic)",
+            "source": "https://github.com/OpenCCU/OpenCCU/blob/master/buildroot-external/overlay/WebUI-openccu/www/ise/img/favicon.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/opencollective.svg",
             "name": "Open Collective",
             "source": "https://opencollective.com/",
