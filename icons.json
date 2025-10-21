@@ -2191,6 +2191,12 @@
             "guidelines": "https://www.nvidia.com/en-us/about-nvidia/legal-info/logo-brand-usage/"
         },
         {
+            "path": "./assets/nzbget.svg",
+            "name": "NZBGet",
+            "source": "https://github.com/nzbgetcom/nzbget/blob/develop/webui/img/nzbget.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/obsstudio.svg",
             "name": "OBS Studio",
             "source": "https://github.com/obsproject/obs-studio/blob/master/UI/xdg-data/icons/obs-logo-scalable.svg",
