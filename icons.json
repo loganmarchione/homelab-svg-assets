@@ -2071,6 +2071,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/netbird.svg",
+            "name": "NetBird",
+            "source": "https://netbird.io/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/netdata.svg",
             "name": "Netdata",
             "source": "https://github.com/netdata/netdata/blob/master/web/gui/dashboard/images/netdata-logomark.svg",
