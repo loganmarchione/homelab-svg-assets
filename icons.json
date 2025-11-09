@@ -2281,6 +2281,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/opencloud.svg",
+            "name": "OpenCloud",
+            "source": "https://opencloud.eu/en/about-us/press",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/opencollective.svg",
             "name": "Open Collective",
             "source": "https://opencollective.com/",
