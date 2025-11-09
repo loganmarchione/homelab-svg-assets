@@ -2899,6 +2899,12 @@
             "guidelines": "https://www.snap.com/en-US/brand-guidelines"
         },
         {
+            "path": "./assets/softwarefreedomconservancy.svg",
+            "name": "Software Freedom Conservancy (SFC)",
+            "source": "https://sfconservancy.org/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/softwareinthepublicinterest.svg",
             "name": "Software in the Public Interest (SPI)",
             "source": "https://www.spi-inc.org/",
