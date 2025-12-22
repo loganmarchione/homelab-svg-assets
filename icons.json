@@ -2611,6 +2611,12 @@
             "guidelines": "https://www.proxmox.com/en/news/media-kit"
         },
         {
+            "path": "./assets/pufferpanel.svg",
+            "name": "PufferPanel",
+            "source": "https://github.com/pufferpanel/pufferpanel/blob/v3/client/frontend/public/favicon.png",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/pulumi.svg",
             "name": "Pulumi",
             "source": "https://www.pulumi.com/brand/",
