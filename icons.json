@@ -355,6 +355,12 @@
             "guidelines": "https://www.backblaze.com/company/news.html"
         },
         {
+            "path": "./assets/bambulab.svg",
+            "name": "Bambu Lab",
+            "source": "https://bambulab.com/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/bash-dark.svg",
             "name": "Bash (dark)",
             "source": "https://bashlogo.com/",
