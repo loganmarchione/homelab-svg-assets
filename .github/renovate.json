@@ -4,6 +4,7 @@
     "config:recommended",
     "schedule:nonOfficeHours"
   ],
+  "timezone": "America/New_York",
   "dependencyDashboard": true,
   "dependencyDashboardTitle": "Renovate Dashboard",
   "labels": [
