@@ -1,11 +1,13 @@
 name: Lint
 
+# yamllint disable-line rule:truthy
 on:
   push:
-    branches:
-      - main
-  schedule:
-    - cron: "0 5 * * 0"
+  pull_request:
+    types:
+      - opened
+      - reopened
+      - synchronize
   workflow_dispatch:
 
 jobs:
