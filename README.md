@@ -4,7 +4,7 @@
 <a href="https://github.com/loganmarchione/homelab-svg-assets"><img src="https://img.shields.io/github/repo-size/loganmarchione/homelab-svg-assets??label=Repo%20Size" alt="Repo Size"/></a>
 
 
-[![Lint](https://github.com/loganmarchione/homelab-svg-assets/actions/workflows/main.yml/badge.svg)](https://github.com/loganmarchione/homelab-svg-assets/actions/workflows/main.yml)
+[![Lint](https://github.com/loganmarchione/homelab-svg-assets/actions/workflows/lint.yml/badge.svg)](https://github.com/loganmarchione/homelab-svg-assets/actions/workflows/lint.yml)
 [![Lint](https://img.shields.io/github/stars/loganmarchione/homelab-svg-assets?style=social)](https://github.com/loganmarchione/homelab-svg-assets/stargazers)
 
 
