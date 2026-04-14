@@ -1,0 +1,34 @@
+name: Publish Package
+
+on:
+  push:
+    tags:
+      - '*'
+
+permissions:
+  id-token: write
+  contents: read
+
+jobs:
+  lint:
+    name: Lint
+    uses: ./.github/workflows/lint.yml
+
+  publish:
+    name: Publish
+    needs: lint
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out the codebase
+      uses: actions/checkout@v6
+
+    - name: Set up Node
+      uses: actions/setup-node@v6
+      with:
+        node-version: '24'
+        registry-url: 'https://registry.npmjs.org'
+
+    - name: Publish package
+      run: npm publish --access public

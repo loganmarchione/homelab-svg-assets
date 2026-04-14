@@ -175,7 +175,4 @@ A full example is below:
     git tag -a X.Y.Z -m "X.Y.Z - Text goes here"
     git push origin X.Y.Z
     ```
-1. Publish to NPM
-   ```
-   npm publish --access public
-   ```
+1. Pushing the new tag will publish the package to NPM
