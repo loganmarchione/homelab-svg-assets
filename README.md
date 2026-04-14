@@ -5,6 +5,7 @@
 
 
 [![Lint](https://github.com/loganmarchione/homelab-svg-assets/actions/workflows/lint.yml/badge.svg)](https://github.com/loganmarchione/homelab-svg-assets/actions/workflows/lint.yml)
+[![Publish Package](https://github.com/loganmarchione/homelab-svg-assets/actions/workflows/publish.yml/badge.svg?branch=main)](https://github.com/loganmarchione/homelab-svg-assets/actions/workflows/publish.yml)
 [![Lint](https://img.shields.io/github/stars/loganmarchione/homelab-svg-assets?style=social)](https://github.com/loganmarchione/homelab-svg-assets/stargazers)
 
 
