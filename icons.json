@@ -1273,6 +1273,12 @@
             "guidelines": "https://github.com/hedgedoc/hedgedoc-logo/blob/main/USAGE_GUIDELINES.md"
         },
         {
+            "path": "./assets/heimdall.svg",
+            "name": "Heimdall",
+            "source": "https://heimdall.site/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/helm.svg",
             "name": "Helm",
             "source": "https://helm.sh/",
